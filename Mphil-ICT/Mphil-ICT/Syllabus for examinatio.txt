@@ -1,0 +1,308 @@
+
+Full Marks:                                                                100
+Numbers of Questions (Objective Based) no negative marking system:         100
+Durations of Entrance Examination:                                         2 Hours
+Courses Cover:                                                             100%
+
+
+
+
+
+Programming Concept and Programming Logic (25)
+            • Variables and constraint.
+            • Condition and loop concept.
+            • Array, structure and pointer.
+            • Stack, Ques and List.
+            • Sort, search and Tree. 
+
+
+
+Database (15) + Information System (10)
+              • Concept of Database and Models
+              • Relational Database, Relational Algebra and Normalization.
+              • Basic SQL
+              • Concept of Distributed Database
+              • File and Index
+              • Transactional Processing, concurrency control and recovery
+              • Software Development Life Cycle
+              • Requirement Analysis
+              • Software Testing.
+
+
+
+Computer Network and Architecture (25)
+                  • Communication Media and Network Architecture and OSI and TCP/IP
+                  • Network Security and IPv4
+                  • Modulation Techniques and Switching Techniques
+                  • Boolean Algebra and Fundamental of processor
+                  • Memory Organization and I/O Structure 
+
+
+
+
+Concept of Research (25)
+                (Research Methodology)
+                • Foundation of Research and Problem Identification & Formulation
+                • Research Design/Architecture
+                • Qualitative and Quantitative Research
+                • Data Analysis and Interpretation of Data and Proposal Writing
+                • Research Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+Programming Concept and Programming Logic (25)
+            • Variables and constraint.
+            • Condition and loop concept.
+            • Array, structure and pointer.
+            • Stack, Ques and List.
+            • Sort, search and Tree. 
+
+
+
+
+
+Programming Concept and Programming Logic
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Variables and Constraints
++++++++++++++++++++++++++++
+    Variables: Variables are named storage locations in memory used 
+    to hold data values that can be changed during program execution. 
+    Variables have a type (e.g., int, float, string) that defines 
+    the kind of data they store.
+    
+          Example: int age = 25;
+    
+    Constraints: Constraints are conditions or rules that variables 
+    must adhere to. They can be logical or mathematical restrictions 
+    imposed on the data.
+    
+        Example: Age should always be greater than zero: if (age > 0)
+
+
+
+2. Condition and Loop Concepts
++++++++++++++++++++++++++++++++++++
+      Conditions: Conditions are logical statements used to control
+      the flow of a program. They evaluate to either true or false.
+      
+          Example: if (x > 0) { printf("Positive number"); }
+
+
+
+
+      Loops: Loops allow repeated execution of a block of code until 
+      a specified condition is met.
+      
+      Types of Loops:
+      ---------------
+                For Loop: Iterates a fixed number of times.
+                
+                      Example: for (int i = 0; i < 10; i++) { printf("%d", i); }
+                
+                While Loop: Executes as long as the condition is true.
+                
+                      Example: while (x > 0) { x--; }
+                
+                Do-While Loop: Executes at least once, then checks the condition.
+                
+                      Example: do { x--; } while (x > 0);
+
+
+
+
+3. Array, Structure, and Pointer
++++++++++++++++++++++++++++++++++++++++++++
+            Array: A collection of elements of the same type, stored
+            in contiguous memory locations.
+            
+                  Example: int arr[5] = {1, 2, 3, 4, 5};
+            
+            Structure: A user-defined data type that groups variables 
+            of different types under one name.
+            
+                  Example:
+                  
+                  struct Person {
+                      char name[50];
+                      int age;
+                      float salary;
+                  };
+            
+            
+            Pointer: A variable that stores the memory address of another variable.
+            
+                    Example: int *ptr = &x;
+
+4. Stack, Queue, and List
+++++++++++++++++++++++++++++++++
+            Stack: A linear data structure that follows 
+            the Last In, First Out (LIFO) principle.
+            
+                  Operations: push, pop, peek
+            
+                  Example Use: Function call management in recursion.
+            
+            
+            
+            
+            Queue: A linear data structure that follows
+            the First In, First Out (FIFO) principle.
+            
+                  Operations: enqueue, dequeue
+                  
+                  Example Use: Task scheduling.
+            
+            
+            
+            List: A collection of elements that can be dynamic
+            in size and may allow duplicate values.
+            
+                  Example: Linked List (singly or doubly linked).
+
+
+
+
+5. Sort, Search, and Tree
+++++++++++++++++++++++++++++++++
+        Sorting: Organizing data in a specific order (ascending or descending).
+                
+                Common Algorithms:
+                
+                    Bubble Sort
+                    
+                    Quick Sort
+                    
+                    Merge Sort
+        
+        Example: Sorting an array of integers.
+        
+        Searching: Finding the location of an element in a dataset.
+        
+                Common Algorithms:
+                
+                    Linear Search
+                    
+                    Binary Search
+        
+                Example: Searching for a name in a list.
+        
+        
+        
+        Tree: A hierarchical data structure with nodes connected by edges.
+        
+                Types: Binary Tree, Binary Search Tree (BST), AVL Tree.
+                
+                Example: Directory structure in an operating system.
+                
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+Database (15) + Information System (10)
+              • Concept of Database and Models
+              • Relational Database, Relational Algebra and Normalization.
+              • Basic SQL
+              • Concept of Distributed Database
+              • File and Index
+              • Transactional Processing, concurrency control and recovery
+              • Software Development Life Cycle
+              • Requirement Analysis
+              • Software Testing.
+
+
+
+
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+Computer Network and Architecture (25)
+                  • Communication Media and Network Architecture and OSI and TCP/IP
+                  • Network Security and IPv4
+                  • Modulation Techniques and Switching Techniques
+                  • Boolean Algebra and Fundamental of processor
+                  • Memory Organization and I/O Structure 
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
+Concept of Research (25)
+                (Research Methodology)
+                • Foundation of Research and Problem Identification & Formulation
+                • Research Design/Architecture
+                • Qualitative and Quantitative Research
+                • Data Analysis and Interpretation of Data and Proposal Writing
+                • Research Tools
+
+
+****************************************************************************
+****************************************************************************
+****************************************************************************
