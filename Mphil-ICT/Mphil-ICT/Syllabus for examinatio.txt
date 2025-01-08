@@ -443,6 +443,356 @@ Key Steps to Develop Programming Logic
             
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Condition and loop concept.
++++++++++++++++++++++++++++++++++
+
+            1. Condition Concept
+            ---------------------------
+            Conditions allow a program to make decisions and 
+            execute specific blocks of code based on whether a 
+            condition is true or false.
+            
+            Key Conditional Statements:
+            ---------------------------
+            
+            if Statement:
+            ---------------------------
+            
+            Executes a block of code if the condition is true.
+
+
+                        Syntax:
+                        
+                                    if (condition) {
+                                        // Code to execute if condition is true
+                                    }
+            
+            
+                        Example:
+                     
+                                    int age = 20;
+                                    if (age >= 18) {
+                                        printf("Eligible to vote\n");
+                                    }
+                        
+            
+            
+            if-else Statement:
+            ---------------------------
+            Executes one block of code if the condition is true, 
+            otherwise another block is executed.
+
+
+
+                        Syntax:
+                      
+                                    if (condition) {
+                                        // Code if condition is true
+                                    } else {
+                                        // Code if condition is false
+                                    }
+            
+            
+                        Example:
+                     
+                                    int number = -5;
+                                    if (number >= 0) {
+                                        printf("Positive number\n");
+                                    } else {
+                                        printf("Negative number\n");
+                                    }
+                                    
+                        
+            
+            else if Ladder:
+            ---------------------------
+            Used to check multiple conditions.
+
+                        Syntax:
+                                
+                                    if (condition1) {
+                                        // Code if condition1 is true
+                                    } else if (condition2) {
+                                        // Code if condition2 is true
+                                    } else {
+                                        // Code if none of the conditions are true
+                                    }
+            
+            
+                        Example:
+                       
+            
+                                    int marks = 85;
+                                    if (marks >= 90) {
+                                        printf("Grade: A\n");
+                                    } else if (marks >= 75) {
+                                        printf("Grade: B\n");
+                                    } else {
+                                        printf("Grade: C\n");
+                                    }
+                                    
+                        
+            
+            switch Statement:
+            ---------------------------
+            Used for decision-making based on specific values.
+
+
+            Syntax:
+          
+                        switch (variable) {
+                            case value1:
+                                // Code for case 1
+                                break;
+                            case value2:
+                                // Code for case 2
+                                break;
+                            default:
+                                // Code if no cases match
+                        }
+
+
+            Example:
+       
+
+                        int day = 3;
+                        switch (day) {
+                            case 1: printf("Monday\n"); break;
+                            case 2: printf("Tuesday\n"); break;
+                            case 3: printf("Wednesday\n"); break;
+                            default: printf("Invalid day\n");
+                        }
+                        
+            
+            
+            
+            
+            
+            2. Loop Concept
+            ---------------------------
+            Loops are used to execute a block of code 
+            repeatedly based on a condition.
+
+
+            Types of Loops:
+            ---------------------------
+            
+            
+            1. for Loop:
+            ---------------------------
+            Used when the number of iterations is known.
+
+
+            Syntax:
+          
+
+                        for (initialization; condition; increment/decrement) {
+                            // Code to execute
+                        }
+
+
+            Example:
+           
+
+                        for (int i = 1; i <= 5; i++) {
+                            printf("%d ", i);
+                        }
+                        Output: 1 2 3 4 5
+                        
+                        
+            
+            
+            
+            2. while Loop:
+            ---------------------------
+            Used when the number of iterations is not known
+            beforehand, and it depends on a condition.
+           
+
+            Syntax:
+           
+                        while (condition) {
+                            // Code to execute
+                        }
+
+
+            Example:
+     
+
+                        int i = 1;
+                        while (i <= 5) {
+                            printf("%d ", i);
+                            i++;
+                        }
+                        Output: 1 2 3 4 5
+                        
+                        
+            
+            3. do-while Loop:
+            ---------------------------
+            Similar to the while loop, but ensures the code block
+            executes at least once, even if the condition is false.
+
+
+            Syntax:
+        
+            
+                        do {
+                            // Code to execute
+                        } while (condition);
+
+
+            Example:
+           
+            
+                        int i = 1;
+                        do {
+                            printf("%d ", i);
+                            i++;
+                        } while (i <= 5);
+                        Output: 1 2 3 4 5
+                        
+            
+            
+            
+            Nested Loops:
+            ---------------------------
+            Loops can be nested within one another to handle 
+            multi-dimensional data or complex logic.
+
+
+                        Example: Printing a multiplication table:
+                      
+                        for (int i = 1; i <= 5; i++) {
+                            for (int j = 1; j <= 5; j++) {
+                                printf("%d\t", i * j);
+                            }
+                            printf("\n");
+                        }
+            
+            
+                        Output:
+                        Copy code
+                        1  2  3  4  5
+                        2  4  6  8  10
+                        3  6  9  12 15
+                        4  8  12 16 20
+                        5  10 15 20 25
+                        
+            
+            
+            
+            Control Statements in Loops:
+            ---------------------------
+            break:
+            -------
+            Exits the loop immediately.
+
+            Example:
+     
+                        for (int i = 1; i <= 5; i++) {
+                            if (i == 3) {
+                                break;  // Exit the loop
+                            }
+                            printf("%d ", i);
+                        }
+                        Output: 1 2
+            
+            
+            
+            continue:
+            --------------
+            Skips the current iteration and proceeds to the next.
+
+            Example:
+         
+
+                        for (int i = 1; i <= 5; i++) {
+                            if (i == 3) {
+                                continue;  // Skip this iteration
+                            }
+                            printf("%d ", i);
+                        }
+                        Output: 1 2 4 5
+                        
+            
+            goto:
+            -------
+            Transfers control to a labeled statement (use with caution; not 
+            recommended for structured programming).
+
+
+            Example:
+          
+            
+                        int i = 1;
+                        start:
+                        printf("%d ", i);
+                        i++;
+                        if (i <= 5) {
+                            goto start;
+                        }
+                        Output: 1 2 3 4 5
+
+
+
+
+
+
+
+
+
+                        Example Program Combining Condition and Loops
+                        -------------------------------------------------
+                        
+                        
+                        Find the sum of all even numbers from 1 to 10:
+                        ----------------------------------------------
+                        #include <stdio.h>
+                        
+                        int main() {
+                            int sum = 0;
+                        
+                            for (int i = 1; i <= 10; i++) {
+                                if (i % 2 == 0) {  // Condition to check if the number is even
+                                    sum += i;      // Add the even number to the sum
+                                }
+                            }
+                        
+                            printf("Sum of even numbers from 1 to 10: %d\n", sum);
+                            return 0;
+                        }
+                        Output: Sum of even numbers from 1 to 10: 30
+                        
+
+
+
+
+
+
+
+
+
+Array, structure and pointer
++++++++++++++++++++++++++++++++++
+
+
+
+
 ****************************************************************************
 ****************************************************************************
 ****************************************************************************
