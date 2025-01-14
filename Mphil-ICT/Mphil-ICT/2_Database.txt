@@ -1,0 +1,21 @@
+Database (15) + Information System (10)
+              • Concept of Database and Models
+              • Relational Database, Relational Algebra and Normalization.
+              • Basic SQL
+              • Concept of Distributed Database
+              • File and Index
+              • Transactional Processing, concurrency control and recovery
+              • Software Development Life Cycle
+              • Requirement Analysis
+              • Software Testing.
+
+
+
+
+
+
+
+
+
+
+              
