@@ -1,0 +1,16 @@
+
+
+Computer Network and Architecture (25)
+                  • Communication Media and Network Architecture and OSI and TCP/IP
+                  • Network Security and IPv4
+                  • Modulation Techniques and Switching Techniques
+                  • Boolean Algebra and Fundamental of processor
+                  • Memory Organization and I/O Structure 
+
+
+
+
+
+
+
+
