@@ -1,1 +1,91 @@
-Concept of Research
+Concept of Research (25)
+===========================
+          (Research Methodology)
+          • Foundation of Research and Problem Identification & Formulation
+          • Research Design/Architecture
+          • Qualitative and Quantitative Research
+          • Data Analysis and Interpretation of Data and Proposal Writing
+          • Research Tools
+
+
+
+
+
+Concept of Research (Research Methodology)
+================================================
+          
+          Foundation of Research and Problem Identification & Formulation
+          ---------------------------------------------------------------
+                Understanding the purpose of research and its role
+                in advancing knowledge.
+                
+                Identifying and formulating a research problem: the 
+                starting point for any study.
+                
+                Defining the research question, objectives, and hypothesis.
+                
+          
+          
+          Research Design/Architecture
+          -----------------------------
+                The blueprint for conducting research.
+                
+                Types of research designs: descriptive, 
+                exploratory, experimental, etc.
+                
+                Key elements: sampling methods, data 
+                collection methods, tools, and analysis techniques.
+          
+          
+          
+          
+          Qualitative and Quantitative Research
+          --------------------------------------------------------------------
+                Qualitative Research:
+                    Focuses on understanding phenomena, behaviors, and social 
+                    contexts. Methods include interviews, focus groups, and case studies.
+                
+                Quantitative Research:
+                    Focuses on numerical data and statistical analysis. Methods
+                    include surveys, experiments, and observations.
+              
+          
+          
+          Data Analysis and Interpretation of Data
+          --------------------------------------------------------------------
+                  Analyzing data using appropriate statistical 
+                  or qualitative methods.
+                  
+                  Interpreting results to draw meaningful conclusions
+                  and make informed decisions.
+                  
+                  Data validation and ensuring reliability and validity.
+                  
+          
+          
+          Proposal Writing
+          --------------------------------------------------------------------
+                Crafting a detailed research proposal that outlines 
+                objectives, methodology, and expected outcomes.
+                
+                A proposal includes the problem statement, literature 
+                review, research design, timeline, and budget considerations.
+          
+          
+          
+          
+          Research Tools
+          --------------------------------------------------------------------
+                Tools for data collection (e.g., surveys, questionnaires, software for analysis).
+                
+                Statistical tools like SPSS, R, or Python for quantitative data.
+                
+                Qualitative analysis software like NVivo for coding and analyzing non-numerical data.
+                
+          
+
+
+
+
+
+
