@@ -20,70 +20,117 @@ Database (15) + Information System (10)
 
 Database (15 marks)
 ------------------------------
-Concept of Database and Models
-    Definition and importance of databases
-    Types of database models (Hierarchical, Network, Relational, and Object-oriented)
-
-
-
-Relational Database, Relational Algebra, and Normalization
-    Relational Database concepts (tables, attributes, keys)
-    Relational Algebra operations (Selection, Projection, Union, Join, etc.)
-    Normalization: Forms (1NF, 2NF, 3NF, BCNF) and their benefits
-    
-
-
-Basic SQL
-    Data Definition Language (DDL)
-    Data Manipulation Language (DML)
-    SQL queries (SELECT, INSERT, UPDATE, DELETE)
-    
-
-
-
-Concept of Distributed Database
-    Features and challenges of distributed databases
-    Distributed database architecture
-    
-
-
-File and Index
-    File organization (heap, sequential, indexed)
-    Types of indexes (primary, secondary, clustered)
-    
-
-
-
-Transactional Processing, Concurrency Control, and Recovery
-      ACID properties
-      Concurrency control mechanisms (locks, timestamps)
-      Recovery methods (log-based recovery, shadow paging)
-      
+          Concept of Database and Models
+              Definition and importance of databases
+              Types of database models (Hierarchical, Network, Relational, and Object-oriented)
+          
+          
+          
+          Relational Database, Relational Algebra, and Normalization
+              Relational Database concepts (tables, attributes, keys)
+              Relational Algebra operations (Selection, Projection, Union, Join, etc.)
+              Normalization: Forms (1NF, 2NF, 3NF, BCNF) and their benefits
+              
+          
+          
+          Basic SQL
+              Data Definition Language (DDL)
+              Data Manipulation Language (DML)
+              SQL queries (SELECT, INSERT, UPDATE, DELETE)
+              
+          
+          
+          
+          Concept of Distributed Database
+              Features and challenges of distributed databases
+              Distributed database architecture
+              
+          
+          
+          File and Index
+              File organization (heap, sequential, indexed)
+              Types of indexes (primary, secondary, clustered)
+              
+          
+          
+          
+          Transactional Processing, Concurrency Control, and Recovery
+                ACID properties
+                Concurrency control mechanisms (locks, timestamps)
+                Recovery methods (log-based recovery, shadow paging)
+                
 
 
 
 Information System (10 marks)
 ------------------------------
-Software Development Life Cycle (SDLC)
-      Phases: Planning, Analysis, Design, Implementation, Maintenance
-
-
-
-Requirement Analysis
-      Gathering requirements
-      Tools for analysis (Use Cases, Data Flow Diagrams, ER Diagrams)
-
-
-
-Software Testing
-      Testing levels: Unit, Integration, System, Acceptance
-      Testing types: Functional vs. Non-functional testing
-      
-
-
+        Software Development Life Cycle (SDLC)
+              Phases: Planning, Analysis, Design, Implementation, Maintenance
+        
+        
+        
+        Requirement Analysis
+              Gathering requirements
+              Tools for analysis (Use Cases, Data Flow Diagrams, ER Diagrams)
+        
+        
+        
+        Software Testing
+              Testing levels: Unit, Integration, System, Acceptance
+              Testing types: Functional vs. Non-functional testing
+              
+        
+        
 
 
 -----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Concept of Database and Models
@@ -105,7 +152,8 @@ Concept of Database and Models
                     Data is represented as a graph, with multiple 
                     parent-child relationships.
                     Example Scenario: Airline routes showing multiple connections.
-                
+
+
                 Relational Model:
                     Data is stored in tables with rows and 
                     columns.
