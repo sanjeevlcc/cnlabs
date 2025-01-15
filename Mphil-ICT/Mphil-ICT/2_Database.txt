@@ -429,50 +429,324 @@ Indexing
 Indexing is a technique that improves query performance by creating
 a data structure (like a B-tree) that helps quickly locate records.
 
-      Primary Index:
-          Created on the primary key.
-          Example: An index on EmployeeID in an employee table.
-      
-      
-      Secondary Index:
-          Created on non-primary keys for faster lookups.
-          Example: An index on DepartmentName in an employee table for quick search.
-      
-      Clustered Index:
-          Organizes the data file itself according to the indexed columns.
-          Example: Data sorted by EmployeeID.
-      
-      
-      
-      Non-Clustered Index:
-          A separate index structure that points to data locations.
-          Example: Indexes on Salary for faster search without changing data order.
-
-
-
-
-
-
-Example Scenario
-      Consider a library database with a Books table:
-      
-      File: Books are stored in a heap file.
-      Index: A non-clustered index is created on ISBN for fast 
-          lookup when searching by book number.
-
-
-
-
-
-
-Q&A
-          Q1: What is the main advantage of indexing?
-          A: Indexing speeds up data retrieval by providing quick access paths to
-             the data.
+          Primary Index:
+              Created on the primary key.
+              Example: An index on EmployeeID in an employee table.
           
-          Q2: How do sequential files differ from heap files?
-          A: Sequential files store data in sorted order, making them efficient
-             for range queries, while heap files store data in an unordered fashion.
+          
+          Secondary Index:
+              Created on non-primary keys for faster lookups.
+              Example: An index on DepartmentName in an employee table for quick search.
+          
+          Clustered Index:
+              Organizes the data file itself according to the indexed columns.
+              Example: Data sorted by EmployeeID.
+          
+          
+          
+          Non-Clustered Index:
+              A separate index structure that points to data locations.
+              Example: Indexes on Salary for faster search without changing data order.
+    
+    
+    
+    
+    
+    
+    Example Scenario
+          Consider a library database with a Books table:
+          
+          File: Books are stored in a heap file.
+          Index: A non-clustered index is created on ISBN for fast 
+              lookup when searching by book number.
+    
+    
+    
+    
+    
+    
+    Q&A
+              Q1: What is the main advantage of indexing?
+              A: Indexing speeds up data retrieval by providing quick access paths to
+                 the data.
+              
+              Q2: How do sequential files differ from heap files?
+              A: Sequential files store data in sorted order, making them efficient
+                 for range queries, while heap files store data in an unordered fashion.
+
+
+
+
+
+
+
++++++++++++++++++++++++++++
+Objective Questions
++++++++++++++++++++++++++++
+
+Concept of Database and Models
+-----------------------------------
+MCQ: Which database model uses a tree structure?
+a) Relational Model
+b) Hierarchical Model
+c) Network Model
+d) Object-Oriented Model
+
+True/False: In a relational database, data is organized into rows and columns.
+
+Fill in the Blank: The __________ model organizes data into nodes connected by edges, forming a graph-like structure.
+
+MCQ: Which of the following is not a database model?
+a) Hierarchical
+b) Tabular
+c) Network
+d) Relational
+
+True/False: The relational model is the most widely used database model in modern systems.
+
+Fill in the Blank: A database is a __________ collection of data that supports storage and retrieval.
+
+MCQ: Which database model combines programming features with data storage?
+a) Hierarchical Model
+b) Object-Oriented Model
+c) Relational Model
+d) Network Model
+
+
+
+
+
+
+
+
+
+Relational Database, Relational Algebra, and Normalization
+-------------------------------------------------------
+MCQ: What is the primary operation of relational algebra to filter rows?
+a) Projection
+b) Selection
+c) Join
+d) Union
+
+True/False: In normalization, 1NF ensures no transitive dependencies.
+
+Fill in the Blank: A relation is in __________ form if all attributes contain atomic values only.
+
+MCQ: Which relational algebra operation combines tables based on a common attribute?
+a) Selection
+b) Cartesian Product
+c) Join
+d) Projection
+
+True/False: Normalization reduces data redundancy in databases.
+
+Fill in the Blank: The third normal form eliminates __________ dependencies.
+
+MCQ: What is the result of a π operation in relational algebra?
+a) A filtered table with fewer rows
+b) A table with selected columns
+c) A combined table from two relations
+d) A sorted table
+
+True/False: Partial dependency occurs when a non-prime attribute is dependent on part of a candidate key.
+
+Fill in the Blank: __________ is the process of organizing a database to reduce redundancy and improve integrity.
+
+
+
+
+
+
+Basic SQL
+--------------
+MCQ: Which SQL command is used to create a table?
+a) INSERT
+b) CREATE
+c) SELECT
+d) UPDATE
+
+True/False: The DELETE command removes both data and the table structure.
+
+Fill in the Blank: The SQL command used to retrieve specific data is __________.
+
+MCQ: What does UPDATE command do in SQL?
+a) Deletes data from the table
+b) Modifies existing data in the table
+c) Creates a new table
+d) Retrieves data from the table
+
+True/False: The WHERE clause is used to filter rows in an SQL query.
+
+Fill in the Blank: A __________ is a virtual table in SQL created using a query.
+
+MCQ: Which of the following is not part of DML?
+a) SELECT
+b) INSERT
+c) DELETE
+d) DROP
+
+True/False: An index in SQL speeds up data retrieval.
+
+Fill in the Blank: The __________ clause is used to sort query results in ascending or descending order.
+
+
+
+
+Concept of Distributed Database
+-------------------------------------
+MCQ: Which of the following is a feature of a distributed database?
+a) Centralized control
+b) Fault tolerance
+c) Lack of scalability
+d) None of the above
+
+True/False: Distributed databases store all data on a single server.
+
+Fill in the Blank: __________ transparency allows users to query distributed data as if it were a single system.
+
+MCQ: In distributed databases, data can be stored using:
+a) Fragmentation
+b) Replication
+c) Both a and b
+d) None of the above
+
+True/False: Fault tolerance is not a primary goal of distributed databases.
+
+Fill in the Blank: A __________ database is a logically interrelated set of databases distributed across locations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File and Index
+-----------------
+MCQ: Which file organization method stores data in no specific order?
+a) Sequential
+b) Heap
+c) Indexed
+d) Clustered
+
+True/False: A primary index is created on non-key attributes.
+
+Fill in the Blank: __________ indexing uses a tree-like structure for fast data retrieval.
+
+MCQ: Which indexing method organizes the data file based on the indexed column?
+a) Non-clustered Index
+b) Clustered Index
+c) Primary Index
+d) None of the above
+
+True/False: Sequential files are efficient for range queries.
+
+
+
+
+
+
+
+
+
+
+
+Transactional Processing, Concurrency Control, and Recovery
+-----------------------------------
+MCQ: What does ACID stand for in transactional processing?
+a) Atomicity, Consistency, Isolation, Durability
+b) Accuracy, Clarity, Isolation, Durability
+c) Atomicity, Consistency, Integrity, Durability
+d) None of the above
+
+True/False: Concurrency control ensures that transactions occur sequentially.
+
+Fill in the Blank: A __________ schedule ensures that transactions execute in the same order as they would in a serial execution.
+
+MCQ: Which recovery technique uses a log to undo or redo transactions?
+a) Shadow Paging
+b) Log-Based Recovery
+c) Replication
+d) None of the above
+
+
+
+
+
+Answers
+---------
+b
+True
+Network
+b
+True
+structured
+b
+
+
+
+
+b
+False
+1NF
+c
+True
+transitive
+b
+True
+Normalization
+
+
+
+
+
+b
+False
+SELECT
+b
+True
+View
+d
+True
+ORDER BY
+
+
+
+
+b
+False
+Location
+c
+False
+Distributed
+
+
+
+
+b
+False
+B-Tree
+b
+True
+
+
+
+
+a
+False
+serializable
+b
+
+
+
+
 
 
 
