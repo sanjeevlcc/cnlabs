@@ -158,9 +158,457 @@ https://www.javatpoint.com/computer-network-tutorial
 
 
 
+=======================================================================
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Communication Media Network Questions
+*********************************************
+
+
+
+
+
+Basic Questions (MCQs, True/False, Fill in the Blanks)
+-----------------------------------------------------------
+
+MCQ: What does OSI stand for in networking? a. Open System Interconnection b. Open Source Internet c. Operational System Interface d. Organized System Interlink
+
+MCQ: Which layer of the OSI model is responsible for routing? a. Physical b. Data Link c. Network d. Application
+
+True/False: TCP/IP is a four-layered protocol architecture.
+
+Fill in the Blank: The _____ layer in the OSI model ensures error-free delivery of data.
+
+MCQ: Ethernet is an example of which type of communication media? a. Wireless b. Fiber Optic c. Coaxial d. Wired
+
+MCQ: What is the primary purpose of the TCP protocol? a. Routing b. Error Checking c. Address Resolution d. Reliable Data Transfer
+
+True/False: The Physical layer of the OSI model deals with hardware transmission.
+
+Fill in the Blank: The _____ layer of the TCP/IP model corresponds to the Session, Presentation, and Application layers of the OSI model.
+
+MCQ: Which topology connects each device to a central hub? a. Bus b. Ring c. Star d. Mesh
+
+True/False: IP is a connection-oriented protocol.
+
+Fill in the Blank: In a _____ topology, every device is connected to every other device.
+
+MCQ: Which layer in OSI model provides encryption services? a. Transport b. Application c. Presentation d. Network
+
+True/False: A coaxial cable provides higher bandwidth compared to twisted-pair cables.
+
+Fill in the Blank: TCP stands for _____.
+
+MCQ: Which layer of the TCP/IP model handles email applications? a. Transport b. Internet c. Application d. Network Access
+
+True/False: Fiber-optic cables use light for data transmission.
+
+Fill in the Blank: The TCP/IP model does not have a dedicated _____ layer compared to OSI.
+
+MCQ: What is the maximum length of a twisted-pair cable for Ethernet networks? a. 100 meters b. 200 meters c. 500 meters d. 1000 meters
+
+True/False: UDP is a reliable transport protocol.
+
+Fill in the Blank: The _____ protocol is responsible for translating domain names to IP addresses.
+
+Intermediate Questions (MCQs, True/False, Fill in the Blanks)
+
+MCQ: Which protocol operates at the Transport layer of the OSI model? a. HTTP b. TCP c. FTP d. ARP
+
+MCQ: Which OSI layer is responsible for data compression? a. Application b. Session c. Presentation d. Network
+
+True/False: The MAC address is a hardware address unique to each network interface.
+
+Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
+
+MCQ: Which type of communication media is immune to electromagnetic interference? a. Coaxial b. Twisted Pair c. Fiber Optic d. Wireless
+
+True/False: ARP is used to map IP addresses to MAC addresses.
+
+Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
+
+MCQ: Which layer of the OSI model ensures reliable data transfer? a. Network b. Transport c. Data Link d. Physical
+
+True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
+
+Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
+
+MCQ: The handshake process occurs in which TCP/IP layer? a. Application b. Transport c. Internet d. Network Access
+
+
+
+----------------------------------------------------
+Basic:
+
+1. a, 2. c, 3. True, 4. Transport, 5. d, 6. d, 7. True,  
+8. Application, 9. c, 10. False, 11. Mesh, 12. c,
+13. True, 14. Transmission Control Protocol, 15. c,
+16. True, 17. Session, 18. a, 19. False, 20. DNS.
+----------------------------------------------------
+
+
+
+
+
+
+
+
+Intermediate Questions (MCQs, True/False, Fill in the Blanks)
+----------------------------------------------------------------
+MCQ: Which protocol operates at the Transport layer of the OSI model?
+a. HTTP
+b. TCP
+c. FTP
+d. ARP
+
+MCQ: Which OSI layer is responsible for data compression?
+a. Application
+b. Session
+c. Presentation
+d. Network
+
+True/False: The MAC address is a hardware address unique to each network interface.
+
+Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
+
+MCQ: Which type of communication media is immune to electromagnetic interference?
+a. Coaxial
+b. Twisted Pair
+c. Fiber Optic
+d. Wireless
+
+True/False: ARP is used to map IP addresses to MAC addresses.
+
+Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
+
+MCQ: Which layer of the OSI model ensures reliable data transfer?
+a. Network
+b. Transport
+c. Data Link
+d. Physical
+
+True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
+
+Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
+
+MCQ: The handshake process occurs in which TCP/IP layer?
+a. Application
+b. Transport
+c. Internet
+d. Network Access
+
+True/False: HTTP is a stateless protocol.
+
+Fill in the Blank: The _____ protocol is used for file transfer between a client and a server without encryption.
+
+MCQ: What is the purpose of the Data Link layer in the OSI model?
+a. Packet routing
+b. Physical addressing
+c. Network topology
+d. Application services
+
+True/False: A star topology uses a central hub or switch for communication.
+
+Fill in the Blank: In IPv4, there are _____ octets in an address.
+
+MCQ: Which protocol provides dynamic assignment of IP addresses?
+a. ARP
+b. DHCP
+c. DNS
+d. ICMP
+
+True/False: TCP uses port numbers to identify processes.
+
+Fill in the Blank: The _____ protocol provides secure, encrypted connections for web communication.
+
+MCQ: Which layer in OSI is responsible for packet framing?
+a. Physical
+b. Data Link
+c. Network
+d. Session
+
+
+
+
+
+
+------------------------------------
+Intermediate:
+
+1. b, 2. c, 3. True, 4. Transport, 5. c, 
+6. True, 7. POP3, 8. b, 9. True, 10. Session, 
+11. b, 12. True, 13. FTP, 14. b, 15. True, 
+16. Four, 17. b, 18. True, 19. HTTPS, 20. b.
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Questions (MCQs, True/False, Fill in the Blanks)
+-----------------------------------------------------------------
+MCQ: Which protocol in the Internet layer is used for error reporting?
+a. ICMP
+b. ARP
+c. RARP
+d. DHCP
+
+True/False: VLANs operate at Layer 2 of the OSI model.
+
+Fill in the Blank: _____ is a protocol used for transferring web pages from servers to clients.
+
+MCQ: The concept of subnetting is implemented at which layer of the OSI model?
+a. Data Link
+b. Network
+c. Transport
+d. Session
+
+True/False: The Session layer provides flow control mechanisms.
+
+Fill in the Blank: The _____ protocol is used for real-time audio and video transmission over IP networks.
+
+MCQ: Which type of routing protocol uses the shortest path first algorithm?
+a. Distance Vector
+b. Link State
+c. Hybrid
+d. Static
+
+True/False: IPv6 addresses are 128 bits long.
+
+Fill in the Blank: The OSI model’s _____ layer is concerned with the format and syntax of data.
+
+MCQ: What does DNS stand for?
+a. Domain Naming Structure
+b. Domain Name System
+c. Data Network Services
+d. Digital Name Server
+
+True/False: Multicast addresses are used for one-to-many communication.
+
+Fill in the Blank: The _____ layer is responsible for maintaining data integrity across sessions in OSI.
+
+MCQ: Which of the following protocols is used to monitor network devices?
+a. FTP
+b. SNMP
+c. SMTP
+d. DNS
+
+True/False: In a peer-to-peer network, there is no centralized server.
+
+Fill in the Blank: _____ is a transport layer protocol designed for fast, lightweight, and unreliable communication.
+
+MCQ: Which of these is a connectionless protocol?
+a. TCP
+b. UDP
+c. FTP
+d. Telnet
+
+True/False: MPLS is used for routing packets efficiently in large-scale networks.
+
+Fill in the Blank: The _____ protocol is used to translate private IP addresses to public IP addresses.
+
+MCQ: What is the main advantage of a mesh topology?
+a. Cost efficiency
+b. High redundancy
+c. Easy installation
+d. Limited connections
+
+True/False: NAT is implemented at the Network layer of the OSI model.
+
+
+
+
+
+------------------------------------------
+Advanced:
+
+1. a, 2. True, 3. HTTP, 4. b, 5. False, 6. RTP,
+7. b, 8. True, 9. Presentation, 10. b, 11. True, 
+12. Transport, 13. b, 14. True, 15. UDP,
+16. b, 17. True, 18. NAT, 19. b, 20. True.
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+
+*********************************************
+
+
+
+
+
+
+-----------------------------------------------------------
 
 
 
