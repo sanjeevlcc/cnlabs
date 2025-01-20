@@ -14,3 +14,162 @@ Computer Network and Architecture (25)
 
 
 
+
+
+
+https://www.javatpoint.com/computer-network-tutorial
+
+
+1. Communication Media and Network Architecture
+----------------------------------------------------------
+    Communication Media:
+        
+        Wired Media: Twisted pair cables, coaxial cables, and fiber optics.
+        
+        Wireless Media: Radio waves, microwaves, and infrared.
+        
+        Characteristics: Bandwidth, latency, noise resistance, and signal attenuation.
+    
+    
+    
+    Network Architecture:
+    
+        OSI Model:
+        
+            Seven layers: Physical, Data Link, Network, Transport,
+            Session, Presentation, Application.
+        
+            Provides standard protocols for interoperability.
+        
+        TCP/IP Model:
+        
+            Four layers: Network Access, Internet, Transport, Application.
+            
+            Focuses on the practical implementation of networking protocols.
+    
+    
+
+
+
+2. Network Security and IPv4
+------------------------------------
+      Network Security:
+      
+          Ensures confidentiality, integrity, and availability of data.
+      
+          Techniques include encryption, firewalls, intrusion 
+          detection systems, and secure protocols like SSL/TLS.
+      
+      
+      
+      IPv4:
+      
+          A 32-bit addressing scheme with approximately 4.3 billion unique addresses.
+          
+          Address format: Dotted decimal notation (e.g., 192.168.1.1).
+          
+          Supports protocols like ARP, ICMP, and DHCP.
+
+
+
+
+
+
+3. Modulation Techniques and Switching Techniques
+------------------------------------------------------
+        Modulation Techniques:
+        
+              Analog Modulation: 
+                  Amplitude Modulation (AM), 
+                  Frequency Modulation (FM), and 
+                  Phase Modulation (PM).
+                                
+              Digital Modulation: 
+                  ASK, FSK, PSK, and QAM.
+
+
+
+        Switching Techniques:
+        
+              Circuit Switching: 
+                  Establishes a dedicated path before communication.
+              
+              Packet Switching: 
+                  Data is divided into packets, routed independently.
+              
+              Message Switching: 
+                  Entire message is sent to the intermediate node
+                  and stored until forwarded.
+
+
+
+
+4. Boolean Algebra and Fundamentals of Processor
+------------------------------------------------------
+        Boolean Algebra:
+        
+              Mathematical approach for binary systems.
+              
+              Operators: AND, OR, NOT, NAND, NOR, XOR, XNOR.
+              
+              Applications in logic gate design and digital circuits.
+
+
+
+
+        Fundamentals of Processor:
+        
+              Central Processing Unit (CPU): Performs arithmetic and logical operations.
+              
+              Components: Control Unit (CU), Arithmetic Logic Unit (ALU), Registers.
+              
+              Instruction cycle: Fetch, Decode, Execute, and Store.
+        
+
+
+
+
+5. Memory Organization and I/O Structure
+---------------------------------------------
+        Memory Organization:
+        
+              Types: Primary (RAM, ROM), 
+              Secondary (Hard Drives, SSDs), 
+              Cache, and Virtual Memory.
+        
+        Hierarchical structure to optimize performance and cost.
+        
+        Access methods: Random access, sequential access.
+
+
+
+      
+      I/O Structure:
+      
+            Input/Output devices interface with the CPU through buses.
+      
+            Techniques: Programmed I/O, Interrupt-driven I/O, Direct Memory Access (DMA).
+      
+            Ensures smooth data flow between peripherals and the processor.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
