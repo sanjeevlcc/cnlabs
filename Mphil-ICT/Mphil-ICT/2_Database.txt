@@ -884,73 +884,74 @@ Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
-MCQ: What is a database?
-a. A collection of data
-b. A collection of interrelated data
-c. A set of unrelated data
-d. A software program
+1. MCQ: What is a database?
+   a. A collection of data  
+   b. A collection of interrelated data  
+   c. A set of unrelated data  
+   d. A software program  
 
-True/False: A relational database stores data in the form of tables.
+2. True/False: A relational database stores data in the form of tables.  
 
-Fill in the Blank: A ���� is a logical structure of the database defined by its relationships.
+3. Fill in the Blank: A ���� is a logical structure of the database defined by its relationships.  
 
-MCQ: Which model uses a tree-like structure?
-a. Hierarchical Model
-b. Network Model
-c. Relational Model
-d. Object-Oriented Model
+4. MCQ: Which model uses a tree-like structure?  
+   a. Hierarchical Model  
+   b. Network Model  
+   c. Relational Model  
+   d. Object-Oriented Model  
 
-True/False: In the relational model, data is represented as a collection of entities and relationships.
+5. True/False: In the relational model, data is represented as a collection of entities and relationships.  
 
-Fill in the Blank: In a relational database, ���� are used to uniquely identify each row.
+6. Fill in the Blank: In a relational database, ���� are used to uniquely identify each row.  
 
-MCQ: What is a primary key?
-a. A unique identifier for a table row
-b. A column with duplicate values
-c. A key that connects two tables
-d. A default database key
+7. MCQ: What is a primary key?  
+   a. A unique identifier for a table row  
+   b. A column with duplicate values  
+   c. A key that connects two tables  
+   d. A default database key  
 
-True/False: The entity-relationship model is used for data modeling.
+8. True/False: The entity-relationship model is used for data modeling.  
 
-Fill in the Blank: A ���� is a property or characteristic of an entity.
+9. Fill in the Blank: A ���� is a property or characteristic of an entity.  
 
-MCQ: Which of the following is a type of database model?
-a. Tabular Model
-b. Relational Model
-c. Chart Model
-d. Analytical Model
+10. MCQ: Which of the following is a type of database model?  
+    a. Tabular Model  
+    b. Relational Model  
+    c. Chart Model  
+    d. Analytical Model  
 
-True/False: A foreign key is used to establish a relationship between tables.
+11. True/False: A foreign key is used to establish a relationship between tables.  
 
-Fill in the Blank: The ���� defines the structure and rules of a database.
+12. Fill in the Blank: The ���� defines the structure and rules of a database.  
 
-MCQ: Which of the following is NOT a database model?
-a. Relational Model
-b. Hierarchical Model
-c. Network Model
-d. Data Flow Model
+13. MCQ: Which of the following is NOT a database model?  
+    a. Relational Model  
+    b. Hierarchical Model  
+    c. Network Model  
+    d. Data Flow Model  
 
-True/False: An index is used to speed up data retrieval in a database.
+14. True/False: An index is used to speed up data retrieval in a database.  
 
-Fill in the Blank: A ���� is a predefined query stored in a database.
+15. Fill in the Blank: A ���� is a predefined query stored in a database.  
 
-MCQ: What does DDL stand for?
-a. Data Derived Language
-b. Data Definition Language
-c. Data Descriptive Language
-d. Data Design Language
+16. MCQ: What does DDL stand for?  
+    a. Data Derived Language  
+    b. Data Definition Language  
+    c. Data Descriptive Language  
+    d. Data Design Language  
 
-True/False: SQL is a language used to interact with databases.
+17. True/False: SQL is a language used to interact with databases.  
 
-Fill in the Blank: The ���� schema provides the physical storage details of the database.
+18. Fill in the Blank: The ���� schema provides the physical storage details of the database.  
 
-MCQ: Which component ensures data consistency in databases?
-a. Index
-b. Trigger
-c. Constraint
-d. Procedure
+19. MCQ: Which component ensures data consistency in databases?  
+    a. Index  
+    b. Trigger  
+    c. Constraint  
+    d. Procedure  
 
-True/False: A database management system (DBMS) allows users to interact with the database.
+20. True/False: A database management system (DBMS) allows users to interact with the database.  
+
 
 ---------------------------------------
 Basic: 1. b, 2. True, 3. Schema, 4. a, 5. False, 
@@ -968,75 +969,75 @@ Basic: 1. b, 2. True, 3. Schema, 4. a, 5. False,
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
+1. MCQ: Which normalization form eliminates partial dependency?  
+   a. 1NF  
+   b. 2NF  
+   c. 3NF  
+   d. BCNF  
+
+2. True/False: Composite keys are formed by combining two or more attributes to uniquely identify a row.  
+
+3. Fill in the Blank: A ���� is a logical unit that groups database elements for specific purposes.  
+
+4. MCQ: Which operation retrieves data from multiple tables?  
+   a. Join  
+   b. Project  
+   c. Union  
+   d. Select  
+
+5. True/False: The term "cardinality" refers to the uniqueness of data values.  
+
+6. Fill in the Blank: In a hierarchical model, the topmost node is called the ����.  
+
+7. MCQ: Which clause in SQL is used to filter query results?  
+   a. WHERE  
+   b. GROUP BY  
+   c. HAVING  
+   d. ORDER BY  
+
+8. True/False: A database transaction must maintain the ACID properties.  
+
+9. Fill in the Blank: The ���� model is based on object-oriented programming principles.  
+
+10. MCQ: What is the purpose of a foreign key?  
+    a. To store foreign data  
+    b. To enforce referential integrity  
+    c. To generate unique identifiers  
+    d. To act as a primary key  
+
+11. True/False: A clustered index changes the physical order of rows in a table.  
+
+12. Fill in the Blank: The process of summarizing detailed data is known as ����.  
+
+13. MCQ: Which of the following is NOT part of the ACID properties?  
+    a. Atomicity  
+    b. Consistency  
+    c. Integrity  
+    d. Durability  
+
+14. True/False: A surrogate key is a system-generated primary key.  
+
+15. Fill in the Blank: The ���� operation in SQL combines data from two tables with a common column.  
+
+16. MCQ: Which SQL keyword is used to sort query results?  
+    a. SORT BY  
+    b. ORDER BY  
+    c. ARRANGE BY  
+    d. GROUP BY  
+
+17. True/False: The UNIQUE constraint allows duplicate values in a column.  
+
+18. Fill in the Blank: A ���� is used to enforce rules on data in a database.  
+
+19. MCQ: Which database model is most suitable for handling complex relationships?  
+    a. Relational Model  
+    b. Hierarchical Model  
+    c. Network Model  
+    d. Object-Oriented Model  
+
+20. True/False: Denormalization improves database performance at the cost of redundancy.  
 
 
-MCQ: Which normalization form eliminates partial dependency?
-a. 1NF
-b. 2NF
-c. 3NF
-d. BCNF
-
-True/False: Composite keys are formed by combining two or more attributes to uniquely identify a row.
-
-Fill in the Blank: A ���� is a logical unit that groups database elements for specific purposes.
-
-MCQ: Which operation retrieves data from multiple tables?
-a. Join
-b. Project
-c. Union
-d. Select
-
-True/False: The term "cardinality" refers to the uniqueness of data values.
-
-Fill in the Blank: In a hierarchical model, the topmost node is called the ����.
-
-MCQ: Which clause in SQL is used to filter query results?
-a. WHERE
-b. GROUP BY
-c. HAVING
-d. ORDER BY
-
-True/False: A database transaction must maintain the ACID properties.
-
-Fill in the Blank: The ���� model is based on object-oriented programming principles.
-
-MCQ: What is the purpose of a foreign key?
-a. To store foreign data
-b. To enforce referential integrity
-c. To generate unique identifiers
-d. To act as a primary key
-
-True/False: A clustered index changes the physical order of rows in a table.
-
-Fill in the Blank: The process of summarizing detailed data is known as ����.
-
-MCQ: Which of the following is NOT part of the ACID properties?
-a. Atomicity
-b. Consistency
-c. Integrity
-d. Durability
-
-True/False: A surrogate key is a system-generated primary key.
-
-Fill in the Blank: The ���� operation in SQL combines data from two tables with a common column.
-
-MCQ: Which SQL keyword is used to sort query results?
-a. SORT BY
-b. ORDER BY
-c. ARRANGE BY
-d. GROUP BY
-
-True/False: The UNIQUE constraint allows duplicate values in a column.
-
-Fill in the Blank: A ���� is used to enforce rules on data in a database.
-
-MCQ: Which database model is most suitable for handling complex relationships?
-a. Relational Model
-b. Hierarchical Model
-c. Network Model
-d. Object-Oriented Model
-
-True/False: Denormalization improves database performance at the cost of redundancy.
 
 ---------------------------------------
 Intermediate: 1. b, 2. True, 3. Schema, 4. a,
@@ -1055,75 +1056,73 @@ Advanced Questions (MCQs, True/False, Fill in the Blanks)
 
 
 
+1. MCQ: Which of the following is a characteristic of NoSQL databases?  
+   a. Fixed schema  
+   b. Tabular data storage  
+   c. Horizontal scalability  
+   d. Complex join operations  
 
-MCQ: Which of the following is a characteristic of NoSQL databases?
-a. Fixed schema
-b. Tabular data storage
-c. Horizontal scalability
-d. Complex join operations
+2. True/False: A star schema is commonly used in data warehousing.  
 
-True/False: A star schema is commonly used in data warehousing.
+3. Fill in the Blank: The technique of dividing a database into smaller parts is known as ����.  
 
-Fill in the Blank: The technique of dividing a database into smaller parts is known as ����.
+4. MCQ: Which indexing method is best suited for range queries?  
+   a. Hash Indexing  
+   b. B-Tree Indexing  
+   c. Bitmap Indexing  
+   d. Full-Text Indexing  
 
-MCQ: Which indexing method is best suited for range queries?
-a. Hash Indexing
-b. B-Tree Indexing
-c. Bitmap Indexing
-d. Full-Text Indexing
+5. True/False: Partitioning helps in managing large datasets efficiently.  
 
-True/False: Partitioning helps in managing large datasets efficiently.
+6. Fill in the Blank: A ���� view does not store data but retrieves it dynamically from the base tables.  
 
-Fill in the Blank: A ���� view does not store data but retrieves it dynamically from the base tables.
+7. MCQ: What is the purpose of a materialized view?  
+   a. To improve query performance  
+   b. To provide a logical view of data  
+   c. To store foreign data  
+   d. To act as a transaction log  
 
-MCQ: What is the purpose of a materialized view?
-a. To improve query performance
-b. To provide a logical view of data
-c. To store foreign data
-d. To act as a transaction log
+8. True/False: OLTP systems are optimized for read-intensive operations.  
 
-True/False: OLTP systems are optimized for read-intensive operations.
+9. Fill in the Blank: The process of ensuring that two or more transactions do not interfere with each other is called ���� control.  
 
-Fill in the Blank: The process of ensuring that two or more transactions do not interfere with each other is called ���� control.
+10. MCQ: Which SQL clause is used to remove duplicates from query results?  
+    a. UNIQUE  
+    b. DISTINCT  
+    c. REMOVE  
+    d. EXCLUDE  
 
-MCQ: Which SQL clause is used to remove duplicates from query results?
-a. UNIQUE
-b. DISTINCT
-c. REMOVE
-d. EXCLUDE
+11. True/False: A full outer join combines matching rows and unmatched rows from both tables.  
 
-True/False: A full outer join combines matching rows and unmatched rows from both tables.
+12. Fill in the Blank: The ���� diagram is used to represent database entities and their relationships.  
 
-Fill in the Blank: The ���� diagram is used to represent database entities and their relationships.
+13. MCQ: What is a two-phase commit protocol used for?  
+    a. Indexing  
+    b. Transaction recovery  
+    c. Distributed transaction management  
+    d. Data modeling  
 
-MCQ: What is a two-phase commit protocol used for?
-a. Indexing
-b. Transaction recovery
-c. Distributed transaction management
-d. Data modeling
+14. True/False: A database cluster consists of multiple servers working together.  
 
-True/False: A database cluster consists of multiple servers working together.
+15. Fill in the Blank: The ���� model is used to represent multidimensional data for analysis.  
 
-Fill in the Blank: The ���� model is used to represent multidimensional data for analysis.
+16. MCQ: Which normalization form eliminates transitive dependency?  
+    a. 2NF  
+    b. 3NF  
+    c. 4NF  
+    d. BCNF  
 
-MCQ: Which normalization form eliminates transitive dependency?
-a. 2NF
-b. 3NF
-c. 4NF
-d. BCNF
+17. True/False: Data replication improves data availability in distributed databases.  
 
-True/False: Data replication improves data availability in distributed databases.
+18. Fill in the Blank: The process of tracking changes in a database over time is called ����.  
 
-Fill in the Blank: The process of tracking changes in a database over time is called ����.
+19. MCQ: Which NoSQL database type is most suitable for hierarchical data?  
+    a. Document Store  
+    b. Key-Value Store  
+    c. Column Store  
+    d. Graph Database  
 
-MCQ: Which NoSQL database type is most suitable for hierarchical data?
-a. Document Store
-b. Key-Value Store
-c. Column Store
-d. Graph Database
-
-True/False: Sharding distributes database data across multiple servers.
-
+20. True/False: Sharding distributes database data across multiple servers.  
 
 
 
@@ -1161,75 +1160,73 @@ Advanced: 1. c, 2. True, 3. Partitioning, 4. b,
 
 Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
+1. MCQ: What is the main purpose of relational algebra?  
+   a. Data storage  
+   b. Data manipulation and retrieval  
+   c. Data deletion  
+   d. Data backup  
 
-MCQ: What is the main purpose of relational algebra?
-a. Data storage
-b. Data manipulation and retrieval
-c. Data deletion
-d. Data backup
+2. True/False: A relation in a relational database must have a unique name.  
 
-True/False: A relation in a relational database must have a unique name.
+3. Fill in the Blank: A ���� is an operation in relational algebra that selects rows based on a condition.  
 
-Fill in the Blank: A ���� is an operation in relational algebra that selects rows based on a condition.
+4. MCQ: Which relational algebra operation combines tuples from two relations?  
+   a. Selection  
+   b. Projection  
+   c. Join  
+   d. Union  
 
-MCQ: Which relational algebra operation combines tuples from two relations?
-a. Selection
-b. Projection
-c. Join
-d. Union
+5. True/False: The projection operation in relational algebra removes duplicate rows.  
 
-True/False: The projection operation in relational algebra removes duplicate rows.
+6. Fill in the Blank: The ���� operation is used to remove specific attributes from a relation.  
 
-Fill in the Blank: The ���� operation is used to remove specific attributes from a relation.
+7. MCQ: What does BCNF stand for in normalization?  
+   a. Basic Certified Normal Form  
+   b. Boyce-Codd Normal Form  
+   c. Binary Conditional Normal Form  
+   d. Base Consistent Normal Form  
 
-MCQ: What does BCNF stand for in normalization?
-a. Basic Certified Normal Form
-b. Boyce-Codd Normal Form
-c. Binary Conditional Normal Form
-d. Base Consistent Normal Form
+8. True/False: Every relation in 2NF is also in 3NF.  
 
-True/False: Every relation in 2NF is also in 3NF.
+9. Fill in the Blank: A ���� is an attribute or a set of attributes that uniquely identifies each tuple in a relation.  
 
-Fill in the Blank: A ���� is an attribute or a set of attributes that uniquely identifies each tuple in a relation.
+10. MCQ: Which of the following is NOT a type of join?  
+    a. Inner Join  
+    b. Left Outer Join  
+    c. Right Outer Join  
+    d. Cross Cut Join  
 
-MCQ: Which of the following is NOT a type of join?
-a. Inner Join
-b. Left Outer Join
-c. Right Outer Join
-d. Cross Cut Join
+11. True/False: A foreign key is used to enforce referential integrity.  
 
-True/False: A foreign key is used to enforce referential integrity.
+12. Fill in the Blank: The process of organizing data to minimize redundancy is called ����.  
 
-Fill in the Blank: The process of organizing data to minimize redundancy is called ����.
+13. MCQ: Which normal form eliminates transitive dependencies?  
+    a. 1NF  
+    b. 2NF  
+    c. 3NF  
+    d. 4NF  
 
-MCQ: Which normal form eliminates transitive dependencies?
-a. 1NF
-b. 2NF
-c. 3NF
-d. 4NF
+14. True/False: In relational algebra, the cartesian product operation results in a cross join.  
 
-True/False: In relational algebra, the cartesian product operation results in a cross join.
+15. Fill in the Blank: The ���� operation in relational algebra is used to find common tuples in two relations.  
 
-Fill in the Blank: The ���� operation in relational algebra is used to find common tuples in two relations.
+16. MCQ: What is the primary goal of normalization?  
+    a. To increase redundancy  
+    b. To reduce redundancy and improve data integrity  
+    c. To increase data storage  
+    d. To enhance performance  
 
-MCQ: What is the primary goal of normalization?
-a. To increase redundancy
-b. To reduce redundancy and improve data integrity
-c. To increase data storage
-d. To enhance performance
+17. True/False: Relational databases cannot enforce constraints.  
 
-True/False: Relational databases cannot enforce constraints.
+18. Fill in the Blank: A ���� is a relation that contains no multivalued attributes and is in 1NF.  
 
-Fill in the Blank: A ���� is a relation that contains no multivalued attributes and is in 1NF.
+19. MCQ: Which of the following operations is not part of relational algebra?  
+    a. Rename  
+    b. Select  
+    c. Aggregate  
+    d. Merge  
 
-MCQ: Which of the following operations is not part of relational algebra?
-a. Rename
-b. Select
-c. Aggregate
-d. Merge
-
-True/False: A primary key can be a composite key.
-
+20. True/False: A primary key can be a composite key.  
 
 
 
@@ -1248,75 +1245,73 @@ Basic: 1. b, 2. True, 3. Selection, 4. c, 5. False,
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
+1. MCQ: Which relational algebra operation removes duplicate rows from a relation?  
+   a. Selection  
+   b. Projection  
+   c. Union  
+   d. Distinct  
 
+2. True/False: The "SELECT" statement in SQL is equivalent to the "Selection" operation in relational algebra.  
 
-MCQ: Which relational algebra operation removes duplicate rows from a relation?
-a. Selection
-b. Projection
-c. Union
-d. Distinct
+3. Fill in the Blank: A ���� dependency exists when one attribute uniquely determines another attribute in a relation.  
 
-True/False: The "SELECT" statement in SQL is equivalent to the "Selection" operation in relational algebra.
+4. MCQ: Which normal form requires that no non-prime attribute is transitively dependent on the primary key?  
+   a. 2NF  
+   b. 3NF  
+   c. BCNF  
+   d. 4NF  
 
-Fill in the Blank: A ���� dependency exists when one attribute uniquely determines another attribute in a relation.
+5. True/False: An entity must have at least one primary key.  
 
-MCQ: Which normal form requires that no non-prime attribute is transitively dependent on the primary key?
-a. 2NF
-b. 3NF
-c. BCNF
-d. 4NF
+6. Fill in the Blank: The process of eliminating partial dependency is associated with ����.  
 
-True/False: An entity must have at least one primary key.
+7. MCQ: Which SQL clause is used to perform a Cartesian product?  
+   a. WHERE  
+   b. JOIN ON  
+   c. CROSS JOIN  
+   d. NATURAL JOIN  
 
-Fill in the Blank: The process of eliminating partial dependency is associated with ����.
+8. True/False: In relational algebra, union operations require the relations to be union-compatible.  
 
-MCQ: Which SQL clause is used to perform a Cartesian product?
-a. WHERE
-b. JOIN ON
-c. CROSS JOIN
-d. NATURAL JOIN
+9. Fill in the Blank: The ���� normal form addresses multivalued dependencies in a relation.  
 
-True/False: In relational algebra, union operations require the relations to be union-compatible.
+10. MCQ: What is a candidate key?  
+    a. A key that has duplicate values  
+    b. A key that uniquely identifies a tuple and is eligible to be a primary key  
+    c. A key that enforces foreign key constraints  
+    d. A default key in a table  
 
-Fill in the Blank: The ���� normal form addresses multivalued dependencies in a relation.
+11. True/False: Every table with a foreign key must have a corresponding primary key in another table.  
 
-MCQ: What is a candidate key?
-a. A key that has duplicate values
-b. A key that uniquely identifies a tuple and is eligible to be a primary key
-c. A key that enforces foreign key constraints
-d. A default key in a table
+12. Fill in the Blank: The ���� operation in relational algebra removes attributes not required in the result set.  
 
-True/False: Every table with a foreign key must have a corresponding primary key in another table.
+13. MCQ: What type of join includes all records from the left table and the matching records from the right table?  
+    a. Inner Join  
+    b. Left Outer Join  
+    c. Right Outer Join  
+    d. Full Outer Join  
 
-Fill in the Blank: The ���� operation in relational algebra removes attributes not required in the result set.
+14. True/False: 3NF ensures that every non-key attribute depends only on the primary key.  
 
-MCQ: What type of join includes all records from the left table and the matching records from the right table?
-a. Inner Join
-b. Left Outer Join
-c. Right Outer Join
-d. Full Outer Join
+15. Fill in the Blank: A relation is in ���� if it is in 1NF and 2NF and every non-key attribute is non-transitively dependent on the primary key.  
 
-True/False: 3NF ensures that every non-key attribute depends only on the primary key.
+16. MCQ: What is the result of a division operation in relational algebra?  
+    a. Rows satisfying the conditions of the divisor  
+    b. Columns satisfying the conditions of the divisor  
+    c. A cartesian product of two relations  
+    d. A union of two relations  
 
-Fill in the Blank: A relation is in ���� if it is in 1NF and 2NF and every non-key attribute is non-transitively dependent on the primary key.
+17. True/False: In normalization, redundancy is increased to optimize performance.  
 
-MCQ: What is the result of a division operation in relational algebra?
-a. Rows satisfying the conditions of the divisor
-b. Columns satisfying the conditions of the divisor
-c. A cartesian product of two relations
-d. A union of two relations
+18. Fill in the Blank: The ���� key is an artificial identifier introduced to uniquely identify a tuple.  
 
-True/False: In normalization, redundancy is increased to optimize performance.
+19. MCQ: What is the purpose of the "HAVING" clause in SQL?  
+    a. To filter rows  
+    b. To group data  
+    c. To filter groups  
+    d. To sort results  
 
-Fill in the Blank: The ���� key is an artificial identifier introduced to uniquely identify a tuple.
-
-MCQ: What is the purpose of the "HAVING" clause in SQL?
-a. To filter rows
-b. To group data
-c. To filter groups
-d. To sort results
-
-True/False: Functional dependency is the foundation of normalization.
+20. True/False: Functional dependency is the foundation of normalization.  
 
 
 
@@ -1337,74 +1332,73 @@ Advanced Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
+1. MCQ: Which of the following defines a functional dependency?  
+   a. A relationship where one attribute determines another  
+   b. A constraint where one table depends on another  
+   c. A redundancy removal process  
+   d. A relationship between two tables  
 
-MCQ: Which of the following defines a functional dependency?
-a. A relationship where one attribute determines another
-b. A constraint where one table depends on another
-c. A redundancy removal process
-d. A relationship between two tables
+2. True/False: The decomposition of a relation must always result in lossless join.  
 
-True/False: The decomposition of a relation must always result in lossless join.
+3. Fill in the Blank: A ���� dependency involves a condition where one attribute determines another attribute indirectly through a third attribute.  
 
-Fill in the Blank: A ���� dependency involves a condition where one attribute determines another attribute indirectly through a third attribute.
+4. MCQ: What does 4NF eliminate in a relational schema?  
+   a. Partial Dependency  
+   b. Transitive Dependency  
+   c. Multivalued Dependency  
+   d. Composite Dependency  
 
-MCQ: What does 4NF eliminate in a relational schema?
-a. Partial Dependency
-b. Transitive Dependency
-c. Multivalued Dependency
-d. Composite Dependency
+5. True/False: In a relational database, cyclic dependencies are allowed in normalization.  
 
-True/False: In a relational database, cyclic dependencies are allowed in normalization.
+6. Fill in the Blank: The ���� join matches rows from two relations based on a common attribute.  
 
-Fill in the Blank: The ���� join matches rows from two relations based on a common attribute.
+7. MCQ: Which relational algebra operator is used for renaming attributes in a relation?  
+   a. Rename  
+   b. Project  
+   c. Select  
+   d. Union  
 
-MCQ: Which relational algebra operator is used for renaming attributes in a relation?
-a. Rename
-b. Project
-c. Select
-d. Union
+8. True/False: BCNF is stricter than 3NF in normalization.  
 
-True/False: BCNF is stricter than 3NF in normalization.
+9. Fill in the Blank: A ���� dependency exists when an attribute is functionally dependent on part of a composite key.  
 
-Fill in the Blank: A ���� dependency exists when an attribute is functionally dependent on part of a composite key.
+10. MCQ: Which of the following is NOT a property of a candidate key?  
+    a. Uniqueness  
+    b. Irreducibility  
+    c. Redundancy  
+    d. Stability  
 
-MCQ: Which of the following is NOT a property of a candidate key?
-a. Uniqueness
-b. Irreducibility
-c. Redundancy
-d. Stability
+11. True/False: A surrogate key can act as a primary key.  
 
-True/False: A surrogate key can act as a primary key.
+12. Fill in the Blank: The ���� clause in SQL is used to aggregate results into groups.  
 
-Fill in the Blank: The ���� clause in SQL is used to aggregate results into groups.
+13. MCQ: Which operation in relational algebra finds all tuples in one relation but not in another?  
+    a. Union  
+    b. Intersection  
+    c. Difference  
+    d. Cartesian Product  
 
-MCQ: Which operation in relational algebra finds all tuples in one relation but not in another?
-a. Union
-b. Intersection
-c. Difference
-d. Cartesian Product
+14. True/False: The star schema is commonly used in online analytical processing (OLAP).  
 
-True/False: The star schema is commonly used in online analytical processing (OLAP).
+15. Fill in the Blank: A ���� is a relation that is in BCNF and has no multivalued dependencies.  
 
-Fill in the Blank: A ���� is a relation that is in BCNF and has no multivalued dependencies.
+16. MCQ: Which property ensures that database decompositions preserve data integrity?  
+    a. Dependency Preservation  
+    b. Functional Dependency  
+    c. Lossless Join  
+    d. Normalization  
 
-MCQ: Which property ensures that database decompositions preserve data integrity?
-a. Dependency Preservation
-b. Functional Dependency
-c. Lossless Join
-d. Normalization
+17. True/False: Multivalued dependencies can exist in relations in 2NF.  
 
-True/False: Multivalued dependencies can exist in relations in 2NF.
+18. Fill in the Blank: The process of reducing redundancy in a database is called ����.  
 
-Fill in the Blank: The process of reducing redundancy in a database is called ����.
+19. MCQ: Which relational algebra operator retrieves only the attributes needed from a relation?  
+    a. Select  
+    b. Project  
+    c. Union  
+    d. Rename  
 
-MCQ: Which relational algebra operator retrieves only the attributes needed from a relation?
-a. Select
-b. Project
-c. Union
-d. Rename
-
-True/False: The normalization process can sometimes lead to the need for denormalization for performance reasons.
+20. True/False: The normalization process can sometimes lead to the need for denormalization for performance reasons.  
 
 
 
@@ -1455,74 +1449,74 @@ Basic Questions (MCQs, True/False, Fill in the Blanks)
 
 -----------------------------------------------------------
 
+1. MCQ: Which SQL keyword is used to retrieve data from a database?  
+   a. DELETE  
+   b. INSERT  
+   c. SELECT  
+   d. UPDATE  
 
-MCQ: Which SQL keyword is used to retrieve data from a database?
-a. DELETE
-b. INSERT
-c. SELECT
-d. UPDATE
+2. True/False: SQL is case-sensitive when it comes to keywords.  
 
-True/False: SQL is case-sensitive when it comes to keywords.
+3. Fill in the Blank: The SQL clause ���� is used to filter records based on conditions.  
 
-Fill in the Blank: The SQL clause ���� is used to filter records based on conditions.
+4. MCQ: What does DDL stand for in SQL?  
+   a. Data Description Language  
+   b. Data Definition Language  
+   c. Data Deployment Language  
+   d. Data Development Language  
 
-MCQ: What does DDL stand for in SQL?
-a. Data Description Language
-b. Data Definition Language
-c. Data Deployment Language
-d. Data Development Language
+5. True/False: A primary key in SQL can have NULL values.  
 
-True/False: A primary key in SQL can have NULL values.
+6. Fill in the Blank: The ���� clause in SQL is used to group rows sharing a property into summary rows.  
 
-Fill in the Blank: The ���� clause in SQL is used to group rows sharing a property into summary rows.
+7. MCQ: Which SQL command is used to remove a table from a database?  
+   a. REMOVE  
+   b. DROP  
+   c. DELETE  
+   d. TRUNCATE  
 
-MCQ: Which SQL command is used to remove a table from a database?
-a. REMOVE
-b. DROP
-c. DELETE
-d. TRUNCATE
+8. True/False: A foreign key in SQL is a primary key in another table.  
 
-True/False: A foreign key in SQL is a primary key in another table.
+9. Fill in the Blank: The ���� function in SQL returns the number of rows in a query result.  
 
-Fill in the Blank: The ���� function in SQL returns the number of rows in a query result.
+10. MCQ: Which SQL clause is used to sort the result set?  
+    a. SORT BY  
+    b. ORDER BY  
+    c. GROUP BY  
+    d. FILTER BY  
 
-MCQ: Which SQL clause is used to sort the result set?
-a. SORT BY
-b. ORDER BY
-c. GROUP BY
-d. FILTER BY
+11. True/False: SQL allows the use of mathematical operations in SELECT statements.  
 
-True/False: SQL allows the use of mathematical operations in SELECT statements.
+12. Fill in the Blank: The ���� command in SQL is used to modify existing records in a table.  
 
-Fill in the Blank: The ���� command in SQL is used to modify existing records in a table.
+13. MCQ: Which of the following is NOT a SQL aggregate function?  
+    a. SUM  
+    b. COUNT  
+    c. AVG  
+    d. FILTER  
 
-MCQ: Which of the following is NOT a SQL aggregate function?
-a. SUM
-b. COUNT
-c. AVG
-d. FILTER
+14. True/False: The WHERE clause in SQL can be used with SELECT, UPDATE, and DELETE statements.  
 
-True/False: The WHERE clause in SQL can be used with SELECT, UPDATE, and DELETE statements.
+15. Fill in the Blank: The ���� constraint ensures that a column has unique values in SQL.  
 
-Fill in the Blank: The ���� constraint ensures that a column has unique values in SQL.
+16. MCQ: Which JOIN type retrieves all matching rows from two tables?  
+    a. OUTER JOIN  
+    b. INNER JOIN  
+    c. LEFT JOIN  
+    d. CROSS JOIN  
 
-MCQ: Which JOIN type retrieves all matching rows from two tables?
-a. OUTER JOIN
-b. INNER JOIN
-c. LEFT JOIN
-d. CROSS JOIN
+17. True/False: The HAVING clause in SQL is used to filter data after grouping.  
 
-True/False: The HAVING clause in SQL is used to filter data after grouping.
+18. Fill in the Blank: The ���� statement is used to create a new table in SQL.  
 
-Fill in the Blank: The ���� statement is used to create a new table in SQL.
+19. MCQ: What is the purpose of the "LIKE" operator in SQL?  
+    a. To match patterns in strings  
+    b. To sort data  
+    c. To filter data based on numerical conditions  
+    d. To perform arithmetic operations  
 
-MCQ: What is the purpose of the "LIKE" operator in SQL?
-a. To match patterns in strings
-b. To sort data
-c. To filter data based on numerical conditions
-d. To perform arithmetic operations
+20. True/False: SQL supports nested queries.  
 
-True/False: SQL supports nested queries.
 
 ---------------------------------------
 Basic: 1. c, 2. False, 3. WHERE, 4. b, 5. False,
@@ -1541,75 +1535,73 @@ Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
+1. MCQ: Which keyword is used in SQL to prevent duplicate rows in the result set?  
+   a. DISTINCT  
+   b. UNIQUE  
+   c. DIFFERENT  
+   d. EXCLUDE  
 
+2. True/False: A SQL VIEW is a virtual table based on the result set of an SQL statement.  
 
-MCQ: Which keyword is used in SQL to prevent duplicate rows in the result set?
-a. DISTINCT
-b. UNIQUE
-c. DIFFERENT
-d. EXCLUDE
+3. Fill in the Blank: The ���� clause in SQL is used to limit the number of rows returned in a query.  
 
-True/False: A SQL VIEW is a virtual table based on the result set of an SQL statement.
+4. MCQ: What does DML stand for?  
+   a. Data Modification Language  
+   b. Data Management Language  
+   c. Data Manipulation Language  
+   d. Data Migration Language  
 
-Fill in the Blank: The ���� clause in SQL is used to limit the number of rows returned in a query.
+5. True/False: Triggers in SQL are automatically invoked by the database when certain conditions occur.  
 
-MCQ: What does DML stand for?
-a. Data Modification Language
-b. Data Management Language
-c. Data Manipulation Language
-d. Data Migration Language
+6. Fill in the Blank: The ���� function in SQL is used to calculate the total of a numeric column.  
 
-True/False: Triggers in SQL are automatically invoked by the database when certain conditions occur.
+7. MCQ: Which SQL statement is used to update existing data in a table?  
+   a. MODIFY  
+   b. UPDATE  
+   c. ALTER  
+   d. EDIT  
 
-Fill in the Blank: The ���� function in SQL is used to calculate the total of a numeric column.
+8. True/False: SQL constraints can be applied at both the column and table levels.  
 
-MCQ: Which SQL statement is used to update existing data in a table?
-a. MODIFY
-b. UPDATE
-c. ALTER
-d. EDIT
+9. Fill in the Blank: The SQL function ���� is used to return the largest value in a column.  
 
-True/False: SQL constraints can be applied at both the column and table levels.
+10. MCQ: Which of the following commands is used to combine the result sets of two SELECT queries?  
+    a. COMBINE  
+    b. UNION  
+    c. JOIN  
+    d. CONNECT  
 
-Fill in the Blank: The SQL function ���� is used to return the largest value in a column.
+11. True/False: A database index improves the speed of data retrieval.  
 
-MCQ: Which of the following commands is used to combine the result sets of two SELECT queries?
-a. COMBINE
-b. UNION
-c. JOIN
-d. CONNECT
+12. Fill in the Blank: The ���� statement in SQL is used to delete data without removing the table structure.  
 
-True/False: A database index improves the speed of data retrieval.
+13. MCQ: Which type of JOIN returns all rows from both tables, matching rows where available?  
+    a. INNER JOIN  
+    b. LEFT OUTER JOIN  
+    c. FULL OUTER JOIN  
+    d. CROSS JOIN  
 
-Fill in the Blank: The ���� statement in SQL is used to delete data without removing the table structure.
+14. True/False: SQL supports multiple data types, such as numeric, string, and date.  
 
-MCQ: Which type of JOIN returns all rows from both tables, matching rows where available?
-a. INNER JOIN
-b. LEFT OUTER JOIN
-c. FULL OUTER JOIN
-d. CROSS JOIN
+15. Fill in the Blank: The ���� function in SQL calculates the average of a numeric column.  
 
-True/False: SQL supports multiple data types, such as numeric, string, and date.
+16. MCQ: Which clause is used to rename a table in SQL?  
+    a. MODIFY  
+    b. RENAME  
+    c. CHANGE  
+    d. ALTER  
 
-Fill in the Blank: The ���� function in SQL calculates the average of a numeric column.
+17. True/False: An index can be created on multiple columns in SQL.  
 
-MCQ: Which clause is used to rename a table in SQL?
-a. MODIFY
-b. RENAME
-c. CHANGE
-d. ALTER
+18. Fill in the Blank: The ���� operator in SQL is used to test for null values.  
 
-True/False: An index can be created on multiple columns in SQL.
+19. MCQ: Which of the following SQL commands is used to merge rows from two tables based on a condition?  
+    a. MERGE  
+    b. INNER JOIN  
+    c. UNION  
+    d. INTERSECT  
 
-Fill in the Blank: The ���� operator in SQL is used to test for null values.
-
-MCQ: Which of the following SQL commands is used to merge rows from two tables based on a condition?
-a. MERGE
-b. INNER JOIN
-c. UNION
-d. INTERSECT
-
-True/False: SQL functions like COUNT, AVG, and MAX can be used with GROUP BY.
+20. True/False: SQL functions like COUNT, AVG, and MAX can be used with GROUP BY.  
 
 ---------------------------------------
 Intermediate: 1. a, 2. True, 3. LIMIT, 4. c, 5. True,
@@ -1629,75 +1621,73 @@ Advanced Questions (MCQs, True/False, Fill in the Blanks)
 
 
 
+1. MCQ: What is the main purpose of a stored procedure in SQL?  
+   a. To automate backups  
+   b. To store large data files  
+   c. To encapsulate SQL logic for reuse  
+   d. To improve data integrity  
 
-MCQ: What is the main purpose of a stored procedure in SQL?
-a. To automate backups
-b. To store large data files
-c. To encapsulate SQL logic for reuse
-d. To improve data integrity
+2. True/False: SQL triggers can only be executed before an operation.  
 
-True/False: SQL triggers can only be executed before an operation.
+3. Fill in the Blank: The SQL command ���� is used to create an index on a table.  
 
-Fill in the Blank: The SQL command ���� is used to create an index on a table.
+4. MCQ: What does ACID stand for in database management?  
+   a. Atomicity, Consistency, Isolation, Durability  
+   b. Accuracy, Consistency, Integration, Durability  
+   c. Automation, Complexity, Isolation, Dependability  
+   d. Atomicity, Concurrency, Integration, Durability  
 
-MCQ: What does ACID stand for in database management?
-a. Atomicity, Consistency, Isolation, Durability
-b. Accuracy, Consistency, Integration, Durability
-c. Automation, Complexity, Isolation, Dependability
-d. Atomicity, Concurrency, Integration, Durability
+5. True/False: A clustered index determines the physical order of data in a table.  
 
-True/False: A clustered index determines the physical order of data in a table.
+6. Fill in the Blank: The ���� clause in SQL allows filtering of groups of data.  
 
-Fill in the Blank: The ���� clause in SQL allows filtering of groups of data.
+7. MCQ: Which command is used to revoke privileges in SQL?  
+   a. REVOKE  
+   b. DENY  
+   c. REMOVE  
+   d. WITHDRAW  
 
-MCQ: Which command is used to revoke privileges in SQL?
-a. REVOKE
-b. DENY
-c. REMOVE
-d. WITHDRAW
+8. True/False: SQL supports recursive queries.  
 
-True/False: SQL supports recursive queries.
+9. Fill in the Blank: The ���� operation in SQL retrieves only rows that satisfy all specified conditions.  
 
-Fill in the Blank: The ���� operation in SQL retrieves only rows that satisfy all specified conditions.
+10. MCQ: Which SQL command ensures that data integrity rules are met?  
+    a. ENFORCE  
+    b. CONSTRAINT  
+    c. VALIDATE  
+    d. CHECK  
 
-MCQ: Which SQL command ensures that data integrity rules are met?
-a. ENFORCE
-b. CONSTRAINT
-c. VALIDATE
-d. CHECK
+11. True/False: A trigger in SQL can invoke another trigger.  
 
-True/False: A trigger in SQL can invoke another trigger.
+12. Fill in the Blank: The ���� keyword is used in SQL to combine non-overlapping result sets.  
 
-Fill in the Blank: The ���� keyword is used in SQL to combine non-overlapping result sets.
+13. MCQ: Which SQL command is used to create a new schema?  
+    a. CREATE SCHEMA  
+    b. NEW SCHEMA  
+    c. INITIATE SCHEMA  
+    d. CONFIGURE SCHEMA  
 
-MCQ: Which SQL command is used to create a new schema?
-a. CREATE SCHEMA
-b. NEW SCHEMA
-c. INITIATE SCHEMA
-d. CONFIGURE SCHEMA
+14. True/False: A SQL function can return multiple values.  
 
-True/False: A SQL function can return multiple values.
+15. Fill in the Blank: The SQL ���� keyword is used to combine result sets and eliminate duplicates.  
 
-Fill in the Blank: The SQL ���� keyword is used to combine result sets and eliminate duplicates.
+16. MCQ: Which statement is used to modify the structure of an existing table?  
+    a. MODIFY  
+    b. UPDATE  
+    c. ALTER  
+    d. CHANGE  
 
-MCQ: Which statement is used to modify the structure of an existing table?
-a. MODIFY
-b. UPDATE
-c. ALTER
-d. CHANGE
+17. True/False: Transactions in SQL are used to group a set of operations into a single unit.  
 
-True/False: Transactions in SQL are used to group a set of operations into a single unit.
+18. Fill in the Blank: The ���� SQL clause is used to ensure that duplicate rows are not inserted into a table.  
 
-Fill in the Blank: The ���� SQL clause is used to ensure that duplicate rows are not inserted into a table.
+19. MCQ: What does the "ROLLBACK" statement do in SQL?  
+    a. Commits a transaction  
+    b. Undoes changes made during a transaction  
+    c. Deletes rows from a table  
+    d. Creates a backup  
 
-MCQ: What does the "ROLLBACK" statement do in SQL?
-a. Commits a transaction
-b. Undoes changes made during a transaction
-c. Deletes rows from a table
-d. Creates a backup
-
-True/False: A foreign key can reference a primary key in the same table.
-
+20. True/False: A foreign key can reference a primary key in the same table.  
 
 
 ---------------------------------------
@@ -1734,84 +1724,100 @@ Concept of Distributed Database
 
 Basic Questions (20)
 -----------------------------------------------------------
+1. What is a distributed database?  
+   a) A database located on a single server  
+   b) A database that is stored across multiple locations  
+   c) A database that cannot be accessed over the internet  
+   d) A database that requires manual synchronization  
 
-What is a distributed database? a) A database located on a single server
-b) A database that is stored across multiple locations
-c) A database that cannot be accessed over the internet
-d) A database that requires manual synchronization
+2. Which of the following is a characteristic of distributed databases?  
+   a) Centralized data storage  
+   b) Data stored on a single computer  
+   c) Data spread across multiple sites  
+   d) No need for a network  
 
-Which of the following is a characteristic of distributed databases? a) Centralized data storage
-b) Data stored on a single computer
-c) Data spread across multiple sites
-d) No need for a network
+3. True or False: A distributed database system requires high communication overhead.  
+   a) True  
+   b) False  
 
-True or False: A distributed database system requires high communication overhead. a) True
-b) False
+4. Fill in the Blank: A distributed database system is a system where the data is stored ____________.  
 
-Fill in the Blank: A distributed database system is a system where the data is stored ____________.
+5. Which of the following is an example of a distributed database model?  
+   a) Relational model  
+   b) Hierarchical model  
+   c) Network model  
+   d) All of the above  
 
-Which of the following is an example of a distributed database model? a) Relational model
-b) Hierarchical model
-c) Network model
-d) All of the above
+6. True or False: Data in a distributed database is always homogeneous across all sites.  
+   a) True  
+   b) False  
 
-True or False: Data in a distributed database is always homogeneous across all sites. a) True
-b) False
+7. What is a key feature of distributed databases?  
+   a) Data redundancy  
+   b) Single point of failure  
+   c) Single server management  
+   d) None of the above  
 
-What is a key feature of distributed databases? a) Data redundancy
-b) Single point of failure
-c) Single server management
-d) None of the above
+8. Which of the following is a challenge in distributed database systems?  
+   a) Data consistency  
+   b) Data redundancy  
+   c) Centralized backup  
+   d) All of the above  
 
-Which of the following is a challenge in distributed database systems? a) Data consistency
-b) Data redundancy
-c) Centralized backup
-d) All of the above
+9. Which type of data distribution allows data to be replicated across multiple sites?  
+   a) Horizontal distribution  
+   b) Vertical distribution  
+   c) Replicated distribution  
+   d) None of the above  
 
-Which type of data distribution allows data to be replicated across multiple sites? a) Horizontal distribution
-b) Vertical distribution
-c) Replicated distribution
-d) None of the above
+10. True or False: A distributed database system requires specific software to manage data across multiple locations.  
+    a) True  
+    b) False  
 
-True or False: A distributed database system requires specific software to manage data across multiple locations. a) True
-b) False
+11. Fill in the Blank: The main advantage of a distributed database system is ____________ and increased reliability.  
 
-Fill in the Blank: The main advantage of a distributed database system is ____________ and increased reliability.
+12. Which of the following is NOT an advantage of distributed databases?  
+    a) Increased performance  
+    b) Reduced risk of data loss  
+    c) Centralized management  
+    d) Fault tolerance  
 
-Which of the following is NOT an advantage of distributed databases? a) Increased performance
-b) Reduced risk of data loss
-c) Centralized management
-d) Fault tolerance
+13. True or False: In a distributed database system, queries are often faster compared to centralized systems.  
+    a) True  
+    b) False  
 
-True or False: In a distributed database system, queries are often faster compared to centralized systems. a) True
-b) False
+14. Which of the following best defines “replication” in a distributed database?  
+    a) Storing data on one site only  
+    b) Copying data across multiple sites  
+    c) Encrypting the data stored on a server  
+    d) None of the above  
 
-Which of the following best defines “replication” in a distributed database? a) Storing data on one site only
-b) Copying data across multiple sites
-c) Encrypting the data stored on a server
-d) None of the above
+15. Fill in the Blank: A system that ensures all copies of the data are synchronized in a distributed database is called ____________.  
 
-Fill in the Blank: A system that ensures all copies of the data are synchronized in a distributed database is called ____________.
+16. Which of the following is a factor to consider when designing a distributed database?  
+    a) Data security  
+    b) Network bandwidth  
+    c) Data availability  
+    d) All of the above  
 
-Which of the following is a factor to consider when designing a distributed database? a) Data security
-b) Network bandwidth
-c) Data availability
-d) All of the above
+17. True or False: In a distributed database, the user interacts with the system as though it were a single database.  
+    a) True  
+    b) False  
 
-True or False: In a distributed database, the user interacts with the system as though it were a single database. a) True
-b) False
+18. Which of the following is a disadvantage of distributed databases?  
+    a) Increased redundancy  
+    b) Increased complexity  
+    c) Lower network overhead  
+    d) Increased speed  
 
-Which of the following is a disadvantage of distributed databases? a) Increased redundancy
-b) Increased complexity
-c) Lower network overhead
-d) Increased speed
+19. Which of the following best describes data fragmentation in a distributed database system?  
+    a) Data is duplicated across multiple sites  
+    b) Data is broken into smaller pieces and distributed  
+    c) Data is encrypted  
+    d) None of the above  
 
-Which of the following best describes data fragmentation in a distributed database system? a) Data is duplicated across multiple sites
-b) Data is broken into smaller pieces and distributed
-c) Data is encrypted
-d) None of the above
+20. Fill in the Blank: The process of dividing data into smaller parts for distribution in a distributed database is called ____________.  
 
-Fill in the Blank: The process of dividing data into smaller parts for distribution in a distributed database is called ____________.
 
 
 
@@ -1848,83 +1854,102 @@ Fragmentation
 -----------------------------------------------------------
 
 Intermediate Questions (20)
-Which of the following is a main goal of data distribution in distributed databases? a) Minimizing storage costs
-b) Minimizing network communication
-c) Maximizing server load
-d) All of the above
 
-Which type of architecture is used to implement a distributed database system? a) Client-server architecture
-b) Peer-to-peer architecture
-c) Both a and b
-d) None of the above
 
-True or False: In a distributed database, data is distributed without redundancy. a) True
-b) False
 
-Which of the following techniques is used for maintaining consistency in a distributed database? a) Two-phase commit
-b) Locking protocol
-c) Timestamp ordering
-d) All of the above
+1. Which of the following is a main goal of data distribution in distributed databases?  
+   a) Minimizing storage costs  
+   b) Minimizing network communication  
+   c) Maximizing server load  
+   d) All of the above  
 
-Fill in the Blank: In distributed databases, the consistency model that ensures data is either fully committed or fully rolled back is called ____________.
+2. Which type of architecture is used to implement a distributed database system?  
+   a) Client-server architecture  
+   b) Peer-to-peer architecture  
+   c) Both a and b  
+   d) None of the above  
 
-What is the primary disadvantage of replicated data in a distributed database? a) Increased complexity
-b) Increased communication overhead
-c) Data inconsistency
-d) Increased storage requirements
+3. True or False: In a distributed database, data is distributed without redundancy.  
+   a) True  
+   b) False  
 
-True or False: A distributed database can be homogeneous or heterogeneous. a) True
-b) False
+4. Which of the following techniques is used for maintaining consistency in a distributed database?  
+   a) Two-phase commit  
+   b) Locking protocol  
+   c) Timestamp ordering  
+   d) All of the above  
 
-What does the term "transparency" mean in the context of distributed databases? a) Data is encrypted for security
-b) The user is unaware of where the data is located
-c) Data is stored in a single centralized location
-d) Data access is slow due to network delays
+5. Fill in the Blank: In distributed databases, the consistency model that ensures data is either fully committed or fully rolled back is called ____________.  
 
-Fill in the Blank: The protocol used to ensure that a transaction in a distributed database is completed successfully is known as the ____________ protocol.
+6. What is the primary disadvantage of replicated data in a distributed database?  
+   a) Increased complexity  
+   b) Increased communication overhead  
+   c) Data inconsistency  
+   d) Increased storage requirements  
 
-Which of the following is a key advantage of distributed databases over centralized databases? a) Fault tolerance
-b) Single point of failure
-c) Limited scalability
-d) Centralized backup
+7. True or False: A distributed database can be homogeneous or heterogeneous.  
+   a) True  
+   b) False  
 
-True or False: In a distributed database, if one site fails, the entire system can still function normally. a) True
-b) False
+8. What does the term "transparency" mean in the context of distributed databases?  
+   a) Data is encrypted for security  
+   b) The user is unaware of where the data is located  
+   c) Data is stored in a single centralized location  
+   d) Data access is slow due to network delays  
 
-Which of the following methods ensures that all updates to a distributed database are consistent? a) Master-slave replication
-b) Distributed locking
-c) Two-phase commit protocol
-d) Both a and c
+9. Fill in the Blank: The protocol used to ensure that a transaction in a distributed database is completed successfully is known as the ____________ protocol.  
 
-Fill in the Blank: In a distributed database system, the control over data location and access is managed by the ____________ layer.
+10. Which of the following is a key advantage of distributed databases over centralized databases?  
+    a) Fault tolerance  
+    b) Single point of failure  
+    c) Limited scalability  
+    d) Centralized backup  
 
-Which of the following types of data distribution involves dividing a database into partitions based on rows? a) Vertical distribution
-b) Horizontal distribution
-c) Replication
-d) Fragmentation
+11. True or False: In a distributed database, if one site fails, the entire system can still function normally.  
+    a) True  
+    b) False  
 
-True or False: Data fragmentation can lead to performance degradation if not managed properly. a) True
-b) False
+12. Which of the following methods ensures that all updates to a distributed database are consistent?  
+    a) Master-slave replication  
+    b) Distributed locking  
+    c) Two-phase commit protocol  
+    d) Both a and c  
 
-Which of the following is used to enhance the performance of queries in a distributed database? a) Indexing
-b) Caching
-c) Query optimization
-d) All of the above
+13. Fill in the Blank: In a distributed database system, the control over data location and access is managed by the ____________ layer.  
 
-Fill in the Blank: The strategy of storing data at multiple sites to improve access speed is called ____________.
+14. Which of the following types of data distribution involves dividing a database into partitions based on rows?  
+    a) Vertical distribution  
+    b) Horizontal distribution  
+    c) Replication  
+    d) Fragmentation  
 
-Which of the following can result in data inconsistency in distributed databases? a) Network failures
-b) Replication delay
-c) Software bugs
-d) All of the above
+15. True or False: Data fragmentation can lead to performance degradation if not managed properly.  
+    a) True  
+    b) False  
 
-True or False: The main advantage of distributed databases is the ability to store large volumes of data on a single server. a) True
-b) False
+16. Which of the following is used to enhance the performance of queries in a distributed database?  
+    a) Indexing  
+    b) Caching  
+    c) Query optimization  
+    d) All of the above  
 
-Which of the following types of distributed databases uses different data models at each site? a) Homogeneous
-b) Heterogeneous
-c) Centralized
-d) None of the above
+17. Fill in the Blank: The strategy of storing data at multiple sites to improve access speed is called ____________.  
+
+18. Which of the following can result in data inconsistency in distributed databases?  
+    a) Network failures  
+    b) Replication delay  
+    c) Software bugs  
+    d) All of the above  
+
+19. True or False: The main advantage of distributed databases is the ability to store large volumes of data on a single server.  
+    a) True  
+    b) False  
+
+20. Which of the following types of distributed databases uses different data models at each site?  
+    a) Homogeneous  
+    b) Heterogeneous  
+    c) Centralized  
+    d) None of the above  
 
 
 
@@ -1961,84 +1986,102 @@ b) Heterogeneous
 -----------------------------------------------------------
 
 Advanced Questions (20)
-Which of the following is a feature of a distributed transaction in a distributed database? a) Atomicity
-b) Consistency
-c) Isolation
-d) All of the above
 
-What is the role of a Local Transaction Manager in a distributed database? a) To manage the database schema
-b) To ensure transaction consistency at the local site
-c) To replicate data across multiple sites
-d) None of the above
 
-True or False: A distributed database system cannot handle a network partition effectively. a) True
-b) False
 
-Fill in the Blank: A ____________ is used to ensure that transactions are executed in a manner that guarantees data consistency across all sites.
+1. Which of the following is a feature of a distributed transaction in a distributed database?  
+   a) Atomicity  
+   b) Consistency  
+   c) Isolation  
+   d) All of the above  
 
-Which of the following protocols is used to ensure that a transaction is atomic in a distributed database system? a) Two-phase commit
-b) Three-phase commit
-c) Eventual consistency
-d) Locking protocol
+2. What is the role of a Local Transaction Manager in a distributed database?  
+   a) To manage the database schema  
+   b) To ensure transaction consistency at the local site  
+   c) To replicate data across multiple sites  
+   d) None of the above  
 
-What does the CAP theorem in distributed databases stand for? a) Consistency, Accessibility, Performance
-b) Consistency, Availability, Partition tolerance
-c) Consistency, Atomicity, Persistence
-d) None of the above
+3. True or False: A distributed database system cannot handle a network partition effectively.  
+   a) True  
+   b) False  
 
-True or False: In distributed databases, the partition tolerance guarantees that the system will continue to function despite network partitions. a) True
-b) False
+4. Fill in the Blank: A ____________ is used to ensure that transactions are executed in a manner that guarantees data consistency across all sites.  
 
-Fill in the Blank: The concept that allows a distributed database system to handle failures and continue to operate is known as ____________.
+5. Which of the following protocols is used to ensure that a transaction is atomic in a distributed database system?  
+   a) Two-phase commit  
+   b) Three-phase commit  
+   c) Eventual consistency  
+   d) Locking protocol  
 
-Which of the following is a disadvantage of the two-phase commit protocol in distributed databases? a) Slow performance due to multiple network round trips
-b) High transaction throughput
-c) Complex implementation
-d) None of the above
+6. What does the CAP theorem in distributed databases stand for?  
+   a) Consistency, Accessibility, Performance  
+   b) Consistency, Availability, Partition tolerance  
+   c) Consistency, Atomicity, Persistence  
+   d) None of the above  
 
-True or False: The eventual consistency model guarantees that all nodes in a distributed database will be consistent at all times. a) True
-b) False
+7. True or False: In distributed databases, the partition tolerance guarantees that the system will continue to function despite network partitions.  
+   a) True  
+   b) False  
 
-What is the main difference between horizontal and vertical fragmentation in distributed databases? a) Horizontal fragmentation involves dividing data by rows, while vertical fragmentation divides data by columns.
-b) Horizontal fragmentation involves dividing data by columns, while vertical fragmentation divides data by rows.
-c) Both horizontal and vertical fragmentation divide data randomly.
-d) None of the above
+8. Fill in the Blank: The concept that allows a distributed database system to handle failures and continue to operate is known as ____________.  
 
-Fill in the Blank: The technique that ensures data is distributed based on its access frequency is called ____________.
+9. Which of the following is a disadvantage of the two-phase commit protocol in distributed databases?  
+   a) Slow performance due to multiple network round trips  
+   b) High transaction throughput  
+   c) Complex implementation  
+   d) None of the above  
 
-Which of the following methods can be used to ensure data security in distributed databases? a) Encryption
-b) Authentication
-c) Authorization
-d) All of the above
+10. True or False: The eventual consistency model guarantees that all nodes in a distributed database will be consistent at all times.  
+    a) True  
+    b) False  
 
-True or False: The eventual consistency model is a strong consistency model for distributed databases. a) True
-b) False
+11. What is the main difference between horizontal and vertical fragmentation in distributed databases?  
+    a) Horizontal fragmentation involves dividing data by rows, while vertical fragmentation divides data by columns.  
+    b) Horizontal fragmentation involves dividing data by columns, while vertical fragmentation divides data by rows.  
+    c) Both horizontal and vertical fragmentation divide data randomly.  
+    d) None of the above  
 
-Which of the following is a key characteristic of distributed database replication? a) Synchronous replication
-b) Asynchronous replication
-c) Both a and b
-d) None of the above
+12. Fill in the Blank: The technique that ensures data is distributed based on its access frequency is called ____________.  
 
-What is a possible solution to the issue of data inconsistency in distributed databases? a) Data conflict resolution protocols
-b) Replication delay management
-c) Two-phase commit protocol
-d) All of the above
+13. Which of the following methods can be used to ensure data security in distributed databases?  
+    a) Encryption  
+    b) Authentication  
+    c) Authorization  
+    d) All of the above  
 
-Fill in the Blank: A distributed database system uses ____________ to ensure data consistency across sites.
+14. True or False: The eventual consistency model is a strong consistency model for distributed databases.  
+    a) True  
+    b) False  
 
-Which of the following is NOT part of the architecture of a distributed database system? a) Global schema
-b) Local schema
-c) Global data dictionary
-d) Single site management system
+15. Which of the following is a key characteristic of distributed database replication?  
+    a) Synchronous replication  
+    b) Asynchronous replication  
+    c) Both a and b  
+    d) None of the above  
 
-True or False: A distributed database system ensures that all transactions are executed in the same order across all sites. a) True
-b) False
+16. What is a possible solution to the issue of data inconsistency in distributed databases?  
+    a) Data conflict resolution protocols  
+    b) Replication delay management  
+    c) Two-phase commit protocol  
+    d) All of the above  
 
-Which of the following is used to address the challenge of network latency in distributed databases? a) Caching
-b) Load balancing
-c) Data partitioning
-d) All of the above
+17. Fill in the Blank: A distributed database system uses ____________ to ensure data consistency across sites.  
 
+18. Which of the following is NOT part of the architecture of a distributed database system?  
+    a) Global schema  
+    b) Local schema  
+    c) Global data dictionary  
+    d) Single site management system  
+
+19. True or False: A distributed database system ensures that all transactions are executed in the same order across all sites.  
+    a) True  
+    b) False  
+
+20. Which of the following is used to address the challenge of network latency in distributed databases?  
+    a) Caching  
+    b) Load balancing  
+    c) Data partitioning  
+    d) All of the above
 
 
 
@@ -2089,7 +2132,7 @@ d) All of the above
 Basic Questions
 -----------------------------------------------------------
 
-Basic Questions
+
 Which of the following is an example of a file type in a computer system?
 a) Audio
 b) Text
