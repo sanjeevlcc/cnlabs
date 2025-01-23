@@ -184,69 +184,121 @@ Communication Media Network Questions
 Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
-MCQ: What does OSI stand for in networking? a. Open System Interconnection b. Open Source Internet c. Operational System Interface d. Organized System Interlink
+1. MCQ: What does OSI stand for in networking?
+   a) Open System Interconnection
+   b) Open Source Internet
+   c) Operational System Interface
+   d) Organized System Interlink
 
-MCQ: Which layer of the OSI model is responsible for routing? a. Physical b. Data Link c. Network d. Application
+2. MCQ: Which layer of the OSI model is responsible for routing?
+   a) Physical
+   b) Data Link
+   c) Network
+   d) Application
 
-True/False: TCP/IP is a four-layered protocol architecture.
+3. True/False: TCP/IP is a four-layered protocol architecture.
 
-Fill in the Blank: The _____ layer in the OSI model ensures error-free delivery of data.
+4. Fill in the Blank: The _____ layer in the OSI model ensures error-free delivery of data.
 
-MCQ: Ethernet is an example of which type of communication media? a. Wireless b. Fiber Optic c. Coaxial d. Wired
+5. MCQ: Ethernet is an example of which type of communication media?
+   a) Wireless
+   b) Fiber Optic
+   c) Coaxial
+   d) Wired
 
-MCQ: What is the primary purpose of the TCP protocol? a. Routing b. Error Checking c. Address Resolution d. Reliable Data Transfer
+6. MCQ: What is the primary purpose of the TCP protocol?
+   a) Routing
+   b) Error Checking
+   c) Address Resolution
+   d) Reliable Data Transfer
 
-True/False: The Physical layer of the OSI model deals with hardware transmission.
+7. True/False: The Physical layer of the OSI model deals with hardware transmission.
 
-Fill in the Blank: The _____ layer of the TCP/IP model corresponds to the Session, Presentation, and Application layers of the OSI model.
+8. Fill in the Blank: The _____ layer of the TCP/IP model corresponds to the Session, Presentation, and Application layers of the OSI model.
 
-MCQ: Which topology connects each device to a central hub? a. Bus b. Ring c. Star d. Mesh
+9. MCQ: Which topology connects each device to a central hub?
+   a) Bus
+   b) Ring
+   c) Star
+   d) Mesh
 
-True/False: IP is a connection-oriented protocol.
+10. True/False: IP is a connection-oriented protocol.
 
-Fill in the Blank: In a _____ topology, every device is connected to every other device.
+11. Fill in the Blank: In a _____ topology, every device is connected to every other device.
 
-MCQ: Which layer in OSI model provides encryption services? a. Transport b. Application c. Presentation d. Network
+12. MCQ: Which layer in OSI model provides encryption services?
+    a) Transport
+    b) Application
+    c) Presentation
+    d) Network
 
-True/False: A coaxial cable provides higher bandwidth compared to twisted-pair cables.
+13. True/False: A coaxial cable provides higher bandwidth compared to twisted-pair cables.
 
-Fill in the Blank: TCP stands for _____.
+14. Fill in the Blank: TCP stands for _____.
 
-MCQ: Which layer of the TCP/IP model handles email applications? a. Transport b. Internet c. Application d. Network Access
+15. MCQ: Which layer of the TCP/IP model handles email applications?
+    a) Transport
+    b) Internet
+    c) Application
+    d) Network Access
 
-True/False: Fiber-optic cables use light for data transmission.
+16. True/False: Fiber-optic cables use light for data transmission.
 
-Fill in the Blank: The TCP/IP model does not have a dedicated _____ layer compared to OSI.
+17. Fill in the Blank: The TCP/IP model does not have a dedicated _____ layer compared to OSI.
 
-MCQ: What is the maximum length of a twisted-pair cable for Ethernet networks? a. 100 meters b. 200 meters c. 500 meters d. 1000 meters
+18. MCQ: What is the maximum length of a twisted-pair cable for Ethernet networks?
+    a) 100 meters
+    b) 200 meters
+    c) 500 meters
+    d) 1000 meters
 
-True/False: UDP is a reliable transport protocol.
+19. True/False: UDP is a reliable transport protocol.
 
-Fill in the Blank: The _____ protocol is responsible for translating domain names to IP addresses.
+20. Fill in the Blank: The _____ protocol is responsible for translating domain names to IP addresses.
 
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 
-MCQ: Which protocol operates at the Transport layer of the OSI model? a. HTTP b. TCP c. FTP d. ARP
+21. MCQ: Which protocol operates at the Transport layer of the OSI model?
+    a) HTTP
+    b) TCP
+    c) FTP
+    d) ARP
 
-MCQ: Which OSI layer is responsible for data compression? a. Application b. Session c. Presentation d. Network
+22. MCQ: Which OSI layer is responsible for data compression?
+    a) Application
+    b) Session
+    c) Presentation
+    d) Network
 
-True/False: The MAC address is a hardware address unique to each network interface.
+23. True/False: The MAC address is a hardware address unique to each network interface.
 
-Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
+24. Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
 
-MCQ: Which type of communication media is immune to electromagnetic interference? a. Coaxial b. Twisted Pair c. Fiber Optic d. Wireless
+25. MCQ: Which type of communication media is immune to electromagnetic interference?
+    a) Coaxial
+    b) Twisted Pair
+    c) Fiber Optic
+    d) Wireless
 
-True/False: ARP is used to map IP addresses to MAC addresses.
+26. True/False: ARP is used to map IP addresses to MAC addresses.
 
-Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
+27. Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
 
-MCQ: Which layer of the OSI model ensures reliable data transfer? a. Network b. Transport c. Data Link d. Physical
+28. MCQ: Which layer of the OSI model ensures reliable data transfer?
+    a) Network
+    b) Transport
+    c) Data Link
+    d) Physical
 
-True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
+29. True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
 
-Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
+30. Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
 
-MCQ: The handshake process occurs in which TCP/IP layer? a. Application b. Transport c. Internet d. Network Access
+31. MCQ: The handshake process occurs in which TCP/IP layer?
+    a) Application
+    b) Transport
+    c) Internet
+    d) Network Access
 
 
 
@@ -266,79 +318,87 @@ Basic:
 
 
 
+
+
+
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 ----------------------------------------------------------------
-MCQ: Which protocol operates at the Transport layer of the OSI model?
-a. HTTP
-b. TCP
-c. FTP
-d. ARP
 
-MCQ: Which OSI layer is responsible for data compression?
-a. Application
-b. Session
-c. Presentation
-d. Network
 
-True/False: The MAC address is a hardware address unique to each network interface.
 
-Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
 
-MCQ: Which type of communication media is immune to electromagnetic interference?
-a. Coaxial
-b. Twisted Pair
-c. Fiber Optic
-d. Wireless
+1. MCQ: Which protocol operates at the Transport layer of the OSI model?
+   a) HTTP
+   b) TCP
+   c) FTP
+   d) ARP
 
-True/False: ARP is used to map IP addresses to MAC addresses.
+2. MCQ: Which OSI layer is responsible for data compression?
+   a) Application
+   b) Session
+   c) Presentation
+   d) Network
 
-Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
+3. True/False: The MAC address is a hardware address unique to each network interface.
 
-MCQ: Which layer of the OSI model ensures reliable data transfer?
-a. Network
-b. Transport
-c. Data Link
-d. Physical
+4. Fill in the Blank: The _____ layer in OSI model is primarily responsible for end-to-end communication and error recovery.
 
-True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
+5. MCQ: Which type of communication media is immune to electromagnetic interference?
+   a) Coaxial
+   b) Twisted Pair
+   c) Fiber Optic
+   d) Wireless
 
-Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
+6. True/False: ARP is used to map IP addresses to MAC addresses.
 
-MCQ: The handshake process occurs in which TCP/IP layer?
-a. Application
-b. Transport
-c. Internet
-d. Network Access
+7. Fill in the Blank: The _____ protocol is used to retrieve emails from a mail server.
 
-True/False: HTTP is a stateless protocol.
+8. MCQ: Which layer of the OSI model ensures reliable data transfer?
+   a) Network
+   b) Transport
+   c) Data Link
+   d) Physical
 
-Fill in the Blank: The _____ protocol is used for file transfer between a client and a server without encryption.
+9. True/False: The TCP/IP Internet layer is equivalent to the OSI Network layer.
 
-MCQ: What is the purpose of the Data Link layer in the OSI model?
-a. Packet routing
-b. Physical addressing
-c. Network topology
-d. Application services
+10. Fill in the Blank: The _____ layer in OSI model establishes, manages, and terminates sessions between applications.
 
-True/False: A star topology uses a central hub or switch for communication.
+11. MCQ: The handshake process occurs in which TCP/IP layer?
+    a) Application
+    b) Transport
+    c) Internet
+    d) Network Access
 
-Fill in the Blank: In IPv4, there are _____ octets in an address.
+12. True/False: HTTP is a stateless protocol.
 
-MCQ: Which protocol provides dynamic assignment of IP addresses?
-a. ARP
-b. DHCP
-c. DNS
-d. ICMP
+13. Fill in the Blank: The _____ protocol is used for file transfer between a client and a server without encryption.
 
-True/False: TCP uses port numbers to identify processes.
+14. MCQ: What is the purpose of the Data Link layer in the OSI model?
+    a) Packet routing
+    b) Physical addressing
+    c) Network topology
+    d) Application services
 
-Fill in the Blank: The _____ protocol provides secure, encrypted connections for web communication.
+15. True/False: A star topology uses a central hub or switch for communication.
 
-MCQ: Which layer in OSI is responsible for packet framing?
-a. Physical
-b. Data Link
-c. Network
-d. Session
+16. Fill in the Blank: In IPv4, there are _____ octets in an address.
+
+17. MCQ: Which protocol provides dynamic assignment of IP addresses?
+    a) ARP
+    b) DHCP
+    c) DNS
+    d) ICMP
+
+18. True/False: TCP uses port numbers to identify processes.
+
+19. Fill in the Blank: The _____ protocol provides secure, encrypted connections for web communication.
+
+20. MCQ: Which layer in OSI is responsible for packet framing?
+    a) Physical
+    b) Data Link
+    c) Network
+    d) Session
+
 
 
 
@@ -375,74 +435,80 @@ Intermediate:
 
 Advanced Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------------
-MCQ: Which protocol in the Internet layer is used for error reporting?
-a. ICMP
-b. ARP
-c. RARP
-d. DHCP
 
-True/False: VLANs operate at Layer 2 of the OSI model.
 
-Fill in the Blank: _____ is a protocol used for transferring web pages from servers to clients.
 
-MCQ: The concept of subnetting is implemented at which layer of the OSI model?
-a. Data Link
-b. Network
-c. Transport
-d. Session
 
-True/False: The Session layer provides flow control mechanisms.
 
-Fill in the Blank: The _____ protocol is used for real-time audio and video transmission over IP networks.
 
-MCQ: Which type of routing protocol uses the shortest path first algorithm?
-a. Distance Vector
-b. Link State
-c. Hybrid
-d. Static
 
-True/False: IPv6 addresses are 128 bits long.
+1. MCQ: Which protocol in the Internet layer is used for error reporting?
+   a) ICMP
+   b) ARP
+   c) RARP
+   d) DHCP
 
-Fill in the Blank: The OSI model’s _____ layer is concerned with the format and syntax of data.
+2. True/False: VLANs operate at Layer 2 of the OSI model.
 
-MCQ: What does DNS stand for?
-a. Domain Naming Structure
-b. Domain Name System
-c. Data Network Services
-d. Digital Name Server
+3. Fill in the Blank: _____ is a protocol used for transferring web pages from servers to clients.
 
-True/False: Multicast addresses are used for one-to-many communication.
+4. MCQ: The concept of subnetting is implemented at which layer of the OSI model?
+   a) Data Link
+   b) Network
+   c) Transport
+   d) Session
 
-Fill in the Blank: The _____ layer is responsible for maintaining data integrity across sessions in OSI.
+5. True/False: The Session layer provides flow control mechanisms.
 
-MCQ: Which of the following protocols is used to monitor network devices?
-a. FTP
-b. SNMP
-c. SMTP
-d. DNS
+6. Fill in the Blank: The _____ protocol is used for real-time audio and video transmission over IP networks.
 
-True/False: In a peer-to-peer network, there is no centralized server.
+7. MCQ: Which type of routing protocol uses the shortest path first algorithm?
+   a) Distance Vector
+   b) Link State
+   c) Hybrid
+   d) Static
 
-Fill in the Blank: _____ is a transport layer protocol designed for fast, lightweight, and unreliable communication.
+8. True/False: IPv6 addresses are 128 bits long.
 
-MCQ: Which of these is a connectionless protocol?
-a. TCP
-b. UDP
-c. FTP
-d. Telnet
+9. Fill in the Blank: The OSI model’s _____ layer is concerned with the format and syntax of data.
 
-True/False: MPLS is used for routing packets efficiently in large-scale networks.
+10. MCQ: What does DNS stand for?
+    a) Domain Naming Structure
+    b) Domain Name System
+    c) Data Network Services
+    d) Digital Name Server
 
-Fill in the Blank: The _____ protocol is used to translate private IP addresses to public IP addresses.
+11. True/False: Multicast addresses are used for one-to-many communication.
 
-MCQ: What is the main advantage of a mesh topology?
-a. Cost efficiency
-b. High redundancy
-c. Easy installation
-d. Limited connections
+12. Fill in the Blank: The _____ layer is responsible for maintaining data integrity across sessions in OSI.
 
-True/False: NAT is implemented at the Network layer of the OSI model.
+13. MCQ: Which of the following protocols is used to monitor network devices?
+    a) FTP
+    b) SNMP
+    c) SMTP
+    d) DNS
 
+14. True/False: In a peer-to-peer network, there is no centralized server.
+
+15. Fill in the Blank: _____ is a transport layer protocol designed for fast, lightweight, and unreliable communication.
+
+16. MCQ: Which of these is a connectionless protocol?
+    a) TCP
+    b) UDP
+    c) FTP
+    d) Telnet
+
+17. True/False: MPLS is used for routing packets efficiently in large-scale networks.
+
+18. Fill in the Blank: The _____ protocol is used to translate private IP addresses to public IP addresses.
+
+19. MCQ: What is the main advantage of a mesh topology?
+    a) Cost efficiency
+    b) High redundancy
+    c) Easy installation
+    d) Limited connections
+
+20. True/False: NAT is implemented at the Network layer of the OSI model.
 
 
 
@@ -500,45 +566,81 @@ Network Security and IPv4
 Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
-MCQ: What does IPv4 stand for? a. Internet Protocol Version 4 b. Internal Protocol Version 4 c. Interactive Protocol Version 4 d. Inter-network Protocol Version 4
 
-MCQ: Which layer of the OSI model is responsible for network security implementation? a. Application b. Network c. Data Link d. Transport
 
-True/False: IPv4 addresses are 64 bits long.
+1. MCQ: What does IPv4 stand for?
+   a) Internet Protocol Version 4
+   b) Internal Protocol Version 4
+   c) Interactive Protocol Version 4
+   d) Inter-network Protocol Version 4
 
-Fill in the Blank: The primary security protocol used in VPNs is ����.
+2. MCQ: Which layer of the OSI model is responsible for network security implementation?
+   a) Application
+   b) Network
+   c) Data Link
+   d) Transport
 
-MCQ: Which protocol is used for secure communication over a network? a. HTTP b. FTP c. HTTPS d. Telnet
+3. True/False: IPv4 addresses are 64 bits long.
 
-MCQ: What is the range of Class C IPv4 addresses? a. 192.0.0.0 - 223.255.255.255 b. 128.0.0.0 - 191.255.255.255 c. 1.0.0.0 - 126.255.255.255 d. 224.0.0.0 - 239.255.255.255
+4. Fill in the Blank: The primary security protocol used in VPNs is ______.
 
-True/False: Network firewalls operate at the Application layer of the OSI model.
+5. MCQ: Which protocol is used for secure communication over a network?
+   a) HTTP
+   b) FTP
+   c) HTTPS
+   d) Telnet
 
-Fill in the Blank: The IPv4 header contains a field called ���� to ensure the integrity of data.
+6. MCQ: What is the range of Class C IPv4 addresses?
+   a) 192.0.0.0 - 223.255.255.255
+   b) 128.0.0.0 - 191.255.255.255
+   c) 1.0.0.0 - 126.255.255.255
+   d) 224.0.0.0 - 239.255.255.255
 
-MCQ: What is the primary function of NAT (Network Address Translation)? a. Encrypting network traffic b. Mapping private IP addresses to public IP addresses c. Detecting network intrusions d. Controlling access to network resources
+7. True/False: Network firewalls operate at the Application layer of the OSI model.
 
-True/False: SSL/TLS protocols are used to secure HTTP traffic.
+8. Fill in the Blank: The IPv4 header contains a field called ______ to ensure the integrity of data.
 
-Fill in the Blank: IPv4 supports up to ���� unique addresses.
+9. MCQ: What is the primary function of NAT (Network Address Translation)?
+   a) Encrypting network traffic
+   b) Mapping private IP addresses to public IP addresses
+   c) Detecting network intrusions
+   d) Controlling access to network resources
 
-MCQ: Which of the following is a feature of IPv4? a. Fixed header size b. Improved mobility support c. Built-in encryption d. 128-bit address space
+10. True/False: SSL/TLS protocols are used to secure HTTP traffic.
 
-True/False: The subnet mask 255.255.255.0 is used in Class B networks.
+11. Fill in the Blank: IPv4 supports up to ______ unique addresses.
 
-Fill in the Blank: The default gateway serves as a ���� for devices to access external networks.
+12. MCQ: Which of the following is a feature of IPv4?
+   a) Fixed header size
+   b) Improved mobility support
+   c) Built-in encryption
+   d) 128-bit address space
 
-MCQ: Which protocol detects and prevents unauthorized access in a network? a. ARP b. ICMP c. IDS d. SNMP
+13. True/False: The subnet mask 255.255.255.0 is used in Class B networks.
 
-True/False: An IPv4 address can have up to 32 bits.
+14. Fill in the Blank: The default gateway serves as a ______ for devices to access external networks.
 
-Fill in the Blank: The process of dividing a network into smaller sub-networks is called ����.
+15. MCQ: Which protocol detects and prevents unauthorized access in a network?
+   a) ARP
+   b) ICMP
+   c) IDS
+   d) SNMP
 
-MCQ: Which type of attack involves intercepting network packets? a. Phishing b. Man-in-the-middle c. DDoS d. SQL injection
+16. True/False: An IPv4 address can have up to 32 bits.
 
-True/False: IPsec operates at the Transport layer of the OSI model.
+17. Fill in the Blank: The process of dividing a network into smaller sub-networks is called ______.
 
-Fill in the Blank: The protocol used to dynamically assign IP addresses is ����.
+18. MCQ: Which type of attack involves intercepting network packets?
+   a) Phishing
+   b) Man-in-the-middle
+   c) DDoS
+   d) SQL injection
+
+19. True/False: IPsec operates at the Transport layer of the OSI model.
+
+20. Fill in the Blank: The protocol used to dynamically assign IP addresses is ______.
+
+
 
 
 
@@ -555,49 +657,80 @@ a, 2. d, 3. False, 4. IPsec, 5. c, 6. a,
 
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 ---------------------------------------------------------------
-MCQ: Which IPv4 address class is reserved for multicast? a. Class A b. Class B c. Class D d. Class E
 
-MCQ: What does a subnet mask do? a. Encrypts data packets b. Identifies network and host portions of an IP address c. Provides error checking d. Manages network traffic
 
-True/False: IPv4 supports encryption natively in its headers.
 
-Fill in the Blank: The primary protocol used for network security at the Transport layer is ����.
+1. MCQ: Which IPv4 address class is reserved for multicast?
+   a) Class A
+   b) Class B
+   c) Class D
+   d) Class E
 
-MCQ: Which protocol is used to resolve IP addresses to MAC addresses? a. ARP b. DNS c. DHCP d. ICMP
+2. MCQ: What does a subnet mask do?
+   a) Encrypts data packets
+   b) Identifies network and host portions of an IP address
+   c) Provides error checking
+   d) Manages network traffic
 
-True/False: IPv4 supports private addressing for LAN communication.
+3. True/False: IPv4 supports encryption natively in its headers.
 
-Fill in the Blank: The field in the IPv4 header responsible for packet fragmentation is called ����.
+4. Fill in the Blank: The primary protocol used for network security at the Transport layer is ______.
 
-MCQ: Which port is used for HTTPS traffic? a. 80 b. 25 c. 443 d. 21
+5. MCQ: Which protocol is used to resolve IP addresses to MAC addresses?
+   a) ARP
+   b) DNS
+   c) DHCP
+   d) ICMP
 
-True/False: A stateful firewall monitors active connections and determines network traffic rules accordingly.
+6. True/False: IPv4 supports private addressing for LAN communication.
 
-Fill in the Blank: The IPv4 protocol uses a ���� field to limit the lifespan of packets in the network.
+7. Fill in the Blank: The field in the IPv4 header responsible for packet fragmentation is called ______.
 
-MCQ: Which tool is commonly used to monitor network security? a. Wireshark b. Telnet c. Ping d. FTP
+8. MCQ: Which port is used for HTTPS traffic?
+   a) 80
+   b) 25
+   c) 443
+   d) 21
 
-True/False: CIDR (Classless Inter-Domain Routing) replaces traditional class-based addressing in IPv4.
+9. True/False: A stateful firewall monitors active connections and determines network traffic rules accordingly.
 
-Fill in the Blank: A VLAN separates devices on the same physical network into ���� groups.
+10. Fill in the Blank: The IPv4 protocol uses a ______ field to limit the lifespan of packets in the network.
 
-MCQ: Which type of attack floods a network with excessive traffic? a. DDoS b. Spoofing c. Brute Force d. SQL Injection
+11. MCQ: Which tool is commonly used to monitor network security?
+   a) Wireshark
+   b) Telnet
+   c) Ping
+   d) FTP
 
-True/False: The IP header contains a "Protocol" field to indicate the transport layer protocol.
+12. True/False: CIDR (Classless Inter-Domain Routing) replaces traditional class-based addressing in IPv4.
 
-Fill in the Blank: IPv4 uses a protocol called ���� for error reporting and diagnostic functions.
+13. Fill in the Blank: A VLAN separates devices on the same physical network into ______ groups.
 
-MCQ: What is the default subnet mask for a Class A network? a. 255.0.0.0 b. 255.255.0.0 c. 255.255.255.0 d. 255.255.255.255
+14. MCQ: Which type of attack floods a network with excessive traffic?
+   a) DDoS
+   b) Spoofing
+   c) Brute Force
+   d) SQL Injection
 
-True/False: A packet sniffer can analyze encrypted traffic directly.
+15. True/False: The IP header contains a "Protocol" field to indicate the transport layer protocol.
 
-Fill in the Blank: NAT enhances IPv4 address space by allowing devices to share a ���� IP address.
+16. Fill in the Blank: IPv4 uses a protocol called ______ for error reporting and diagnostic functions.
 
-MCQ: Which layer does IPv4 operate at in the OSI model? 
-a. Transport
-b. Data Link
-c. Network
-d. Application
+17. MCQ: What is the default subnet mask for a Class A network?
+   a) 255.0.0.0
+   b) 255.255.0.0
+   c) 255.255.255.0
+   d) 255.255.255.255
+
+18. True/False: A packet sniffer can analyze encrypted traffic directly.
+
+19. Fill in the Blank: NAT enhances IPv4 address space by allowing devices to share a ______ IP address.
+
+20. MCQ: Which layer does IPv4 operate at in the OSI model? 
+   a) Transport
+   b) Data Link
+   c) Network
+   d) Application
 
 
 
@@ -611,75 +744,83 @@ c, 2. b, 3. False, 4. SSL/TLS, 5. a, 6. True, 7. Flags, 8. c, 9. True, 10. TTL, 
 
 
 
+
+
+
+
 Advanced Questions (MCQs, True/False, Fill in the Blanks)
 -------------------------------------------------
-MCQ: What is the primary difference between symmetric and asymmetric encryption?
-a. Key length
-b. Number of keys used
-c. Speed of encryption
-d. Algorithm complexity
 
-True/False: IPv4 supports Quality of Service (QoS) through the "Type of Service" field in its header.
 
-Fill in the Blank: The ���� protocol ensures secure remote access to a network.
 
-MCQ: Which IPv4 address range is reserved for private networks?
-a. 10.0.0.0 - 10.255.255.255
-b. 127.0.0.0 - 127.255.255.255
-c. 172.0.0.0 - 172.255.255.255
-d. 192.168.0.0 - 192.168.255.255
+1. MCQ: What is the primary difference between symmetric and asymmetric encryption?
+   a) Key length
+   b) Number of keys used
+   c) Speed of encryption
+   d) Algorithm complexity
 
-True/False: Stateful firewalls can block traffic based on both source and destination IP addresses.
+2. True/False: IPv4 supports Quality of Service (QoS) through the "Type of Service" field in its header.
 
-Fill in the Blank: The protocol used for secure file transfers over SSH is ����.
+3. Fill in the Blank: The ______ protocol ensures secure remote access to a network.
 
-MCQ: What is the size of the IPv4 address space?
-a. 16 million addresses
-b. 4 billion addresses
-c. 64 billion addresses
-d. 1 trillion addresses
+4. MCQ: Which IPv4 address range is reserved for private networks?
+   a) 10.0.0.0 - 10.255.255.255
+   b) 127.0.0.0 - 127.255.255.255
+   c) 172.0.0.0 - 172.255.255.255
+   d) 192.168.0.0 - 192.168.255.255
 
-True/False: HIDS (Host-based Intrusion Detection Systems) monitors activity on a single device.
+5. True/False: Stateful firewalls can block traffic based on both source and destination IP addresses.
 
-Fill in the Blank: The IPv4 ���� field is used to identify higher-level protocols like TCP or UDP.
+6. Fill in the Blank: The protocol used for secure file transfers over SSH is ______.
 
-MCQ: Which protocol is used to encrypt email messages?
-a. PGP
-b. SMTP
-c. POP3
-d. IMAP
+7. MCQ: What is the size of the IPv4 address space?
+   a) 16 million addresses
+   b) 4 billion addresses
+   c) 64 billion addresses
+   d) 1 trillion addresses
 
-True/False: IPv4 supports fragmentation to allow packets to traverse networks with different MTUs.
+8. True/False: HIDS (Host-based Intrusion Detection Systems) monitors activity on a single device.
 
-Fill in the Blank: The ���� algorithm is used to determine the best path for packet delivery in IPv4.
+9. Fill in the Blank: The IPv4 ______ field is used to identify higher-level protocols like TCP or UDP.
 
-MCQ: What does a DMZ (Demilitarized Zone) provide in network security?
-a. High-speed data transmission
-b. Isolation for external-facing services
-c. Improved encryption standards
-d. Reduced latency
+10. MCQ: Which protocol is used to encrypt email messages?
+    a) PGP
+    b) SMTP
+    c) POP3
+    d) IMAP
 
-True/False: IPv4 has built-in mechanisms to mitigate DDoS attacks.
+11. True/False: IPv4 supports fragmentation to allow packets to traverse networks with different MTUs.
 
-Fill in the Blank: IPsec operates in two modes: ���� and tunnel mode.
+12. Fill in the Blank: The ______ algorithm is used to determine the best path for packet delivery in IPv4.
 
-MCQ: Which protocol allows secure command-line access to remote devices?
-a. Telnet
-b. SSH
-c. RDP
-d. SNMP
+13. MCQ: What does a DMZ (Demilitarized Zone) provide in network security?
+    a) High-speed data transmission
+    b) Isolation for external-facing services
+    c) Improved encryption standards
+    d) Reduced latency
 
-True/False: An ACL (Access Control List) is a mechanism to control inbound and outbound traffic.
+14. True/False: IPv4 has built-in mechanisms to mitigate DDoS attacks.
 
-Fill in the Blank: IPv4 address exhaustion has led to the adoption of ���� as a replacement protocol.
+15. Fill in the Blank: IPsec operates in two modes: ______ and tunnel mode.
 
-MCQ: What is a key feature of IDS (Intrusion Detection Systems)?
-a. Blocking malicious traffic
-b. Detecting suspicious activities
-c. Encrypting data packets
-d. Allocating IP addresses
+16. MCQ: Which protocol allows secure command-line access to remote devices?
+    a) Telnet
+    b) SSH
+    c) RDP
+    d) SNMP
 
-True/False: VPNs use tunneling protocols to secure data transmission over the Internet.
+17. True/False: An ACL (Access Control List) is a mechanism to control inbound and outbound traffic.
+
+18. Fill in the Blank: IPv4 address exhaustion has led to the adoption of ______ as a replacement protocol.
+
+19. MCQ: What is a key feature of IDS (Intrusion Detection Systems)?
+    a) Blocking malicious traffic
+    b) Detecting suspicious activities
+    c) Encrypting data packets
+    d) Allocating IP addresses
+
+20. True/False: VPNs use tunneling protocols to secure data transmission over the Internet.
+
 
 
 --------------------------
@@ -730,74 +871,75 @@ Modulation Techniques and Switching Techniques
 Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
-MCQ: What is the primary function of modulation in communication systems?
-a. Amplify the signal
-b. Combine the signal with noise
-c. Superimpose information on a carrier signal
-d. Convert analog to digital
 
-True/False: Amplitude modulation is used to encode information by varying the frequency of the carrier wave.
 
-Fill in the Blank: The process of varying the frequency of a carrier signal is called ���� modulation.
+1. MCQ: What is the primary function of modulation in communication systems?
+   a) Amplify the signal
+   b) Combine the signal with noise
+   c) Superimpose information on a carrier signal
+   d) Convert analog to digital
 
-MCQ: Which type of modulation is primarily used in FM radio broadcasting?
-a. Amplitude Modulation
-b. Phase Modulation
-c. Frequency Modulation
-d. Pulse Modulation
+2. True/False: Amplitude modulation is used to encode information by varying the frequency of the carrier wave.
 
-True/False: In digital modulation, data is transmitted using discrete signal levels.
+3. Fill in the Blank: The process of varying the frequency of a carrier signal is called ______ modulation.
 
-Fill in the Blank: In PCM, the analog signal is sampled at regular intervals, quantized, and then ����.
+4. MCQ: Which type of modulation is primarily used in FM radio broadcasting?
+   a) Amplitude Modulation
+   b) Phase Modulation
+   c) Frequency Modulation
+   d) Pulse Modulation
 
-MCQ: Which modulation technique is most resistant to noise?
-a. AM
-b. FM
-c. PM
-d. FSK
+5. True/False: In digital modulation, data is transmitted using discrete signal levels.
 
-True/False: Quadrature Amplitude Modulation (QAM) combines both amplitude and phase modulation.
+6. Fill in the Blank: In PCM, the analog signal is sampled at regular intervals, quantized, and then ______.
 
-Fill in the Blank: In Frequency Shift Keying (FSK), digital data is represented using changes in the ���� of the carrier wave.
+7. MCQ: Which modulation technique is most resistant to noise?
+   a) AM
+   b) FM
+   c) PM
+   d) FSK
 
-MCQ: Which switching technique is used in traditional telephone networks?
-a. Circuit Switching
-b. Packet Switching
-c. Message Switching
-d. Frequency Switching
+8. True/False: Quadrature Amplitude Modulation (QAM) combines both amplitude and phase modulation.
 
-True/False: Packet switching involves establishing a dedicated communication path before data transmission begins.
+9. Fill in the Blank: In Frequency Shift Keying (FSK), digital data is represented using changes in the ______ of the carrier wave.
 
-Fill in the Blank: A ���� switch is used to forward data packets based on their destination address.
+10. MCQ: Which switching technique is used in traditional telephone networks?
+    a) Circuit Switching
+    b) Packet Switching
+    c) Message Switching
+    d) Frequency Switching
 
-MCQ: Which switching technique is most suitable for real-time video streaming?
-a. Message Switching
-b. Circuit Switching
-c. Packet Switching
-d. Hybrid Switching
+11. True/False: Packet switching involves establishing a dedicated communication path before data transmission begins.
 
-True/False: Message switching stores the entire message at intermediate nodes before forwarding it to the destination.
+12. Fill in the Blank: A ______ switch is used to forward data packets based on their destination address.
 
-Fill in the Blank: The time taken to establish a circuit in circuit switching is known as ���� delay.
+13. MCQ: Which switching technique is most suitable for real-time video streaming?
+    a) Message Switching
+    b) Circuit Switching
+    c) Packet Switching
+    d) Hybrid Switching
 
-MCQ: Which modulation technique is commonly used in Wi-Fi communication?
-a. BPSK
-b. QPSK
-c. QAM
-d. All of the above
+14. True/False: Message switching stores the entire message at intermediate nodes before forwarding it to the destination.
 
-True/False: Phase modulation varies the amplitude of the carrier wave to encode information.
+15. Fill in the Blank: The time taken to establish a circuit in circuit switching is known as ______ delay.
 
-Fill in the Blank: The ���� modulation technique is widely used in mobile communication standards such as GSM.
+16. MCQ: Which modulation technique is commonly used in Wi-Fi communication?
+    a) BPSK
+    b) QPSK
+    c) QAM
+    d) All of the above
 
-MCQ: Which switching technique divides the bandwidth into time slots for each connection?
-a. Frequency Division Multiplexing
-b. Time Division Multiplexing
-c. Space Division Switching
-d. Packet Switching
+17. True/False: Phase modulation varies the amplitude of the carrier wave to encode information.
 
-True/False: In Frequency Division Multiplexing, all signals are transmitted simultaneously over separate frequency bands.
+18. Fill in the Blank: The ______ modulation technique is widely used in mobile communication standards such as GSM.
 
+19. MCQ: Which switching technique divides the bandwidth into time slots for each connection?
+    a) Frequency Division Multiplexing
+    b) Time Division Multiplexing
+    c) Space Division Switching
+    d) Packet Switching
+
+20. True/False: In Frequency Division Multiplexing, all signals are transmitted simultaneously over separate frequency bands.
 
 
 ---------------------------------------
@@ -816,75 +958,73 @@ Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
+1. MCQ: What is the main advantage of digital modulation over analog modulation?
+   a) Higher bandwidth usage
+   b) Resistance to noise and interference
+   c) Lower power efficiency
+   d) Complex circuitry
 
+2. True/False: Time Division Multiplexing (TDM) is used to combine multiple analog signals on a single communication channel.
 
-MCQ: What is the main advantage of digital modulation over analog modulation?
-a. Higher bandwidth usage
-b. Resistance to noise and interference
-c. Lower power efficiency
-d. Complex circuitry
+3. Fill in the Blank: The maximum data rate achievable in a communication system is limited by ______ bandwidth.
 
-True/False: Time Division Multiplexing (TDM) is used to combine multiple analog signals on a single communication channel.
+4. MCQ: In QPSK, how many bits are represented per symbol?
+   a) 1
+   b) 2
+   c) 3
+   d) 4
 
-Fill in the Blank: The maximum data rate achievable in a communication system is limited by ���� bandwidth.
+5. True/False: Frequency hopping is a technique used in spread spectrum communication.
 
-MCQ: In QPSK, how many bits are represented per symbol?
-a. 1
-b. 2
-c. 3
-d. 4
+6. Fill in the Blank: A ______ switch is a combination of packet and circuit switching.
 
-True/False: Frequency hopping is a technique used in spread spectrum communication.
+7. MCQ: Which switching technique is used in the Internet?
+   a) Circuit Switching
+   b) Packet Switching
+   c) Message Switching
+   d) Hybrid Switching
 
-Fill in the Blank: A ���� switch is a combination of packet and circuit switching.
+8. True/False: Phase Shift Keying (PSK) uses different phases of the carrier signal to represent digital data.
 
-MCQ: Which switching technique is used in the Internet?
-a. Circuit Switching
-b. Packet Switching
-c. Message Switching
-d. Hybrid Switching
+9. Fill in the Blank: In circuit switching, a ______ communication path is established between sender and receiver.
 
-True/False: Phase Shift Keying (PSK) uses different phases of the carrier signal to represent digital data.
+10. MCQ: Which modulation technique uses two carrier signals shifted by 90 degrees?
+    a) AM
+    b) PM
+    c) QAM
+    d) FSK
 
-Fill in the Blank: In circuit switching, a ���� communication path is established between sender and receiver.
+11. True/False: Pulse Code Modulation (PCM) is an analog modulation technique.
 
-MCQ: Which modulation technique uses two carrier signals shifted by 90 degrees?
-a. AM
-b. PM
-c. QAM
-d. FSK
+12. Fill in the Blank: In packet switching, data is broken into ______ that are transmitted independently.
 
-True/False: Pulse Code Modulation (PCM) is an analog modulation technique.
+13. MCQ: Which spread spectrum technique uses pseudorandom codes?
+    a) Frequency Hopping
+    b) Direct Sequence
+    c) OFDM
+    d) CDMA
 
-Fill in the Blank: In packet switching, data is broken into ���� that are transmitted independently.
+14. True/False: In message switching, packets are forwarded immediately to the next node.
 
-MCQ: Which spread spectrum technique uses pseudorandom codes?
-a. Frequency Hopping
-b. Direct Sequence
-c. OFDM
-d. CDMA
+15. Fill in the Blank: The ability of a modulation scheme to carry data is measured in ______ per second.
 
-True/False: In message switching, packets are forwarded immediately to the next node.
+16. MCQ: What is the main disadvantage of circuit switching?
+    a) High latency
+    b) Bandwidth wastage
+    c) Inefficient for real-time data
+    d) Low data security
 
-Fill in the Blank: The ability of a modulation scheme to carry data is measured in ���� per second.
+17. True/False: OFDM (Orthogonal Frequency Division Multiplexing) divides the signal into multiple subcarriers.
 
-MCQ: What is the main disadvantage of circuit switching?
-a. High latency
-b. Bandwidth wastage
-c. Inefficient for real-time data
-d. Low data security
+18. Fill in the Blank: In PSK modulation, the number of phases determines the ______ rate of the system.
 
-True/False: OFDM (Orthogonal Frequency Division Multiplexing) divides the signal into multiple subcarriers.
+19. MCQ: Which switching technique provides guaranteed bandwidth?
+    a) Circuit Switching
+    b) Packet Switching
+    c) Message Switching
+    d) None of the above
 
-Fill in the Blank: In PSK modulation, the number of phases determines the ���� rate of the system.
-
-MCQ: Which switching technique provides guaranteed bandwidth?
-a. Circuit Switching
-b. Packet Switching
-c. Message Switching
-d. None of the above
-
-True/False: QAM uses both amplitude and phase variations to represent data
+20. True/False: QAM uses both amplitude and phase variations to represent data.
 
 
 
@@ -901,78 +1041,84 @@ Intermediate: 1. b, 2. False, 3. Channel, 4. b,
 
 
 
+
+
+
+
+
+
 Advanced Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
 
-MCQ: What is the primary purpose of OFDM in modern communication systems?
-a. Increase power efficiency
-b. Minimize interference
-c. Simplify receiver design
-d. Reduce signal bandwidth
+1. MCQ: What is the primary purpose of OFDM in modern communication systems?
+   a) Increase power efficiency
+   b) Minimize interference
+   c) Simplify receiver design
+   d) Reduce signal bandwidth
 
-True/False: Frequency hopping spread spectrum (FHSS) improves security in wireless communication.
+2. True/False: Frequency hopping spread spectrum (FHSS) improves security in wireless communication.
 
-Fill in the Blank: The ���� multiplexing technique is used to divide signals in optical fiber communication.
+3. Fill in the Blank: The ______ multiplexing technique is used to divide signals in optical fiber communication.
 
-MCQ: Which modulation technique is used in 4G LTE systems?
-a. QAM
-b. FSK
-c. AM
-d. PM
+4. MCQ: Which modulation technique is used in 4G LTE systems?
+   a) QAM
+   b) FSK
+   c) AM
+   d) PM
 
-True/False: Time Division Switching requires synchronization between all communicating devices.
+5. True/False: Time Division Switching requires synchronization between all communicating devices.
 
-Fill in the Blank: In a digital communication system, ���� is used to minimize inter-symbol interference.
+6. Fill in the Blank: In a digital communication system, ______ is used to minimize inter-symbol interference.
 
-MCQ: What is a key feature of Frequency Division Switching?
-a. Time slicing
-b. Dedicated channels
-c. Packet reassembly
-d. Error correction
+7. MCQ: What is a key feature of Frequency Division Switching?
+   a) Time slicing
+   b) Dedicated channels
+   c) Packet reassembly
+   d) Error correction
 
-True/False: Digital modulation is less bandwidth-efficient compared to analog modulation.
+8. True/False: Digital modulation is less bandwidth-efficient compared to analog modulation.
 
-Fill in the Blank: QPSK increases data rates by encoding two ���� per symbol.
+9. Fill in the Blank: QPSK increases data rates by encoding two ______ per symbol.
 
-MCQ: Which modulation technique is best for long-distance wireless communication?
-a. AM
-b. FM
-c. PM
-d. QPSK
+10. MCQ: Which modulation technique is best for long-distance wireless communication?
+    a) AM
+    b) FM
+    c) PM
+    d) QPSK
 
-True/False: Hybrid switching is commonly used in next-generation communication networks.
+11. True/False: Hybrid switching is commonly used in next-generation communication networks.
 
-Fill in the Blank: The maximum channel capacity is determined by the ���� theorem.
+12. Fill in the Blank: The maximum channel capacity is determined by the ______ theorem.
 
-MCQ: What is a primary benefit of circuit switching in telecommunication?
-a. Reduced setup time
-b. Guaranteed data delivery
-c. High efficiency for burst traffic
-d. Cost-effectiveness
+13. MCQ: What is a primary benefit of circuit switching in telecommunication?
+    a) Reduced setup time
+    b) Guaranteed data delivery
+    c) High efficiency for burst traffic
+    d) Cost-effectiveness
 
-True/False: Bandwidth efficiency is a key parameter in evaluating modulation techniques.
+14. True/False: Bandwidth efficiency is a key parameter in evaluating modulation techniques.
 
-Fill in the Blank: The error correction capability of a system is determined by its ���� code.
+15. Fill in the Blank: The error correction capability of a system is determined by its ______ code.
 
-MCQ: Which switching method is prone to delays due to intermediate storage of messages?
-a. Packet Switching
-b. Circuit Switching
-c. Message Switching
-d. Hybrid Switching
+16. MCQ: Which switching method is prone to delays due to intermediate storage of messages?
+    a) Packet Switching
+    b) Circuit Switching
+    c) Message Switching
+    d) Hybrid Switching
 
-True/False: Amplitude modulation is widely used in digital television broadcasting.
+17. True/False: Amplitude modulation is widely used in digital television broadcasting.
 
-Fill in the Blank: Frequency hopping improves system ���� by spreading signals over multiple frequencies.
+18. Fill in the Blank: Frequency hopping improves system ______ by spreading signals over multiple frequencies.
 
-MCQ: Which advanced modulation technique is used in 5G communication?
-a. QAM
-b. FSK
-c. OFDM
-d. TDM
+19. MCQ: Which advanced modulation technique is used in 5G communication?
+    a) QAM
+    b) FSK
+    c) OFDM
+    d) TDM
 
-True/False: Circuit switching is inefficient for bursty data traffic.
+20. True/False: Circuit switching is inefficient for bursty data traffic.
 
 
 
@@ -1032,74 +1178,73 @@ Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
+1. MCQ: What is the primary function of Boolean Algebra in digital circuits?
+   a) Simplify circuit design
+   b) Increase power consumption
+   c) Reduce processing speed
+   d) None of the above
 
-MCQ: What is the primary function of Boolean Algebra in digital circuits?
-a. Simplify circuit design
-b. Increase power consumption
-c. Reduce processing speed
-d. None of the above
+2. True/False: The AND gate outputs true only when all inputs are true.
 
-True/False: The AND gate outputs true only when all inputs are true.
+3. Fill in the Blank: The operation ______ in Boolean Algebra is equivalent to the logical OR operation.
 
-Fill in the Blank: The operation ���� in Boolean Algebra is equivalent to the logical OR operation.
+4. MCQ: Which of the following is a fundamental Boolean operation?
+   a) XOR
+   b) Addition
+   c) Subtraction
+   d) Division
 
-MCQ: Which of the following is a fundamental Boolean operation?
-a. XOR
-b. Addition
-c. Subtraction
-d. Division
+5. True/False: The NOT operation is also called an inverter in digital logic.
 
-True/False: The NOT operation is also called an inverter in digital logic.
+6. Fill in the Blank: The output of an XOR gate is true if and only if the inputs are ______.
 
-Fill in the Blank: The output of an XOR gate is true if and only if the inputs are ����.
+7. MCQ: Which processor component performs arithmetic operations?
+   a) Control Unit
+   b) Arithmetic Logic Unit
+   c) Memory
+   d) Registers
 
-MCQ: Which processor component performs arithmetic operations?
-a. Control Unit
-b. Arithmetic Logic Unit
-c. Memory
-d. Registers
+8. True/False: Registers are used to temporarily store data within the processor.
 
-True/False: Registers are used to temporarily store data within the processor.
+9. Fill in the Blank: The ______ is the part of the processor responsible for fetching instructions from memory.
 
-Fill in the Blank: The ���� is the part of the processor responsible for fetching instructions from memory.
+10. MCQ: What is the binary representation of the decimal number 7?
+    a) 101
+    b) 110
+    c) 111
+    d) 100
 
-MCQ: What is the binary representation of the decimal number 7?
-a. 101
-b. 110
-c. 111
-d. 100
+11. True/False: Multiplexers are used to select one output from multiple inputs.
 
-True/False: Multiplexers are used to select one output from multiple inputs.
+12. Fill in the Blank: A ______ is a sequential circuit used for counting.
 
-Fill in the Blank: A ���� is a sequential circuit used for counting.
+13. MCQ: Which law in Boolean Algebra states that A + AB = A?
+    a) Associative Law
+    b) Absorption Law
+    c) Distributive Law
+    d) De Morgan’s Law
 
-MCQ: Which law in Boolean Algebra states that A + AB = A?
-a. Associative Law
-b. Absorption Law
-c. Distributive Law
-d. De Morgan’s Law
+14. True/False: The ALU performs both arithmetic and logical operations.
 
-True/False: The ALU performs both arithmetic and logical operations.
+15. Fill in the Blank: The ______ diagram represents the Boolean expression in graphical form.
 
-Fill in the Blank: The ���� diagram represents the Boolean expression in graphical form.
+16. MCQ: Which gate has an output that is always the complement of its input?
+    a) AND
+    b) OR
+    c) NOT
+    d) XOR
 
-MCQ: Which gate has an output that is always the complement of its input?
-a. AND
-b. OR
-c. NOT
-d. XOR
+17. True/False: The fetch-decode-execute cycle is the basic operational process of a processor.
 
-True/False: The fetch-decode-execute cycle is the basic operational process of a processor.
+18. Fill in the Blank: A ______ is a flip-flop circuit commonly used in memory storage.
 
-Fill in the Blank: A ���� is a flip-flop circuit commonly used in memory storage.
+19. MCQ: What is the result of the Boolean expression A'B + AB'?
+    a) AB
+    b) A XOR B
+    c) A XNOR B
+    d) AB + A'B'
 
-MCQ: What is the result of the Boolean expression A'B + AB'?
-a. AB
-b. A XOR B
-c. A XNOR B
-d. AB + A'B'
-
-True/False: The NAND gate is called a universal gate because all other gates can be implemented using it.
+20. True/False: The NAND gate is called a universal gate because all other gates can be implemented using it.
 
 
 
@@ -1121,76 +1266,73 @@ Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
+1. MCQ: Which law allows simplification of Boolean expressions?
+   a) Commutative Law
+   b) Distributive Law
+   c) Associative Law
+   d) All of the above
 
+2. True/False: A half-adder can handle carry bits.
 
-MCQ: Which law allows simplification of Boolean expressions?
-a. Commutative Law
-b. Distributive Law
-c. Associative Law
-d. All of the above
+3. Fill in the Blank: The logical operation ______ outputs true if at least one of the inputs is true.
 
-True/False: A half-adder can handle carry bits.
+4. MCQ: Which is the smallest unit of data in a processor?
+   a) Byte
+   b) Bit
+   c) Word
+   d) Register
 
-Fill in the Blank: The logical operation ���� outputs true if at least one of the inputs is true.
+5. True/False: A full adder can add two binary numbers without a carry bit.
 
-MCQ: Which is the smallest unit of data in a processor?
-a. Byte
-b. Bit
-c. Word
-d. Register
+6. Fill in the Blank: The ______ operation in Boolean Algebra is represented by a dot (•).
 
-True/False: A full adder can add two binary numbers without a carry bit.
+7. MCQ: Which Boolean law is used in the expression A + A'B = A + B?
+   a) Absorption Law
+   b) Associative Law
+   c) Idempotent Law
+   d) De Morgan’s Law
 
-Fill in the Blank: The ���� operation in Boolean Algebra is represented by a dot (�).
+8. True/False: The processor’s control unit directs data flow within the system.
 
-MCQ: Which Boolean law is used in the expression A + A'B = A + B?
-a. Absorption Law
-b. Associative Law
-c. Idempotent Law
-d. De Morgan’s Law
+9. Fill in the Blank: A ______ is a digital circuit used to divide the frequency of a signal.
 
-True/False: The processor’s control unit directs data flow within the system.
+10. MCQ: Which of the following is a sequential circuit?
+    a) AND Gate
+    b) Flip-Flop
+    c) Decoder
+    d) Encoder
 
-Fill in the Blank: A ���� is a digital circuit used to divide the frequency of a signal.
+11. True/False: Flip-flops are used to store multiple bits of data.
 
-MCQ: Which of the following is a sequential circuit?
-a. AND Gate
-b. Flip-Flop
-c. Decoder
-d. Encoder
+12. Fill in the Blank: The processor communicates with memory through the ______ bus.
 
-True/False: Flip-flops are used to store multiple bits of data.
+13. MCQ: In a Karnaugh map, how are adjacent cells related?
+    a) They differ by one variable
+    b) They differ by two variables
+    c) They are identical
+    d) They are complementary
 
-Fill in the Blank: The processor communicates with memory through the ���� bus.
+14. True/False: A decoder converts binary information into multiple outputs.
 
-MCQ: In a Karnaugh map, how are adjacent cells related?
-a. They differ by one variable
-b. They differ by two variables
-c. They are identical
-d. They are complementary
+15. Fill in the Blank: The Boolean expression A + A' simplifies to ______.
 
-True/False: A decoder converts binary information into multiple outputs.
+16. MCQ: Which type of memory is volatile?
+    a) ROM
+    b) SRAM
+    c) DRAM
+    d) Flash
 
-Fill in the Blank: The Boolean expression A + A' simplifies to ����.
+17. True/False: A multiplexer combines multiple inputs into a single output.
 
-MCQ: Which type of memory is volatile?
-a. ROM
-b. SRAM
-c. DRAM
-d. Flash
+18. Fill in the Blank: In digital circuits, a ______ is used to compare two binary numbers.
 
-True/False: A multiplexer combines multiple inputs into a single output.
+19. MCQ: Which processor architecture uses a small set of simple instructions?
+    a) CISC
+    b) RISC
+    c) EPIC
+    d) MIPS
 
-Fill in the Blank: In digital circuits, a ���� is used to compare two binary numbers.
-
-MCQ: Which processor architecture uses a small set of simple instructions?
-a. CISC
-b. RISC
-c. EPIC
-d. MIPS
-
-True/False: The XOR gate is equivalent to an AND gate with inverted inputs.
-
+20. True/False: The XOR gate is equivalent to an AND gate with inverted inputs.
 
 
 ---------------------------------------
@@ -1205,78 +1347,88 @@ Intermediate: 1. d, 2. False, 3. OR, 4. b, 5. False,
 
 
 
+
+
+
+
+
+
 Advanced Questions (MCQs, True/False, Fill in the Blanks)
 
 -----------------------------------------------------------
 
 
-MCQ: Which law is applied in the simplification A(B + C) = AB + AC?
-a. Associative Law
-b. Distributive Law
-c. Absorption Law
-d. De Morgan’s Law
+1. MCQ: Which law is applied in the simplification A(B + C) = AB + AC?
+   a) Associative Law
+   b) Distributive Law
+   c) Absorption Law
+   d) De Morgan’s Law
 
-True/False: De Morgan’s Theorem converts AND operations into OR operations and vice versa.
+2. True/False: De Morgan’s Theorem converts AND operations into OR operations and vice versa.
 
-Fill in the Blank: The minimum number of gates required to implement an XOR function is ����.
+3. Fill in the Blank: The minimum number of gates required to implement an XOR function is ______.
 
-MCQ: Which processor register holds the address of the next instruction?
-a. Accumulator
-b. Program Counter
-c. Instruction Register
-d. Stack Pointer
+4. MCQ: Which processor register holds the address of the next instruction?
+   a) Accumulator
+   b) Program Counter
+   c) Instruction Register
+   d) Stack Pointer
 
-True/False: The ALU does not handle floating-point operations.
+5. True/False: The ALU does not handle floating-point operations.
 
-Fill in the Blank: The truth table of a logic gate lists all possible inputs and their corresponding ����.
+6. Fill in the Blank: The truth table of a logic gate lists all possible inputs and their corresponding ______.
 
-MCQ: Which Boolean function does the expression AB + A'B' represent?
-a. XOR
-b. XNOR
-c. AND
-d. OR
+7. MCQ: Which Boolean function does the expression AB + A'B' represent?
+   a) XOR
+   b) XNOR
+   c) AND
+   d) OR
 
-True/False: A clock signal is essential for the operation of sequential circuits.
+8. True/False: A clock signal is essential for the operation of sequential circuits.
 
-Fill in the Blank: A ���� diagram is used to represent the states and transitions in a sequential circuit.
+9. Fill in the Blank: A ______ diagram is used to represent the states and transitions in a sequential circuit.
 
-MCQ: Which architecture uses pipelining to improve performance?
-a. RISC
-b. CISC
-c. Harvard
-d. Von Neumann
+10. MCQ: Which architecture uses pipelining to improve performance?
+    a) RISC
+    b) CISC
+    c) Harvard
+    d) Von Neumann
 
-True/False: Multiplexers are also known as data selectors.
+11. True/False: Multiplexers are also known as data selectors.
 
-Fill in the Blank: The process of reducing a Boolean expression is called ����.
+12. Fill in the Blank: The process of reducing a Boolean expression is called ______.
 
-MCQ: What is the main advantage of RISC over CISC architecture?
-a. Higher power consumption
-b. Complex instructions
-c. Simplified control logic
-d. Limited functionality
+13. MCQ: What is the main advantage of RISC over CISC architecture?
+    a) Higher power consumption
+    b) Complex instructions
+    c) Simplified control logic
+    d) Limited functionality
 
-True/False: Registers are faster than cache memory.
+14. True/False: Registers are faster than cache memory.
 
-Fill in the Blank: The Boolean expression A�B simplifies to ����.
+15. Fill in the Blank: The Boolean expression A'B simplifies to ______.
 
-MCQ: What does the carry look-ahead adder improve?
-a. Power efficiency
-b. Propagation delay
-c. Memory usage
-d. Control unit speed
+16. MCQ: What does the carry look-ahead adder improve?
+    a) Power efficiency
+    b) Propagation delay
+    c) Memory usage
+    d) Control unit speed
 
-True/False: Sequential circuits rely on past inputs for their current state.
+17. True/False: Sequential circuits rely on past inputs for their current state.
 
-Fill in the Blank: The instruction ���� initiates the execution of a new process in the processor.
+18. Fill in the Blank: The instruction ______ initiates the execution of a new process in the processor.
 
-MCQ: Which gate is universal and can be used to construct any other gate?
-a. NAND
-b. XOR
-c. OR
-d. AND
+19. MCQ: Which gate is universal and can be used to construct any other gate?
+    a) NAND
+    b) XOR
+    c) OR
+    d) AND
 
-True/False: Boolean Algebra is a foundational concept in processor design.
+20. True/False: Boolean Algebra is a foundational concept in processor design.
+
+
+
+
 
 ---------------------------------------
 Advanced: 1. b, 2. True, 3. 4, 4. b, 5. False,
@@ -1315,73 +1467,82 @@ Basic Questions (MCQs, True/False, Fill in the Blanks)
 -----------------------------------------------------------
 
 
-MCQ: Which type of memory is fastest to access?
-a. Hard Drive
-b. RAM
-c. Cache
-d. SSD
 
-True/False: Volatile memory retains data even when the power is off.
 
-Fill in the Blank: The main memory is also known as ����.
 
-MCQ: What does I/O stand for in computer architecture?
-a. Input and Output
-b. Internal Operation
-c. Instruction and Output
-d. Input and Operation
+1. MCQ: Which type of memory is fastest to access?
+   a) Hard Drive
+   b) RAM
+   c) Cache
+   d) SSD
 
-True/False: ROM is a type of non-volatile memory.
+2. True/False: Volatile memory retains data even when the power is off.
 
-Fill in the Blank: The ���� is responsible for connecting the processor to the memory.
+3. Fill in the Blank: The main memory is also known as ______.
 
-MCQ: Which type of memory can be directly accessed by the processor?
-a. Secondary Storage
-b. Cache
-c. USB Drive
-d. Virtual Memory
+4. MCQ: What does I/O stand for in computer architecture?
+   a) Input and Output
+   b) Internal Operation
+   c) Instruction and Output
+   d) Input and Operation
 
-True/False: The CPU interacts directly with the hard drive during processing.
+5. True/False: ROM is a type of non-volatile memory.
 
-Fill in the Blank: A ���� is used to temporarily store data for processing.
+6. Fill in the Blank: The ______ is responsible for connecting the processor to the memory.
 
-MCQ: What is the purpose of a memory address?
-a. To store data
-b. To identify the location of data in memory
-c. To process data
-d. To delete data
+7. MCQ: Which type of memory can be directly accessed by the processor?
+   a) Secondary Storage
+   b) Cache
+   c) USB Drive
+   d) Virtual Memory
 
-True/False: Virtual memory increases the physical memory capacity of a computer.
+8. True/False: The CPU interacts directly with the hard drive during processing.
 
-Fill in the Blank: The process of transferring data between memory and storage is called ����.
+9. Fill in the Blank: A ______ is used to temporarily store data for processing.
 
-MCQ: Which of these is an example of an input device?
-a. Monitor
-b. Keyboard
-c. Printer
-d. Speaker
+10. MCQ: What is the purpose of a memory address?
+    a) To store data
+    b) To identify the location of data in memory
+    c) To process data
+    d) To delete data
 
-True/False: A printer is considered an output device.
+11. True/False: Virtual memory increases the physical memory capacity of a computer.
 
-Fill in the Blank: The ���� handles communication between the CPU and peripherals.
+12. Fill in the Blank: The process of transferring data between memory and storage is called ______.
 
-MCQ: What is the main function of DMA (Direct Memory Access)?
-a. To process instructions faster
-b. To allow peripherals to access memory without CPU intervention
-c. To enhance cache speed
-d. To increase RAM size
+13. MCQ: Which of these is an example of an input device?
+    a) Monitor
+    b) Keyboard
+    c) Printer
+    d) Speaker
 
-True/False: I/O controllers manage data flow between the processor and devices.
+14. True/False: A printer is considered an output device.
 
-Fill in the Blank: The ���� unit is responsible for managing all I/O operations.
+15. Fill in the Blank: The ______ handles communication between the CPU and peripherals.
 
-MCQ: Which bus is used for data transfer between memory and the processor?
-a. Address Bus
-b. Data Bus
-c. Control Bus
-d. I/O Bus
+16. MCQ: What is the main function of DMA (Direct Memory Access)?
+    a) To process instructions faster
+    b) To allow peripherals to access memory without CPU intervention
+    c) To enhance cache speed
+    d) To increase RAM size
 
-True/False: Secondary storage is faster than primary memory.
+17. True/False: I/O controllers manage data flow between the processor and devices.
+
+18. Fill in the Blank: The ______ unit is responsible for managing all I/O operations.
+
+19. MCQ: Which bus is used for data transfer between memory and the processor?
+    a) Address Bus
+    b) Data Bus
+    c) Control Bus
+    d) I/O Bus
+
+20. True/False: Secondary storage is faster than primary memory.
+
+
+
+
+
+
 
 ---------------------------------------
 Advanced: 1. c, 2. True, 3. Port, 4. b, 5. True, 
@@ -1396,79 +1557,88 @@ Advanced: 1. c, 2. True, 3. Port, 4. b, 5. True,
 
 
 
+
+
+
+
+
+
 Intermediate Questions (MCQs, True/False, Fill in the Blanks)
 
 -----------------------------------------------------------
 
 
+1. MCQ: Which type of memory is used to store frequently accessed data to speed up processing?
+   a) Hard Drive
+   b) RAM
+   c) Cache
+   d) ROM
 
-MCQ: Which type of memory is used to store frequently accessed data to speed up processing?
-a. Hard Drive
-b. RAM
-c. Cache
-d. ROM
+2. True/False: SRAM is faster but more expensive than DRAM.
 
-True/False: SRAM is faster but more expensive than DRAM.
+3. Fill in the Blank: The unit of memory is typically measured in ______.
 
-Fill in the Blank: The unit of memory is typically measured in ����.
+4. MCQ: Which type of memory is used during the booting process of a computer?
+   a) DRAM
+   b) ROM
+   c) RAM
+   d) Cache
 
-MCQ: Which type of memory is used during the booting process of a computer?
-a. DRAM
-b. ROM
-c. RAM
-d. Cache
+5. True/False: The system bus connects all components of the computer, including the CPU, memory, and peripherals.
 
-True/False: The system bus connects all components of the computer, including the CPU, memory, and peripherals.
+6. Fill in the Blank: Memory hierarchy is designed to ______ processing speed and reduce cost.
 
-Fill in the Blank: Memory hierarchy is designed to ���� processing speed and reduce cost.
+7. MCQ: Which of the following is an example of sequential access memory?
+   a) Hard Drive
+   b) Magnetic Tape
+   c) USB Drive
+   d) Cache
 
-MCQ: Which of the following is an example of sequential access memory?
-a. Hard Drive
-b. Magnetic Tape
-c. USB Drive
-d. Cache
+8. True/False: I/O structures involve both hardware and software components.
 
-True/False: I/O structures involve both hardware and software components.
+9. Fill in the Blank: The ______ is a high-speed storage element within the CPU.
 
-Fill in the Blank: The ���� is a high-speed storage element within the CPU.
+10. MCQ: What is the primary role of the control bus?
+    a) To transfer data
+    b) To synchronize signals
+    c) To store addresses
+    d) To manage power
 
-MCQ: What is the primary role of the control bus?
-a. To transfer data
-b. To synchronize signals
-c. To store addresses
-d. To manage power
+11. True/False: Interrupts allow the CPU to handle critical tasks immediately.
 
-True/False: Interrupts allow the CPU to handle critical tasks immediately.
+12. Fill in the Blank: Direct Memory Access eliminates the need for ______ intervention during data transfer.
 
-Fill in the Blank: Direct Memory Access eliminates the need for ���� intervention during data transfer.
+13. MCQ: Which storage type uses magnetic disks to store data?
+    a) SSD
+    b) Hard Disk Drive (HDD)
+    c) Optical Disk
+    d) Flash Drive
 
-MCQ: Which storage type uses magnetic disks to store data?
-a. SSD
-b. Hard Disk Drive (HDD)
-c. Optical Disk
-d. Flash Drive
+14. True/False: SSDs are generally faster and more durable than HDDs.
 
-True/False: SSDs are generally faster and more durable than HDDs.
+15. Fill in the Blank: The processor uses the ______ to fetch instructions from memory.
 
-Fill in the Blank: The processor uses the ���� to fetch instructions from memory.
+16. MCQ: Which component translates logical addresses to physical addresses?
+    a) Memory Management Unit (MMU)
+    b) ALU
+    c) DMA
+    d) Cache
 
-MCQ: Which component translates logical addresses to physical addresses?
-a. Memory Management Unit (MMU)
-b. ALU
-c. DMA
-d. Cache
+17. True/False: RAM is used as primary memory because of its high speed and volatility.
 
-True/False: RAM is used as primary memory because of its high speed and volatility.
+18. Fill in the Blank: The ______ is an interface used for communication between a computer and its peripherals.
 
-Fill in the Blank: The ���� is an interface used for communication between a computer and its peripherals.
+19. MCQ: Which of the following is an asynchronous data transfer technique?
+    a) Memory Mapping
+    b) Handshaking
+    c) Interrupt
+    d) Polling
 
-MCQ: Which of the following is an asynchronous data transfer technique?
-a. Memory Mapping
-b. Handshaking
-c. Interrupt
-d. Polling
+20. True/False: Buffering helps to compensate for speed mismatches between devices and processors.
 
-True/False: Buffering helps to compensate for speed mismatches between devices and processors.
+
+
+
 
 ---------------------------------------
 Intermediate: 1. c, 2. True, 3. Bytes, 4. b,
@@ -1485,6 +1655,12 @@ Intermediate: 1. c, 2. True, 3. Bytes, 4. b,
 
 
 
+
+
+
+
+
+
 Advanced Questions (MCQs, True/False, Fill in the Blanks)
 
 -----------------------------------------------------------
@@ -1492,73 +1668,75 @@ Advanced Questions (MCQs, True/False, Fill in the Blanks)
 
 
 
-MCQ: Which memory technique allows programs to execute even if they are not completely in memory?
-a. Paging
-b. Segmentation
-c. Virtual Memory
-d. Cache Memory
+1. MCQ: Which memory technique allows programs to execute even if they are not completely in memory?
+   a) Paging
+   b) Segmentation
+   c) Virtual Memory
+   d) Cache Memory
 
-True/False: Memory interleaving improves system performance by splitting memory into modules.
+2. True/False: Memory interleaving improves system performance by splitting memory into modules.
 
-Fill in the Blank: The technique of assigning a single I/O device multiple addresses is called ���� addressing.
+3. Fill in the Blank: The technique of assigning a single I/O device multiple addresses is called ______ addressing.
 
-MCQ: Which of the following is used to prioritize multiple I/O requests?
-a. Multiplexer
-b. Priority Encoder
-c. Decoder
-d. Demultiplexer
+4. MCQ: Which of the following is used to prioritize multiple I/O requests?
+   a) Multiplexer
+   b) Priority Encoder
+   c) Decoder
+   d) Demultiplexer
 
-True/False: In a daisy chain configuration, the device closest to the CPU has the highest priority.
+5. True/False: In a daisy chain configuration, the device closest to the CPU has the highest priority.
 
-Fill in the Blank: ���� is the process of optimizing memory usage by combining small unused memory blocks.
+6. Fill in the Blank: ______ is the process of optimizing memory usage by combining small unused memory blocks.
 
-MCQ: Which type of addressing is used when the physical address is different from the logical address?
-a. Indirect Addressing
-b. Relative Addressing
-c. Physical Addressing
-d. Virtual Addressing
+7. MCQ: Which type of addressing is used when the physical address is different from the logical address?
+   a) Indirect Addressing
+   b) Relative Addressing
+   c) Physical Addressing
+   d) Virtual Addressing
 
-True/False: I/O mapped I/O requires dedicated instructions for communication with peripherals.
+8. True/False: I/O mapped I/O requires dedicated instructions for communication with peripherals.
 
-Fill in the Blank: A ���� is used to store data temporarily during I/O operations.
+9. Fill in the Blank: A ______ is used to store data temporarily during I/O operations.
 
-MCQ: Which structure is used for handling multiple I/O devices in a system?
-a. Controller
-b. Interrupt Controller
-c. DMA
-d. Bus Arbiter
+10. MCQ: Which structure is used for handling multiple I/O devices in a system?
+    a) Controller
+    b) Interrupt Controller
+    c) DMA
+    d) Bus Arbiter
 
-True/False: The CPU can directly access secondary storage without an intermediary.
+11. True/False: The CPU can directly access secondary storage without an intermediary.
 
-Fill in the Blank: The time taken by the system to respond to an I/O request is called ����.
+12. Fill in the Blank: The time taken by the system to respond to an I/O request is called ______.
 
-MCQ: Which of these allows the processor to execute multiple instructions simultaneously?
-a. Pipelining
-b. Multithreading
-c. Parallel Processing
-d. All of the above
+13. MCQ: Which of these allows the processor to execute multiple instructions simultaneously?
+    a) Pipelining
+    b) Multithreading
+    c) Parallel Processing
+    d) All of the above
 
-True/False: A pipeline stall occurs when a subsequent instruction depends on the result of a previous one.
+14. True/False: A pipeline stall occurs when a subsequent instruction depends on the result of a previous one.
 
-Fill in the Blank: The memory allocation strategy where memory is allocated in fixed-size blocks is called ����.
+15. Fill in the Blank: The memory allocation strategy where memory is allocated in fixed-size blocks is called ______.
 
-MCQ: Which technique ensures efficient communication in a distributed system?
-a. Buffering
-b. Pipelining
-c. Segmentation
-d. Swapping
+16. MCQ: Which technique ensures efficient communication in a distributed system?
+    a) Buffering
+    b) Pipelining
+    c) Segmentation
+    d) Swapping
 
-True/False: A cache miss occurs when the required data is found in the cache.
+17. True/False: A cache miss occurs when the required data is found in the cache.
 
-Fill in the Blank: The component responsible for translating virtual addresses into physical addresses is the ����.
+18. Fill in the Blank: The component responsible for translating virtual addresses into physical addresses is the ______.
 
-MCQ: Which memory type is used in graphics processing units for high-speed data access?
-a. DRAM
-b. VRAM
-c. Flash Memory
-d. ROM
+19. MCQ: Which memory type is used in graphics processing units for high-speed data access?
+    a) DRAM
+    b) VRAM
+    c) Flash Memory
+    d) ROM
 
-True/False: Polling is more efficient than interrupt-driven I/O for high-speed devices.
+20. True/False: Polling is more efficient than interrupt-driven I/O for high-speed devices.
+
+
 
 ---------------------------------------
 Advanced: 1. c, 2. True, 3. Port, 4. b, 5. True, 
