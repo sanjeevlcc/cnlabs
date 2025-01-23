@@ -5,6 +5,27 @@
 Types of Research
 ======================
 
+            1. Basis of Nature            a) Fundamental or Pure Research
+                                          b) Applied or Management Research
+            
+            2. Basis of Data              a) Quantitative Research (Deductive)
+                                          b) Qualitative Research (Inductive)
+            
+            3. Basis of Reasoning         a) Inductive Reasoning
+                                          b) Deductive Reasoning
+            
+            4. Basis of Time Coverage    a) Longitudinal Research
+                                         b) Cross-sectional Research
+
+
+
+
+
+
+
+
+
+
 
 
 1. Basis of Nature
