@@ -1073,3 +1073,2449 @@ Array, structure and pointer
 ****************************************************************************
 ****************************************************************************
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Programming Concept and Variables and constraint.
+*********************************************
+
+
+
+Basic 
+----------------
+
+
+1. **MCQ**: What is a variable in programming?
+   a) A fixed value
+   b) A memory location that holds data
+   c) A function to perform calculations
+   d) A data structure to store information
+   
+2. **True/False**: A variable in programming can only hold one type of value.
+   
+3. **Fill in the Blank**: A variable must be ________ before it is used in most programming languages.
+   
+4. **MCQ**: Which of the following is a valid variable declaration in Python?
+   a) int x = 10;
+   b) var x = 10;
+   c) x = 10;
+   d) x : int = 10;
+   
+5. **True/False**: A variable can change its value during the execution of a program.
+   
+6. **Fill in the Blank**: The data type of a variable determines the ________ of data it can hold.
+
+7. **MCQ**: Which of the following is NOT a valid data type in most programming languages?
+   a) String
+   b) Boolean
+   c) Complex
+   d) Word
+
+8. **True/False**: A variable’s value is stored in a memory location and can be changed during the program’s execution.
+
+9. **Fill in the Blank**: In Python, a variable can be declared without specifying the ________ of the variable.
+
+10. **MCQ**: What is the purpose of a constraint in programming?
+   a) To limit the number of variables
+   b) To specify rules and conditions on data values
+   c) To control the execution of a program
+   d) To convert one data type to another
+
+11. **True/False**: Constraints are used in programming to impose limits on the values that variables can take.
+
+12. **Fill in the Blank**: Constraints are used to ensure ________ in data and operations.
+
+13. **MCQ**: Which of the following is a type constraint for variables in many programming languages?
+   a) Range constraint
+   b) Time constraint
+   c) Function constraint
+   d) Syntax constraint
+
+14. **True/False**: Variables are only used to store data values and not for applying any constraints.
+
+15. **Fill in the Blank**: A variable in most programming languages must follow the ________ for naming conventions.
+
+16. **MCQ**: What is the default value of an uninitialized variable in Java?
+   a) 0
+   b) null
+   c) undefined
+   d) -1
+
+17. **True/False**: Constraints are used to ensure data integrity in databases but not in programming languages.
+
+18. **Fill in the Blank**: In Python, a variable can be assigned a value without declaring its ________.
+
+19. **MCQ**: Which of the following is a valid variable name in most programming languages?
+   a) 1x
+   b) $x
+   c) _x
+   d) x+1
+
+20. **True/False**: A variable’s data type defines the operations that can be performed on it.
+
+21. **Fill in the Blank**: A variable in a program is used to hold a ________ that can be manipulated during execution.
+
+22. **MCQ**: Which of the following would be a valid constraint on a variable in a program?
+   a) The variable must be positive
+   b) The variable must be in a specific range
+   c) The variable must be a string
+   d) All of the above
+
+23. **True/False**: Variables with similar names but different data types can be used simultaneously in a program.
+
+24. **Fill in the Blank**: A ________ constraint prevents a variable from exceeding a certain value in a program.
+
+25. **MCQ**: In object-oriented programming, a variable that holds the value of an object is known as a ________.
+   a) Object
+   b) Reference
+   c) Instance
+   d) Method
+
+
+
+
+
+
+
+
+
+---------------------------------------
+
+1. b) A memory location that holds data  
+2. False  
+3. declared  
+4. c) x = 10;  
+5. True  
+6. type  
+7. d) Word  
+8. True  
+9. type  
+10. b) To specify rules and conditions on data values  
+11. True  
+12. accuracy  
+13. a) Range constraint  
+14. False  
+15. syntax  
+16. b) null  
+17. False  
+18. type  
+19. c) _x  
+20. True  
+21. value  
+22. d) All of the above  
+23. True  
+24. range  
+25. b) Reference
+
+---------------------------------------
+
+
+
+
+
+Intermediate 
+-----------------------------------------------------------
+
+26. **MCQ**: Which of the following is an example of a **systematic** approach to research?
+   a) Random sampling
+   b) Using a structured method for data collection and analysis
+   c) Guessing the results
+   d) Ignoring prior research
+
+27. **True/False**: A variable can hold different types of values in different parts of a program.
+
+28. **Fill in the Blank**: A ________ variable is one whose value can change during the execution of the program.
+
+29. **MCQ**: In most programming languages, a variable is declared with a name followed by its ________.
+   a) Type
+   b) Value
+   c) Function
+   d) Constraint
+
+30. **True/False**: A variable can hold an object reference in object-oriented programming.
+
+31. **Fill in the Blank**: In a controlled experiment, the ________ variable is manipulated by the researcher to observe the effects.
+
+32. **MCQ**: Which of the following constraints is used to ensure that a variable only holds non-negative values?
+   a) Range constraint
+   b) Type constraint
+   c) Sign constraint
+   d) Domain constraint
+
+33. **True/False**: Constraints in programming can only apply to numerical data types.
+
+34. **Fill in the Blank**: A variable can be assigned a new value during execution as long as it is not ________.
+
+35. **MCQ**: In a **controlled** experiment, which variable is considered the dependent variable?
+   a) The one manipulated by the researcher
+   b) The one whose effects are measured
+   c) The constant factor in the study
+   d) The one that remains unchanged
+
+36. **True/False**: The type of a variable in a program can be changed during the execution of a program.
+
+37. **Fill in the Blank**: A ________ variable is one whose value is determined by other variables in the system.
+
+38. **MCQ**: Which of the following is NOT a typical constraint in database programming?
+   a) Primary Key
+   b) Foreign Key
+   c) Unique
+   d) Random Access
+
+39. **True/False**: Variables in object-oriented programming can store both primitive and reference types.
+
+40. **Fill in the Blank**: Constraints on variables can help maintain data ________ and integrity in a program.
+
+41. **MCQ**: What is the primary purpose of using a **constraint** in a program?
+   a) To prevent invalid data from being entered
+   b) To speed up execution
+   c) To manage memory allocation
+   d) To limit the number of variables
+
+42. **True/False**: Constraints in a program are only applied to strings and characters.
+
+43. **Fill in the Blank**: A variable’s data type determines the ________ of operations that can be performed on it.
+
+44. **MCQ**: What is a common constraint when storing dates in a database?
+   a) The date must be within a specific range
+   b) The date must always be in the future
+   c) The date must contain a time value
+   d) The date must be a string
+
+45. **True/False**: Variables can be initialized without assigning a value in some programming languages.
+
+46. **Fill in the Blank**: A variable used to hold the result of an operation is called an ________ variable.
+
+47. **MCQ**: What type of constraint ensures that a variable cannot store null or undefined values?
+   a) Not Null
+   b) Primary Key
+   c) Foreign Key
+   d) Unique
+
+48. **True/False**: The type of a variable determines its constraints in a program.
+
+49. **Fill in the Blank**: The ________ of a variable is the name given to it for identification in a program.
+
+50. **MCQ**: Which of the following is a valid constraint in object-oriented programming?
+   a) A class variable can be accessed only within its own class.
+   b) A method must return a value of the same data type as the class.
+   c) A variable must always hold an integer value.
+   d) None of the above
+
+
+---------------------------------------
+
+26. b) Using a structured method for data collection and analysis  
+27. False  
+28. mutable  
+29. a) Type  
+30. True  
+31. independent  
+32. c) Sign constraint  
+33. False  
+34. final  
+35. b) The one whose effects are measured  
+36. False  
+37. dependent  
+38. d) Random Access  
+39. True  
+40. integrity  
+41. a) To prevent invalid data from being entered  
+42. False  
+43. type  
+44. a) The date must be within a specific range  
+45. True  
+46. output  
+47. a) Not Null  
+48. True  
+49. name  
+50. d) None of the above
+
+---------------------------------------
+
+
+
+
+
+Advanced 
+-----------------------------------------------------------
+51. **MCQ**: In object-oriented programming, which principle allows a subclass to inherit attributes and methods from a superclass?
+   a) Encapsulation
+   b) Inheritance
+   c) Polymorphism
+   d) Abstraction
+
+52. **True/False**: A variable in a program can never change its data type once it is assigned a value.
+
+53. **Fill in the Blank**: A ________ constraint in a database ensures that all values in a column are unique.
+
+54. **MCQ**: Which of the following is a feature of **controlled experiments** in programming?
+   a) Variables are manipulated to observe outcomes
+   b) They allow for subjective data analysis
+   c) They avoid using any data models
+   d) None of the above
+
+55. **True/False**: In a controlled experiment, all variables except for the independent variable must be controlled.
+
+56. **Fill in the Blank**: **Empirical research** uses data obtained through ________ and experimentation to draw conclusions.
+
+57. **MCQ**: Which of the following is an example of a **systematic** research method?
+   a) Relying on anecdotal evidence
+   b) Using structured steps like hypothesis testing
+   c) Ignoring data collection
+   d) Using unstructured observations
+
+58. **True/False**: A **systematic** research approach is unstructured and random.
+
+59. **Fill in the Blank**: A ________ constraint ensures that a variable has a specific minimum or maximum value.
+
+60. **MCQ**: What is the role of constraints in **empirical research**?
+   a) To limit the number of research variables
+   b) To provide specific conditions for data analysis
+   c) To enhance the randomness of data collection
+   d) None of the above
+
+61. **True/False**: In programming, **constraints** are used to define the types of data variables can hold.
+
+62. **Fill in the Blank**: A well-defined research ________ ensures that the steps taken to gather and analyze data are transparent and reproducible.
+
+63. **MCQ**: Which of the following statements about **variables** is false?
+   a) A variable can hold multiple types of data in different programming languages.
+   b) The value of a variable can change over time during execution.
+   c) Variables can be used to store only numeric data.
+   d) Variables have names and data types that define their behavior.
+
+64. **True/False**: In programming, a variable can be constrained to hold only specific types of values, like integers.
+
+65. **Fill in the Blank**: A ________ constraint can be used to ensure that a variable’s value is not null.
+
+66. **MCQ**: What does the **range constraint** ensure about a variable?
+   a) The variable can hold both positive and negative values
+   b) The variable will always contain a value
+   c) The variable’s value must fall within a certain range
+   d) The variable can hold any type of data
+
+67. **True/False**: Constraints in programming are optional and not required for ensuring correct program execution.
+
+68. **Fill in the Blank**: A **primary key** constraint ensures that a variable's value is unique within a dataset.
+
+69. **MCQ**: What is the purpose of **encapsulation** in object-oriented programming?
+   a) To hide the implementation details from users
+   b) To allow inheritance
+   c) To implement polymorphism
+   d) To use variables within methods
+
+70. **True/False**: Constraints applied in programming can also apply in database systems to ensure data consistency.
+
+71. **Fill in the Blank**: The ________ constraint in databases ensures that values are stored in foreign key columns only if they exist in the referenced table.
+
+72. **MCQ**: Which of the following does **polymorphism** in object-oriented programming allow?
+   a) Multiple objects to share the same function
+   b) Variables to hold different data types
+   c) A method to perform different operations based on the object it is invoked on
+   d) A class to inherit from multiple classes
+
+73. **True/False**: Constraints in programming help define the structure and behavior of variables to ensure valid operations.
+
+74. **Fill in the Blank**: **Abstraction** is the process of hiding the complex reality while exposing only the necessary parts in object-oriented programming.
+
+75. **MCQ**: Which of the following best describes a **constraint** in database systems?
+   a) A method to validate data
+   b) A way to store variables
+   c) A function that generates random data
+   d) A visual representation of data
+
+
+
+---------------------------------------
+51. b) Inheritance  
+52. False  
+53. Unique  
+54. a) Variables are manipulated to observe outcomes  
+55. True  
+56. observation  
+57. b) Using structured steps like hypothesis testing  
+58. False  
+59. range  
+60. b) To provide specific conditions for data analysis  
+61. True  
+62. process  
+63. c) Variables can be used to store only numeric data  
+64. True  
+65. Not Null  
+66. c) The variable’s value must fall within a certain range  
+67. False  
+68. primary  
+69. a) To hide the implementation details from users  
+70. True  
+71. referential  
+72. c) A method to perform different operations based on the object it is invoked on  
+73. True  
+74. False  
+75. a) A method to validate data
+
+
+---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Condition and loop concept.
+*********************************************
+
+Basic 
+-----------------------------------------------------------
+
+1. **MCQ**: What does an `if` statement do?
+    - a) It loops through a block of code
+    - b) It checks if a condition is true or false
+    - c) It defines a function
+    - d) It initializes a variable
+
+2. **True/False**: A `while` loop is executed as long as the condition is true.
+
+3. **Fill in the Blank**: In a conditional statement, the part after the `else` keyword is executed when the condition is _______.
+
+4. **MCQ**: Which of the following is used to create a loop that runs a specific number of times?
+    - a) `while`
+    - b) `for`
+    - c) `if`
+    - d) `switch`
+
+5. **True/False**: A `for` loop is primarily used for iterating over a sequence of elements.
+
+6. **Fill in the Blank**: The `break` statement is used to _______ the loop immediately.
+
+7. **MCQ**: What does the `continue` statement do inside a loop?
+    - a) Exits the loop
+    - b) Skips the current iteration and continues to the next one
+    - c) Repeats the loop from the beginning
+    - d) None of the above
+
+8. **True/False**: A `do-while` loop always executes at least once, regardless of the condition.
+
+9. **Fill in the Blank**: A `switch` statement can be used to check multiple _______ at once.
+
+10. **MCQ**: Which of the following statements is true about nested loops?
+    - a) A nested loop is a loop inside another loop
+    - b) A nested loop can only be a `while` loop
+    - c) Nested loops cannot be used in `if` statements
+    - d) None of the above
+
+11. **True/False**: The `if-else` statement can be used for multiple conditions using `else if`.
+
+12. **Fill in the Blank**: The `else` statement is executed if the `if` condition is _______.
+
+13. **MCQ**: Which loop would you use to iterate through an array with a known number of elements?
+    - a) `for`
+    - b) `while`
+    - c) `do-while`
+    - d) `if`
+
+14. **True/False**: The condition in a `while` loop is evaluated after the loop executes.
+
+15. **Fill in the Blank**: A `switch` statement checks the value of a _______.
+
+16. **MCQ**: What happens if no `case` matches in a `switch` statement?
+    - a) The loop stops
+    - b) The default case is executed if present
+    - c) The program throws an error
+    - d) Nothing happens
+
+17. **True/False**: The `break` statement can only be used in `while` loops.
+
+18. **Fill in the Blank**: In a `for` loop, the condition is evaluated _______ each iteration.
+
+19. **MCQ**: What is the purpose of the `else if` statement?
+    - a) It defines an alternative block of code when the initial condition is false
+    - b) It allows multiple conditions to be checked in sequence
+    - c) It terminates the program
+    - d) It breaks the loop
+
+20. **True/False**: An infinite loop occurs when the loop condition is always true.
+
+21. **Fill in the Blank**: A loop that runs forever without stopping is called a _______ loop.
+
+22. **MCQ**: Which of the following will break a `for` loop?
+    - a) `continue`
+    - b) `break`
+    - c) `exit`
+    - d) None of the above
+
+23. **True/False**: A loop can be nested within another loop.
+
+24. **Fill in the Blank**: A `for` loop requires initialization, condition, and _______ to run.
+
+25. **MCQ**: What will be the output of the following code?
+
+    ```python
+    i = 0
+    while i < 5:
+        print(i)
+        i += 1
+    ```
+
+    - a) 1 2 3 4 5
+    - b) 0 1 2 3 4
+    - c) Infinite loop
+    - d) Error
+
+
+---------------------------------------
+1. b) It checks if a condition is true or false
+2. True
+3. false
+4. b) `for`
+5. True
+6. exit
+7. b) Skips the current iteration and continues to the next one
+8. True
+9. conditions
+10. a) A nested loop is a loop inside another loop
+11. True
+12. false
+13. a) `for`
+14. False
+15. value
+16. b) The default case is executed if present
+17. False
+18. before
+19. b) It allows multiple conditions to be checked in sequence
+20. True
+21. infinite
+22. b) `break`
+23. True
+24. increment
+25. b) 0 1 2 3 4
+
+
+---------------------------------------
+
+
+
+
+
+Intermediate 
+-----------------------------------------------------------
+
+26. **MCQ**: In a `switch` statement, what happens if no `case` matches and no `default` case is provided?
+    - a) It results in an error
+    - b) Nothing happens
+    - c) The first case is executed
+    - d) The program exits
+
+27. **True/False**: A `for` loop can also be used to iterate over a collection of elements in some programming languages.
+
+28. **Fill in the Blank**: The `continue` statement skips the current iteration and moves to the _______ iteration in a loop.
+
+29. **MCQ**: Which of the following is true about an `if` statement?
+    - a) It must always have an `else` clause
+    - b) It checks for true or false conditions
+    - c) It must use the `switch` keyword
+    - d) It terminates the program if the condition is false
+
+30. **True/False**: A `while` loop always executes the body of the loop at least once.
+
+31. **Fill in the Blank**: A `do-while` loop executes the body of the loop _______ before checking the condition.
+
+32. **MCQ**: Which of the following is a correct syntax for a `for` loop in most programming languages?
+    - a) `for (init; condition; increment) {}`
+    - b) `for init; condition; increment {}`
+    - c) `for {init, condition, increment} {}`
+    - d) `for (init condition increment) {}`
+
+33. **True/False**: In a `do-while` loop, the condition is checked before the body of the loop executes.
+
+34. **Fill in the Blank**: The `if` statement checks whether a condition is _______ or false.
+
+35. **MCQ**: What is the result of the following code?
+
+    ```python
+    i = 5
+    if i == 5:
+        print("Five")
+    elif i == 6:
+        print("Six")
+    else:
+        print("Other")
+    ```
+
+    - a) Five
+    - b) Six
+    - c) Other
+    - d) None of the above
+
+36. **True/False**: The `break` statement can be used to exit any loop prematurely.
+
+37. **Fill in the Blank**: The condition in a `for` loop is checked _______ every iteration.
+
+38. **MCQ**: In which of the following scenarios would a `switch` statement be preferable over multiple `if-else` statements?
+    - a) When there are many possible conditions to check
+    - b) When only one condition needs to be checked
+    - c) When conditions are based on ranges
+    - d) When only two conditions are needed
+
+39. **True/False**: The `continue` statement can be used to skip the current iteration in any loop.
+
+40. **Fill in the Blank**: The `for` loop is best suited for iterating over a known number of _______.
+
+41. **MCQ**: What is the result of the following code?
+
+    ```python
+    i = 10
+    while i > 0:
+        print(i)
+        i -= 2
+    ```
+
+    - a) 10 8 6 4 2
+    - b) 10 9 8 7 6
+    - c) 1 2 3 4
+    - d) Error
+
+42. **True/False**: A `for` loop with a condition that is always true will result in an infinite loop.
+
+43. **Fill in the Blank**: In a `switch` statement, the `case` values must be _______.
+
+44. **MCQ**: Which type of loop is best used when you do not know the number of iterations beforehand?
+    - a) `while` loop
+    - b) `for` loop
+    - c) `do-while` loop
+    - d) `switch` loop
+
+45. **True/False**: You can nest a `switch` statement inside a loop.
+
+46. **Fill in the Blank**: A `while` loop will continue executing as long as the condition is _______.
+
+47. **MCQ**: What is the output of the following code?
+
+    ```python
+    for i in range(5):
+        print(i)
+    ```
+
+    - a) 0 1 2 3 4
+    - b) 1 2 3 4 5
+    - c) 0 1 2 3 4 5
+    - d) 5 4 3 2 1
+
+48. **True/False**: The `switch` statement can be used for more complex conditions like ranges.
+
+49. **Fill in the Blank**: In a `for` loop, the condition determines when the loop should _______.
+
+50. **MCQ**: What is the purpose of a `while` loop?
+    - a) To execute a block of code a specified number of times
+    - b) To repeatedly execute a block of code as long as a condition is true
+    - c) To execute a block of code only once
+    - d) To select between multiple conditions
+
+---------------------------------------
+
+26. b) Nothing happens
+27. True
+28. next
+29. b) It checks for true or false conditions
+30. False
+31. once
+32. a) `for (init; condition; increment) {}`
+33. False
+34. true
+35. a) Five
+36. True
+37. before
+38. a) When there are many possible conditions to check
+39. True
+40. known number of elements
+41. a) 10 8 6 4 2
+42. True
+43. unique
+44. a) `while` loop
+45. True
+46. true
+47. a) 0 1 2 3 4
+48. False
+49. stop
+50. b) To repeatedly execute a block of code as long as a condition is true
+
+---------------------------------------
+
+
+
+
+
+Advanced 
+-----------------------------------------------------------
+51. **MCQ**: What will happen if you forget to include the `break` statement in a `switch` case?
+    - a) It will result in an error
+    - b) It will continue to the next case
+    - c) It will exit the program
+    - d) Nothing happens
+
+52. **True/False**: An infinite loop can only be caused by a `for` loop.
+
+53. **Fill in the Blank**: The `for` loop's condition is evaluated _______ each iteration to decide whether to continue.
+
+54. **MCQ**: Which of the following would cause an infinite loop?
+    - a) `for i = 0; i < 5; i++`
+    - b) `while (true)`
+    - c) `for i = 0; i < 5; i--`
+    - d) `do { ... } while (i < 5)`
+
+55. **True/False**: A `for` loop is more flexible than a `while` loop when the number of iterations is not known in advance.
+
+56. **Fill in the Blank**: The `switch` statement checks for the exact _______ of a variable.
+
+57. **MCQ**: Which of the following loops guarantees that the code inside the loop will run at least once?
+    - a) `while`
+    - b) `for`
+    - c) `do-while`
+    - d) `if`
+
+58. **True/False**: The `continue` statement can only be used inside loops to skip iterations.
+
+59. **Fill in the Blank**: The `break` statement is often used to exit _______ loops prematurely.
+
+60. **MCQ**: What is the output of the following code?
+
+    ```python
+    for i in range(5):
+        if i == 3:
+            break
+        print(i)
+    ```
+
+    - a) 0 1 2
+    - b) 0 1 2 3
+    - c) 1 2 3 4
+    - d) 0 1 2 3 4
+
+61. **True/False**: A `do-while` loop will run at least once, even if the condition is false.
+
+62. **Fill in the Blank**: A `for` loop can be used with an _______ data structure to iterate through the elements.
+
+63. **MCQ**: What is the main advantage of using a `switch` statement over multiple `if-else` statements?
+    - a) It is faster for checking many conditions
+    - b) It allows complex conditions
+    - c) It is easier to write
+    - d) It is more memory efficient
+
+64. **True/False**: The `continue` statement can be used to skip the rest of the current iteration in any loop type.
+
+65. **Fill in the Blank**: If the condition in a `while` loop is always true, it will cause a(n) _______ loop.
+
+66. **MCQ**: In a `switch` statement, which statement must be used to end each `case` block?
+    - a) `continue`
+    - b) `exit`
+    - c) `break`
+    - d) `return`
+
+67. **True/False**: The condition in a `do-while` loop is checked before executing the loop body.
+
+68. **Fill in the Blank**: In a nested loop, the outer loop controls the number of _______ of the inner loop.
+
+69. **MCQ**: What is the primary difference between a `while` loop and a `do-while` loop?
+    - a) The `while` loop guarantees at least one iteration
+    - b) The `do-while` loop guarantees at least one iteration
+    - c) The `while` loop never executes
+    - d) The `do-while` loop uses a different syntax
+
+70. **True/False**: The `continue` statement can be used inside both inner and outer loops.
+
+71. **Fill in the Blank**: The `if-else` statement can be used to check multiple conditions using _______.
+
+72. **MCQ**: Which loop is preferred when you know the exact number of iterations?
+    - a) `while`
+    - b) `do-while`
+    - c) `for`
+    - d) `switch`
+
+73. **True/False**: A `for` loop can only iterate over arrays.
+
+74. **Fill in the Blank**: The `switch` statement is often used when there are _______ possible conditions to check.
+
+75. **MCQ**: What is the output of the following code?
+
+    ```python
+    i = 5
+    while i < 5:
+        print(i)
+        i += 1
+    ```
+
+    - a) 5
+    - b) 5 6 7
+    - c) No output
+    - d) Error
+
+
+
+---------------------------------------
+51. b) It will continue to the next case
+52. False
+53. after
+54. b) `while (true)`
+55. False
+56. value
+57. c) `do-while`
+58. True
+59. inner
+60. a) 0 1 2
+61. True
+62. iterable
+63. a) It is faster for checking many conditions
+64. True
+65. infinite
+66. c) `break`
+67. False
+68. iterations
+69. b) The `do-while` loop guarantees at least one iteration
+70. True
+71. `else if`
+72. c) `for`
+73. False
+74. multiple
+75. c) No output
+
+
+---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Array, structure and pointer
+*********************************************
+
+
+Basic 
+-----------------------------------------------------------
+1. **MCQ**: What is the index of the first element in an array in C?
+    - a) 0
+    - b) 1
+    - c) -1
+    - d) None of the above
+
+2. **True/False**: An array in C can store elements of different data types.
+    
+3. **Fill in the Blank**: The size of an array can be determined at _______ (compile/runtime).
+
+4. **MCQ**: How do you declare a structure in C?
+    - a) `struct structure_name { data_type member1; }`
+    - b) `structure structure_name { data_type member1; }`
+    - c) `data_type structure_name { member1; }`
+    - d) None of the above
+
+5. **True/False**: In C, a pointer stores the memory address of a variable.
+
+6. **Fill in the Blank**: A pointer to an array is called an _______ pointer.
+
+7. **MCQ**: How is a structure accessed in C?
+    - a) By using the array index
+    - b) By using the member name
+    - c) By using the pointer notation
+    - d) None of the above
+
+8. **True/False**: The `&` operator is used to get the memory address of a variable in C.
+
+9. **Fill in the Blank**: The keyword used to define a pointer in C is _______.
+
+10. **MCQ**: How do you declare a pointer to an integer in C?
+    - a) `int pointer;`
+    - b) `int *pointer;`
+    - c) `*int pointer;`
+    - d) `pointer int;`
+
+11. **True/False**: A structure can contain arrays and pointers as members.
+
+12. **Fill in the Blank**: The size of a structure is determined by the sum of the sizes of its _______.
+
+13. **MCQ**: Which of the following can a pointer point to in C?
+    - a) A function
+    - b) A variable
+    - c) A constant
+    - d) All of the above
+
+14. **True/False**: A pointer can be assigned to another pointer of the same data type.
+
+15. **Fill in the Blank**: The `sizeof` operator returns the _______ of a structure or array.
+
+16. **MCQ**: How do you access a member of a structure through a pointer in C?
+    - a) `->`
+    - b) `&`
+    - c) `*`
+    - d) `[]`
+
+17. **True/False**: A pointer to a structure must be declared before accessing its members.
+
+18. **Fill in the Blank**: A structure pointer is a pointer that holds the address of a _______.
+
+19. **MCQ**: How do you declare an array of 10 integers in C?
+    - a) `int arr[10];`
+    - b) `int arr{10};`
+    - c) `int arr(10);`
+    - d) None of the above
+
+20. **True/False**: You can directly assign values to an array using a pointer.
+
+21. **Fill in the Blank**: The term used to refer to the location of an array in memory is _______.
+
+22. **MCQ**: What is the purpose of the `malloc` function in C?
+    - a) To allocate a block of memory
+    - b) To free memory
+    - c) To reallocate memory
+    - d) None of the above
+
+23. **True/False**: Arrays in C always have a fixed size.
+
+24. **Fill in the Blank**: The term used to represent an array of pointers is _______ array.
+
+25. **MCQ**: How do you access an array element using a pointer?
+    - a) `pointer[index];`
+    - b) `*pointer[index];`
+    - c) `pointer->index;`
+    - d) `index[pointer];`
+
+
+
+---------------------------------------
+1. a) 0
+2. False
+3. compile
+4. a) `struct structure_name { data_type member1; }`
+5. True
+6. array
+7. b) By using the member name
+8. True
+9. *
+10. b) `int *pointer;`
+11. True
+12. members
+13. d) All of the above
+14. True
+15. size
+16. a) `->`
+17. True
+18. structure
+19. a) `int arr[10];`
+20. True
+21. address
+22. a) `malloc()`
+23. True
+24. pointer
+25. a) `pointer[index];`
+
+---------------------------------------
+
+
+
+
+
+Intermediate 
+-----------------------------------------------------------
+
+26. **MCQ**: What is the main difference between an array and a structure in C?
+    - a) Arrays store elements of the same type, structures store elements of different types
+    - b) Structures store elements of the same type, arrays store elements of different types
+    - c) Arrays use pointers, structures don’t
+    - d) None of the above
+
+27. **True/False**: You can assign one array to another directly in C.
+
+28. **Fill in the Blank**: A pointer can be initialized with a value of _______ to indicate that it points to nothing.
+
+29. **MCQ**: Which of the following is correct for passing an array to a function in C?
+    - a) Arrays are passed by reference
+    - b) Arrays are passed by value
+    - c) Arrays cannot be passed to functions
+    - d) None of the above
+
+30. **True/False**: In C, the `sizeof` operator can be used to determine the size of a pointer.
+
+31. **Fill in the Blank**: In a structure, when a member is a pointer, its size is based on the size of the _______ type.
+
+32. **MCQ**: What is the output of the following code?
+    ```c
+    int arr[5] = {1, 2, 3, 4, 5};
+    printf("%d", *(arr + 2));
+    ```
+    - a) 1
+    - b) 3
+    - c) 5
+    - d) 2
+
+33. **True/False**: A pointer can be incremented or decremented to move through array elements.
+
+34. **Fill in the Blank**: A pointer to a pointer is known as a _______ pointer.
+
+35. **MCQ**: Which function is used to allocate memory dynamically for an array in C?
+    - a) `malloc()`
+    - b) `calloc()`
+    - c) `realloc()`
+    - d) All of the above
+
+36. **True/False**: Dynamic memory allocation is performed using `malloc()` in C.
+
+37. **Fill in the Blank**: To release dynamically allocated memory in C, the _______ function is used.
+
+38. **MCQ**: How do you access the second element of an array using a pointer?
+    - a) `pointer[2]`
+    - b) `*(pointer + 1)`
+    - c) `pointer[1]`
+    - d) All of the above
+
+39. **True/False**: The `sizeof` operator can be used to find the size of a pointer in C.
+
+40. **Fill in the Blank**: To pass a structure to a function by reference, you use a _______.
+
+41. **MCQ**: What is the primary difference between a structure and a union in C?
+    - a) Structures store only one element at a time, unions store all elements at once
+    - b) Structures store all elements at once, unions store only one element at a time
+    - c) Unions are faster than structures
+    - d) None of the above
+
+42. **True/False**: A structure can be used to store an array of pointers.
+
+43. **Fill in the Blank**: A pointer to a function is called a _______ pointer.
+
+44. **MCQ**: How is memory allocated for a pointer to a structure in C?
+    - a) Using `malloc()`
+    - b) Using `sizeof()`
+    - c) Using `calloc()`
+    - d) None of the above
+
+45. **True/False**: Arrays in C cannot be passed as arguments to functions.
+
+46. **Fill in the Blank**: To point to an array element, a pointer must be initialized to the address of the _______.
+
+47. **MCQ**: What will be the output of the following code?
+    ```c
+    int arr[] = {10, 20, 30};
+    int *ptr = arr;
+    printf("%d", *(ptr + 1));
+    ```
+    - a) 10
+    - b) 20
+    - c) 30
+    - d) None of the above
+
+48. **True/False**: You can create a pointer to a structure in C.
+
+49. **Fill in the Blank**: The array name in C represents the _______ of the first element.
+
+50. **MCQ**: How do you define an array of pointers in C?
+    - a) `int* arr[5];`
+    - b) `int arr[5*];`
+    - c) `int arr[5] *;`
+    - d) None of the above
+
+
+---------------------------------------
+26. a) Arrays store elements of the same type, structures store elements of different types
+27. False
+28. NULL
+29. a) Arrays are passed by reference
+30. False
+31. data
+32. b) 3
+33. True
+34. pointer
+35. d) All of the above
+36. True
+37. free()
+38. d) All of the above
+39. True
+40. pointer
+41. b) Structures store all elements at once, unions store only one element at a time
+42. True
+43. function
+44. a) Using `malloc()`
+45. False
+46. first element
+47. b) 20
+48. True
+49. address
+50. a) `int* arr[5];`
+
+---------------------------------------
+
+
+
+
+
+Advanced 
+-----------------------------------------------------------
+
+51. **MCQ**: What is the main advantage of using pointers to structures in C?
+    - a) They allow passing structures efficiently to functions
+    - b) They make the program run faster
+    - c) They eliminate the need for functions
+    - d) None of the above
+
+52. **True/False**: You can assign values to an array using a pointer.
+
+53. **Fill in the Blank**: A function pointer in C is used to point to a _______ function.
+
+54. **MCQ**: How do you declare a pointer to an array of integers in C?
+    - a) `int* ptr[];`
+    - b) `int (*ptr)[5];`
+    - c) `int* ptr[5];`
+    - d) `int ptr[5];`
+
+55. **True/False**: A pointer to an array can be dereferenced like a normal pointer.
+
+56. **Fill in the Blank**: A structure pointer is dereferenced using the _______ operator.
+
+57. **MCQ**: What is the output of the following code?
+    ```c
+    struct Point {
+        int x, y;
+    };
+    struct Point p = {10, 20};
+    struct Point* ptr = &p;
+    printf("%d", ptr->x);
+    ```
+    - a) 10
+    - b) 20
+    - c) Error
+    - d) None of the above
+
+58. **True/False**: A structure can be used to store arrays and other structures.
+
+59. **Fill in the Blank**: A pointer to a pointer in C stores the _______ of another pointer.
+
+60. **MCQ**: What is the maximum number of elements an array can hold in C?
+    - a) Based on the system's memory capacity
+    - b) 256
+    - c) 1024
+    - d) There is no limit
+
+61. **True/False**: The `sizeof` operator returns the size of the pointer itself, not the size of the memory it points to.
+
+62. **Fill in the Blank**: A pointer to a function can be passed as an argument to a _______.
+
+63. **MCQ**: Which of the following correctly allocates memory for an array of 10 integers?
+    - a) `int* arr = malloc(sizeof(int) * 10);`
+    - b) `int* arr = malloc(10 * sizeof(int));`
+    - c) `int arr = malloc(10 * sizeof(int));`
+    - d) Both a and b
+
+64. **True/False**: In C, the `&` operator is used to dereference a pointer.
+
+65. **Fill in the Blank**: A structure member can be accessed using the _______ operator.
+
+66. **MCQ**: Which of the following correctly prints the third element of an array using a pointer?
+    - a) `*(arr + 3)`
+    - b) `arr[3]`
+    - c) `*arr + 3`
+    - d) Both a and b
+
+67. **True/False**: Memory allocation functions like `malloc` and `calloc` return a void pointer.
+
+68. **Fill in the Blank**: A structure can contain an array as one of its members, which can then be accessed using the _______ operator.
+
+69. **MCQ**: How do you create a pointer to an integer array of size 10 in C?
+    - a) `int* arr = malloc(10 * sizeof(int));`
+    - b) `int* arr[10];`
+    - c) `int arr[10];`
+    - d) None of the above
+
+70. **True/False**: You can change the size of a pointer during runtime.
+
+71. **Fill in the Blank**: Pointers in C can point to _______ types, such as arrays, variables, or functions.
+
+72. **MCQ**: How do you de-reference a pointer in C?
+    - a) `*pointer`
+    - b) `pointer*`
+    - c) `&pointer`
+    - d) `pointer&`
+
+73. **True/False**: Structures in C are always passed by reference to functions.
+
+74. **Fill in the Blank**: The function `malloc` allocates memory on the _______.
+
+75. **MCQ**: Which of the following is used to allocate contiguous memory blocks for an array?
+    - a) `malloc`
+    - b) `calloc`
+    - c) `realloc`
+    - d) All of the above
+
+
+---------------------------------------
+
+51. a) They allow passing structures efficiently to functions
+52. True
+53. function
+54. b) `int (*ptr)[5];`
+55. True
+56. `->`
+57. a) 10
+58. True
+59. address
+60. a) Based on the system's memory capacity
+61. True
+62. function
+63. d) Both a and b
+64. False
+65. `.` or `->`
+66. d) Both a and b
+67. True
+68. `->`
+69. a) `int* arr = malloc(10 * sizeof(int));`
+70. True
+71. any
+72. a) `*pointer`
+73. False
+74. heap
+75. d) All of the above
+---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Stack, Queue and List.
+*********************************************
+
+
+
+
+# Basic Level
+-----------------------------------------------------------
+# Basic Level:
+1. What order does Stack follow to store elements?
+    a) First In, First Out (FIFO)
+    b) Last In, First Out (LIFO)
+    c) Random Access
+    d) No Order
+
+2. True or False: Stack follows the Last In, First Out (LIFO) order.
+   
+3. Which data structure is commonly used for implementing a stack?
+    a) Queue
+    b) Array
+    c) Linked List
+    d) Tree
+
+4. In a Queue, which operation adds an element?
+    a) Pop
+    b) Push
+    c) Enqueue
+    d) Dequeue
+
+5. True or False: In a Queue, the element at the front is always removed first.
+
+6. What is the order in which Queue stores elements?
+    a) First In, First Out (FIFO)
+    b) Last In, First Out (LIFO)
+    c) Random Access
+    d) No Order
+
+7. True or False: In a Queue, elements are removed from the back.
+
+8. Which operation removes an element from a Queue?
+    a) Enqueue
+    b) Push
+    c) Pop
+    d) Dequeue
+
+9. True or False: In a Stack, elements are removed in a LIFO (Last In First Out) manner.
+
+10. True or False: In a Queue, elements are removed in a FIFO (First In First Out) manner.
+
+11. Which data structure follows LIFO (Last In First Out) order?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Array
+
+12. What is the operation called to add an element to a Stack?
+    a) Push
+    b) Enqueue
+    c) Pop
+    d) Dequeue
+
+13. Which is the front end of a Queue?
+    a) Top
+    b) Front
+    c) Back
+    d) Bottom
+
+14. Which data structure is best for implementing a Queue?
+    a) Array
+    b) Linked List
+    c) Stack
+    d) Tree
+
+15. True or False: Stack is used for storing elements in a memory-efficient way.
+
+16. What is the purpose of an array in implementing a Queue?
+    a) To store multiple elements of the same type in contiguous memory
+    b) To allow random access
+    c) To allocate memory dynamically
+    d) None of the above
+
+17. True or False: Arrays are generally used to implement a Stack.
+
+18. In which part of the stack are elements added?
+    a) Bottom
+    b) Middle
+    c) Top
+    d) Front
+
+19. True or False: Stack operations generally require only one operation to add or remove elements.
+
+20. What is the main function of a Queue?
+    a) To add an element
+    b) To remove an element
+    c) To process elements in a specific order
+    d) None of the above
+
+21. Which data structure is used in a call stack in programming languages?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Array
+
+22. True or False: A Queue follows the First In First Out (FIFO) rule for accessing elements.
+
+23. Which data structure uses the "Enqueue" operation?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Array
+
+24. True or False: Queue uses "Dequeue" operation to add an element.
+
+25. What is the order of element insertion and deletion in a Queue?
+    a) FIFO
+    b) LIFO
+    c) Random
+    d) None of the above
+
+
+
+
+------------------------------------------
+# Answers:
+# Basic Level:
+1. b) Last In, First Out (LIFO)
+2. True
+3. c) Linked List
+4. c) Enqueue
+5. True
+6. a) First In, First Out (FIFO)
+7. False
+8. d) Dequeue
+9. True
+10. True
+11. a) Stack
+12. a) Push
+13. b) Front
+14. b) Linked List
+15. True
+16. a) To store multiple elements of the same type in contiguous memory
+17. True
+18. c) Top
+19. True
+20. c) To remove an element from a queue
+21. a) Stack
+22. True
+23. b) Dequeue
+24. a) Linked List
+25. True
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Intermediate Level:
+-----------------------------------------------------------
+
+
+1. Which data structure stores elements in LIFO order?
+    a) Queue
+    b) Stack
+    c) Array
+    d) Linked List
+
+2. True or False: A Stack can only be implemented using a linked list.
+
+3. What is the operation to remove an element from the front of a Queue?
+    a) Push
+    b) Pop
+    c) Enqueue
+    d) Dequeue
+
+4. Which of the following is the operation for adding an element to a Queue?
+    a) Pop
+    b) Push
+    c) Dequeue
+    d) Enqueue
+
+5. True or False: Elements in a Queue are removed from the back.
+
+6. Which of these operations is not possible in a Stack?
+    a) Push
+    b) Pop
+    c) Peek
+    d) Enqueue
+
+7. In a Queue, the element to be removed is at the:
+    a) Front
+    b) Back
+    c) Middle
+    d) None of the above
+
+8. True or False: A Stack is a data structure that allows adding and removing elements from both ends.
+
+9. What is the purpose of a Circular Queue?
+    a) To allow dynamic memory allocation
+    b) To make the Queue data structure more efficient by preventing overflow
+    c) To allow elements to be inserted in random order
+    d) None of the above
+
+10. What is the main difference between a Stack and a Queue?
+    a) Stack uses LIFO order, while Queue uses FIFO order
+    b) Stack allows random access, Queue does not
+    c) Stack stores elements at the back, Queue at the front
+    d) None of the above
+
+11. In a Stack, what operation is used to check the top element without removing it?
+    a) Pop
+    b) Peek
+    c) Push
+    d) Enqueue
+
+12. What is the main use of a Queue in programming?
+    a) To store elements temporarily before they are processed
+    b) To store elements in random order
+    c) To execute commands in reverse order
+    d) None of the above
+
+13. Which data structure is best for implementing undo functionality in a text editor?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Tree
+
+14. True or False: A Queue follows the First In, First Out (FIFO) rule.
+
+15. What is the best data structure for implementing a printer queue?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Array
+
+16. Which data structure is used in function calls for recursion in most programming languages?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Tree
+
+17. What is the main use of a Stack in recursion?
+    a) To store function calls and parameters
+    b) To reverse the order of execution
+    c) To store temporary results
+    d) None of the above
+
+18. True or False: A Queue can be implemented using an Array or a Linked List.
+
+19. What is the main advantage of using a Linked List to implement a Queue?
+    a) Faster insertion and deletion
+    b) Fixed size
+    c) Random access
+    d) None of the above
+
+20. In which data structure are elements added at the top and removed from the top?
+    a) Queue
+    b) Stack
+    c) Linked List
+    d) Array
+
+21. True or False: A Queue operates in a LIFO (Last In First Out) manner.
+
+22. Which data structure allows inserting and deleting elements from both ends?
+    a) Stack
+    b) Queue
+    c) Deque
+    d) Linked List
+
+23. What operation is used to add an element to the back of a Queue?
+    a) Enqueue
+    b) Dequeue
+    c) Pop
+    d) Push
+
+24. Which data structure is used for implementing a stack in most programming languages?
+    a) Queue
+    b) Stack
+    c) Linked List
+    d) Array
+
+25. True or False: Stacks are more efficient for managing function calls than Queues.
+
+
+
+
+---------------------------------
+
+# Intermediate Level:
+1. b) Stack
+2. True
+3. c) Dequeue
+4. d) Enqueue
+5. True
+6. c) Stack
+7. a) Front
+8. True
+9. b) Double-ended Queue (Deque)
+10. a) Stack uses LIFO order, Queue uses FIFO order
+11. b) Peek
+12. a) To store elements temporarily before they are processed
+13. a) Stack
+14. True
+15. b) Queue
+16. a) Stack
+17. True
+18. b) Enqueue
+19. a) Linked List
+20. True
+21. a) Stack
+22. True
+23. c) Linked List
+24. b) Stack
+25. True
+
+---------------------------------
+
+
+
+
+
+
+
+
+
+
+# Advanced Level:
+-----------------------------------------------------------
+1. What is the role of a Stack in a depth-first search algorithm?
+    a) To store elements in LIFO order
+    b) To store and access elements in FIFO order
+    c) To store nodes for efficient searching
+    d) None of the above
+
+2. True or False: A Stack cannot be implemented using an Array.
+
+3. In a Queue, what operation removes the element at the front and adjusts the front pointer?
+    a) Enqueue
+    b) Pop
+    c) Dequeue
+    d) Push
+
+4. Which type of Queue has both ends for insertion and deletion?
+    a) Circular Queue
+    b) Double-ended Queue (Deque)
+    c) Priority Queue
+    d) Queue with priority
+
+5. True or False: A Queue is used in breadth-first search algorithms.
+
+6. What is the time complexity of adding an element to a Stack (push operation)?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+7. What is the time complexity of removing an element from a Queue (dequeue operation)?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+8. True or False: A Priority Queue sorts elements according to their priority.
+
+9. What is the advantage of using a Circular Queue over a regular Queue?
+    a) Better memory utilization
+    b) Faster access times
+    c) Simpler implementation
+    d) None of the above
+
+10. In a Queue, which operation moves the front pointer to the next element after an element is removed?
+    a) Enqueue
+    b) Push
+    c) Pop
+    d) Dequeue
+
+11. What operation removes an element from the top of the Stack?
+    a) Enqueue
+    b) Dequeue
+    c) Pop
+    d) Push
+
+12. What is the advantage of a Double-ended Queue (Deque) over a regular Queue?
+    a) Allows insertion and deletion from both ends
+    b) Supports only FIFO operations
+    c) Does not require memory management
+    d) None of the above
+
+13. True or False: The time complexity for accessing an element in a Stack is O(1).
+
+14. Which of the following is a real-world application of a Stack data structure?
+    a) Undo operation in text editors
+    b) Serving customers in a queue
+    c) Storing elements in a circular manner
+    d) Scheduling tasks based on priority
+
+15. What is the primary disadvantage of using an array to implement a Queue?
+    a) Fixed size
+    b) Random access
+    c) Slow access time
+    d) None of the above
+
+16. What is the time complexity of the Peek operation in a Stack?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+17. In which data structure do elements follow FIFO (First In First Out) rule?
+    a) Stack
+    b) Queue
+    c) Linked List
+    d) Array
+
+18. True or False: A Queue can be implemented with a Linked List or an Array.
+
+19. What is the time complexity of deleting an element from the front of a Queue in a circular implementation?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+20. What type of Queue stores elements based on their priority?
+    a) Circular Queue
+    b) Double-ended Queue (Deque)
+    c) Priority Queue
+    d) Simple Queue
+
+21. What is the time complexity of inserting an element in the middle of a Linked List?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+22. What is the worst-case time complexity for removing an element from a Priority Queue?
+    a) O(1)
+    b) O(log n)
+    c) O(n)
+    d) O(n^2)
+
+23. True or False: A Queue operates by inserting and removing elements only at one end.
+
+24. Which data structure is best for managing a set of tasks to be executed in order of priority?
+    a) Stack
+    b) Queue
+    c) Priority Queue
+    d) Linked List
+
+25. True or False: Stacks are commonly used to manage recursion in programming languages.
+
+
+
+
+
+
+---------------------------------
+
+
+# Advanced Level:
+1. a) To store elements in LIFO order
+2. False
+3. c) Dequeue
+4. b) Double-ended Queue (Deque)
+5. True
+6. a) O(1)
+7. a) O(1)
+8. True
+9. a) Better memory utilization
+10. d) Dequeue
+11. c) Pop
+12. a) Allows insertion and deletion from both ends
+13. a) O(1)
+14. a) Undo operation in text editors
+15. a) Fixed size
+16. a) O(1)
+17. b) Queue
+18. True
+19. a) O(1)
+20. c) Priority Queue
+21. b) O(n)
+22. b) O(log n)
+23. False
+24. c) Priority Queue
+25. True
+
+---------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+ Sort, search and Tree.
+*********************************************
+
+
+
+
+# Basic Level:
+----------------------------------------------------------
+1. Which of the following is a comparison-based sorting algorithm?
+    a) Quick Sort
+    b) Counting Sort
+    c) Radix Sort
+    d) Bucket Sort
+
+2. True or False: Bubble sort is an efficient sorting algorithm for large data sets.
+
+3. Which of these is the best case time complexity of Quick Sort?
+    a) O(n^2)
+    b) O(n log n)
+    c) O(n)
+    d) O(log n)
+
+4. Which search algorithm is used for searching an element in a sorted array?
+    a) Linear Search
+    b) Binary Search
+    c) Depth-First Search
+    d) Breadth-First Search
+
+5. True or False: Linear search works faster than Binary search on large datasets.
+
+6. Which of the following is a tree traversal technique?
+    a) Preorder
+    b) Inorder
+    c) Postorder
+    d) All of the above
+
+7. True or False: In binary search, the array must be sorted.
+
+8. What is the time complexity of Binary Search on a sorted array of size n?
+    a) O(n)
+    b) O(log n)
+    c) O(n log n)
+    d) O(n^2)
+
+9. Which of the following is a property of a Binary Search Tree (BST)?
+    a) All elements in the left subtree are smaller than the root.
+    b) All elements in the right subtree are smaller than the root.
+    c) The left and right subtrees must have the same number of nodes.
+    d) None of the above.
+
+10. True or False: In a Binary Search Tree, elements in the left subtree are greater than the root.
+
+11. Which sorting algorithm has the best average-case time complexity?
+    a) Bubble Sort
+    b) Merge Sort
+    c) Insertion Sort
+    d) Quick Sort
+
+12. What is the main advantage of the Merge Sort algorithm?
+    a) It works well on large datasets.
+    b) It uses fewer comparisons than other algorithms.
+    c) It is faster for small datasets.
+    d) It has a space complexity of O(1).
+
+13. True or False: Merge Sort is a stable sorting algorithm.
+
+14. Which tree is used to implement a priority queue?
+    a) Binary Tree
+    b) AVL Tree
+    c) Binary Heap
+    d) Red-Black Tree
+
+15. True or False: A binary search tree (BST) is a complete tree.
+
+16. What is the worst-case time complexity of the Insertion Sort algorithm?
+    a) O(n)
+    b) O(n log n)
+    c) O(n^2)
+    d) O(log n)
+
+17. Which of the following sorting algorithms is the fastest for small arrays?
+    a) Quick Sort
+    b) Merge Sort
+    c) Insertion Sort
+    d) Heap Sort
+
+18. What is the time complexity of the Merge Sort algorithm?
+    a) O(n log n)
+    b) O(n^2)
+    c) O(n)
+    d) O(log n)
+
+19. True or False: Merge Sort works by repeatedly dividing the array into halves and sorting them.
+
+20. Which algorithm uses divide and conquer strategy for sorting?
+    a) Merge Sort
+    b) Bubble Sort
+    c) Selection Sort
+    d) Insertion Sort
+
+21. True or False: In a binary tree, each node has at most two children.
+
+22. What type of search algorithm is used in a balanced binary search tree?
+    a) Linear Search
+    b) Binary Search
+    c) Depth-First Search
+    d) Hashing
+
+23. Which of the following is not a binary tree traversal method?
+    a) Preorder
+    b) Inorder
+    c) Postorder
+    d) Level order
+
+24. True or False: A Binary Tree can be a complete binary tree, meaning all its levels are fully filled except possibly the last level.
+
+25. What is the key property of a heap in a heap data structure?
+    a) Parent nodes are always larger than child nodes.
+    b) Parent nodes are always smaller than child nodes.
+    c) The tree is always balanced.
+    d) None of the above.
+
+
+
+
+----------------------------------
+
+
+# Answers:
+# Basic Level:
+1. a) Quick Sort
+2. False
+3. b) O(n log n)
+4. b) Binary Search
+5. False
+6. d) All of the above
+7. True
+8. b) O(log n)
+9. a) All elements in the left subtree are smaller than the root.
+10. False
+11. b) Merge Sort
+12. a) It works well on large datasets.
+13. True
+14. c) Binary Heap
+15. False
+16. c) O(n^2)
+17. c) Insertion Sort
+18. a) O(n log n)
+19. True
+20. a) Merge Sort
+21. True
+22. b) Inorder
+23. d) Level order
+24. True
+25. a) Parent nodes are always larger than child nodes.
+
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Intermediate Level:
+----------------------------------------------------------
+1. What is the worst-case time complexity of Quick Sort?
+    a) O(n log n)
+    b) O(n^2)
+    c) O(n)
+    d) O(log n)
+
+2. Which of the following is an unstable sorting algorithm?
+    a) Merge Sort
+    b) Quick Sort
+    c) Insertion Sort
+    d) Heap Sort
+
+3. True or False: Quick Sort is a divide-and-conquer sorting algorithm.
+
+4. What is the time complexity of Binary Search when applied to a sorted linked list?
+    a) O(1)
+    b) O(log n)
+    c) O(n)
+    d) O(n log n)
+
+5. True or False: A Binary Search Tree (BST) is efficient for both insertion and search operations.
+
+6. What is the time complexity of finding the maximum element in a binary heap?
+    a) O(n)
+    b) O(log n)
+    c) O(1)
+    d) O(n log n)
+
+7. What is the space complexity of the Merge Sort algorithm?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n log n)
+
+8. Which data structure is used to implement a Depth-First Search (DFS) algorithm?
+    a) Queue
+    b) Stack
+    c) Priority Queue
+    d) Hash Table
+
+9. What is the advantage of Quick Sort over Merge Sort?
+    a) Merge Sort uses more space than Quick Sort.
+    b) Quick Sort is easier to implement.
+    c) Quick Sort is always faster.
+    d) None of the above.
+
+10. In which data structure does the search operation have the worst-case time complexity of O(n)?
+    a) Binary Search Tree
+    b) Unsorted Linked List
+    c) Hash Table
+    d) Binary Heap
+
+11. What is the time complexity of inserting an element in a Binary Search Tree (BST)?
+    a) O(1)
+    b) O(log n)
+    c) O(n)
+    d) O(n^2)
+
+12. True or False: An AVL tree is a self-balancing binary search tree.
+
+13. Which search algorithm has the worst-case time complexity of O(n) on a sorted array?
+    a) Binary Search
+    b) Jump Search
+    c) Linear Search
+    d) Exponential Search
+
+14. What is the time complexity of accessing an element in a hash table with open addressing?
+    a) O(1)
+    b) O(log n)
+    c) O(n)
+    d) O(n^2)
+
+15. Which of these is not a valid Binary Search Tree (BST) operation?
+    a) Insertion
+    b) Deletion
+    c) Level-order traversal
+    d) Rotations
+
+16. True or False: A binary tree is a special type of graph where each node has at most two children.
+
+17. What is the height of a complete binary tree with 31 nodes?
+    a) 5
+    b) 6
+    c) 4
+    d) 7
+
+18. What is the time complexity of searching in a balanced Binary Search Tree (BST)?
+    a) O(n)
+    b) O(log n)
+    c) O(n log n)
+    d) O(1)
+
+19. Which of the following sorting algorithms is stable?
+    a) Merge Sort
+    b) Quick Sort
+    c) Heap Sort
+    d) Selection Sort
+
+20. True or False: Heap Sort is an in-place sorting algorithm.
+
+21. Which of these algorithms guarantees O(n log n) worst-case time complexity?
+    a) Merge Sort
+    b) Quick Sort
+    c) Heap Sort
+    d) Bubble Sort
+
+22. What is the best case time complexity for Merge Sort?
+    a) O(n)
+    b) O(n log n)
+    c) O(log n)
+    d) O(n^2)
+
+23. What is the main difference between a Binary Heap and a Binary Search Tree (BST)?
+    a) A Binary Heap is a complete binary tree, while a BST is not.
+    b) A Binary Heap stores data in a sorted order, while a BST does not.
+    c) A Binary Heap is used for searching, while a BST is used for sorting.
+    d) None of the above.
+
+24. True or False: Depth-First Search (DFS) can be implemented using a stack.
+
+25. What is the primary advantage of a Binary Search Tree (BST) over a sorted array?
+    a) Faster search time
+    b) Faster insertion and deletion
+    c) Easier traversal
+    d) None of the above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+
+# Intermediate Level:
+1. b) O(n^2)
+2. b) Quick Sort
+3. True
+4. c) O(n)
+5. True
+6. a) O(n)
+7. b) O(n)
+8. b) Stack
+9. a) Merge Sort
+10. b) Unsorted Linked List
+11. c) O(n)
+12. True
+13. c) Linear Search
+14. a) O(1)
+15. d) Rotations
+16. True
+17. b) 6
+18. b) O(log n)
+19. a) Merge Sort
+20. True
+21. a) Merge Sort
+22. b) O(n log n)
+23. a) A Binary Heap is a complete binary tree, while a BST is not.
+24. True
+25. b) Faster insertion and deletion.
+
+
+----------------------------------
+
+
+
+
+# Advanced Level:
+----------------------------------------------------------
+1. What is the time complexity of deleting the root node in a Binary Heap?
+    a) O(log n)
+    b) O(n)
+    c) O(1)
+    d) O(n log n)
+
+2. Which of the following tree operations is performed in O(log n) time in a balanced BST?
+    a) Insertion
+    b) Deletion
+    c) Search
+    d) All of the above
+
+3. What is the key property of a Red-Black Tree?
+    a) The tree is always balanced.
+    b) The tree has a fixed height.
+    c) Each node is colored either red or black.
+    d) All nodes in the tree have two children.
+
+4. True or False: A B-tree is a generalization of a binary search tree in which a node can have more than two children.
+
+5. What is the worst-case time complexity for searching an element in a hash table with chaining?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+6. Which sorting algorithm is preferred when stability is required?
+    a) Merge Sort
+    b) Quick Sort
+    c) Heap Sort
+    d) Bubble Sort
+
+7. True or False: A Red-Black Tree is a type of self-balancing binary search tree.
+
+8. What is the worst-case time complexity of Binary Search on a balanced tree?
+    a) O(log n)
+    b) O(n)
+    c) O(n log n)
+    d) O(1)
+
+9. Which of the following properties does a Binary Search Tree (BST) guarantee?
+    a) Left child is greater than the parent node.
+    b) Right child is smaller than the parent node.
+    c) Left child is smaller than the parent node.
+    d) Right child is greater than the parent node.
+
+10. True or False: A B-tree is designed to optimize disk access.
+
+11. What is the time complexity of deleting an element from an AVL tree?
+    a) O(1)
+    b) O(log n)
+    c) O(n)
+    d) O(n log n)
+
+12. What is the space complexity of the Merge Sort algorithm?
+    a) O(1)
+    b) O(n)
+    c) O(log n)
+    d) O(n log n)
+
+13. Which of the following is not true for a Binary Search Tree (BST)?
+    a) The left subtree contains nodes with smaller values.
+    b) The right subtree contains nodes with larger values.
+    c) The root node must be the largest element.
+    d) Both subtrees must be Binary Search Trees.
+
+14. True or False: A B-tree is an example of a self-balancing tree.
+
+15. What is the primary advantage of a Heap data structure over a Binary Search Tree?
+    a) Heap supports efficient search operations.
+    b) Heap maintains a balanced structure for better insertion and deletion performance.
+    c) Heap guarantees a logarithmic time complexity for insertion and deletion.
+    d) None of the above.
+
+16. True or False: A priority queue can be implemented using a binary heap.
+
+17. Which of the following is a stable sorting algorithm?
+    a) Quick Sort
+    b) Merge Sort
+    c) Heap Sort
+    d) Selection Sort
+
+18. What is the time complexity for searching in an AVL Tree?
+    a) O(log n)
+    b) O(n)
+    c) O(n log n)
+    d) O(1)
+
+19. What type of tree is used for efficiently storing and searching for large datasets on disk?
+    a) Red-Black Tree
+    b) AVL Tree
+    c) B-tree
+    d) Binary Search Tree
+
+20. True or False: In a B-tree, the number of children of a node is variable and depends on the tree's order.
+
+21. What is the time complexity of searching for an element in a B-tree?
+    a) O(log n)
+    b) O(n)
+    c) O(log n)^2
+    d) O(1)
+
+22. True or False: A Red-Black Tree guarantees that its height will not exceed 2 log(n).
+
+23. What is the time complexity of building a Binary Heap from an unsorted array of n elements?
+    a) O(n log n)
+    b) O(n)
+    c) O(log n)
+    d) O(n^2)
+
+24. What is the advantage of using a heap over a binary search tree?
+    a) Faster search
+    b) Faster insertion and deletion
+    c) Lower space complexity
+    d) None of the above.
+
+25. What is the average case time complexity of Binary Search in a balanced tree?
+    a) O(log n)
+    b) O(n)
+    c) O(n log n)
+    d) O(1)
+
+----------------------------------
+
+# Advanced Level:
+1. a) O(log n)
+2. d) All of the above
+3. c) Each node is colored either red or black.
+4. True
+5. b) O(n)
+6. a) Merge Sort
+7. True
+8. a) O(log n)
+9. d) Right child is greater than the parent node.
+10. True
+11. b) O(log n)
+12. b) O(n)
+13. c) The root node must be the largest element.
+14. True
+15. b) Heap maintains a balanced structure for better insertion and deletion performance.
+16. True
+17. b) Merge Sort
+18. a) O(log n)
+19. c) B-tree
+20. True
+21. a) O(log n)
+22. True
+23. b) O(n)
+24. b) Faster insertion and deletion
+25. a) O(log n)
+
+
+----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*********************************************
+Programming Logic
+*********************************************
+
+
+
+# Basic Level Questions:
+
+1. Which of the following is an example of a logical operator?
+    a) &&
+    b) ++
+    c) ==
+    d) %
+
+2. True or False: A `for` loop is used to iterate over a block of code multiple times.
+
+3. What is the purpose of the `return` statement in a function?
+    a) To exit the function and optionally return a value.
+    b) To pause the function.
+    c) To skip a single iteration.
+    d) None of the above.
+
+4. Which of the following is not a valid relational operator?
+    a) >
+    b) <
+    c) =
+    d) >=
+
+5. True or False: In most programming languages, a `while` loop executes as long as the condition is true.
+
+6. What is the output of the expression `7 % 3`?
+    a) 3
+    b) 7
+    c) 1
+    d) 0
+
+7. What is the purpose of the `break` statement in a loop?
+    a) To skip an iteration.
+    b) To terminate the loop.
+    c) To pause the loop.
+    d) To restart the loop.
+
+8. True or False: A variable declared inside a function is called a global variable.
+
+9. Which keyword is used to declare a constant in Python?
+    a) const
+    b) define
+    c) CONSTANT
+    d) None of the above
+
+10. True or False: In C, the `printf` function is used for input.
+
+11. Which data type is used to store a sequence of characters in C?
+    a) int
+    b) float
+    c) char
+    d) string
+
+12. True or False: In Python, indentation is used to define blocks of code.
+
+13. What will the following code output in Python?
+    ```
+    print(5 * 2)
+    ```
+    a) 5
+    b) 10
+    c) 25
+    d) None
+
+14. Which of the following is a conditional statement?
+    a) for
+    b) if
+    c) while
+    d) continue
+
+15. True or False: The `else` block is mandatory in an `if-else` construct.
+
+16. What is the result of the following in Python?
+    ```
+    10 // 3
+    ```
+    a) 3.33
+    b) 3
+    c) 4
+    d) Error
+
+17. Which function is used to find the length of a string in Python?
+    a) strlen()
+    b) size()
+    c) length()
+    d) len()
+
+18. True or False: Logical operators can compare both numbers and Boolean values.
+
+19. What is the output of `2 ** 3` in Python?
+    a) 6
+    b) 8
+    c) 9
+    d) Error
+
+20. True or False: In a nested `if` statement, an `else` can be associated with the innermost `if`.
+
+21. Which loop is used when the number of iterations is unknown?
+    a) for
+    b) while
+    c) do-while
+    d) None of the above
+
+22. True or False: Functions can only return one value.
+
+23. What is the purpose of the `continue` statement?
+    a) To terminate the program.
+    b) To skip the current iteration.
+    c) To exit the loop.
+    d) None of the above.
+
+24. True or False: A `switch` statement is equivalent to multiple `if-else` statements.
+
+25. What is the correct syntax to declare an array in C?
+    a) array{10};
+    b) int arr[10];
+    c) array[10];
+    d) int[10] arr;
+
+
+
+Answers 
+-----------------
+1. a) &&
+2. True
+3. a) To exit the function and optionally return a value.
+4. c) =
+5. True
+6. c) 1
+7. b) To terminate the loop.
+8. False
+9. d) None of the above
+10. False
+11. d) string
+12. True
+13. b) 10
+14. b) if
+15. False
+16. b) 3
+17. d) len()
+18. True
+19. b) 8
+20. True
+21. b) while
+22. False
+23. b) To skip the current iteration.
+24. True
+25. b) int arr[10];
+
+
+
+
+
