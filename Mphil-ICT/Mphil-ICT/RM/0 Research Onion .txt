@@ -32,3 +32,136 @@ Research Onion by Mark Saunders
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+The Research Onion is a metaphorical framework that illustrates the different layers of a research process. It was proposed by Saunders et al. in their book Research Methods for Business Students (2007) and is widely used in social sciences and business research. The idea behind the onion is to peel away each layer of the research process, starting from the outermost layer (philosophy) and moving inward (methods of data collection and analysis).
+
+
+
+
+
+
+
+The Layers of the Research Onion
+---------------------------------------
+
+Philosophical Foundations (Outer Layer):
+----------------------------------------
+This is the first layer and refers to the underlying philosophy or worldview that guides the research. It involves understanding the basic assumptions about the nature of reality (ontology) and knowledge (epistemology).
+
+Common research philosophies include:
+    Positivism: Assumes that reality is objective and can be measured through observation and experimentation.
+    Interpretivism: Focuses on understanding human experiences and social phenomena from the perspective of the individuals involved.
+    Pragmatism: Emphasizes practical solutions to research problems, using both qualitative and quantitative methods.
+    Realism: Focuses on discovering the real world as it is, separate from human perception.
+
+
+
+
+Approaches to Research (Second Layer):
+----------------------------------------
+This layer defines the general approach the researcher takes in conducting the study. The key approaches are:
+    Deductive Approach: Starts with a theory or hypothesis and tests it through data collection and analysis.
+    Inductive Approach: Begins with data collection and then develops a theory based on the observations and patterns found.
+
+
+
+Methodological Choice (Third Layer):
+----------------------------------------
+This layer deals with the choice of methods for gathering and analyzing data. Researchers can select one of the following methodological choices:
+      Quantitative Research: Involves numerical data collection and statistical analysis. It's focused on measurement and finding patterns or relationships.
+      Qualitative Research: Involves non-numerical data like interviews, observations, and content analysis. It focuses on understanding experiences, meanings, and insights.
+      Mixed Methods: Combines both qualitative and quantitative approaches to gather a comprehensive understanding of the research problem.
+
+
+
+
+
+Research Strategy (Fourth Layer):
+----------------------------------------
+This layer focuses on the strategy the researcher will adopt to collect and analyze data. Common research strategies include:
+      Experimental: Involves controlled experiments to test hypotheses.
+      Survey: Collecting data from a large sample using questionnaires or structured interviews.
+      Case Study: In-depth analysis of a single case or a small group of cases.
+      Action Research: Involves actively participating in the process of change within an organization or community.
+      Grounded Theory: Data collection and theory development are conducted concurrently.
+      Ethnography: Studying the culture of a group or community through immersion and observation.
+
+
+
+
+
+
+Time Horizon (Fifth Layer):
+------------------------------
+This layer concerns the time frame in which the research is conducted. Researchers must choose between:
+      Cross-Sectional: Research conducted at a single point in time or over a short period.
+      Longitudinal: Research conducted over an extended period, tracking changes over time.
+
+
+
+
+Data Collection and Analysis (Inner Layer):
+----------------------------------------
+This is the final layer, which involves the practical steps of 
+gathering and analyzing data. The researcher chooses the appropriate
+methods and tools for data collection (e.g., surveys, interviews,
+observations) and then analyzes the data using the selected 
+techniques (e.g., statistical analysis, thematic coding, content analysis).
+
+
+
+
+
+Summary of the Research Onion Layers
+----------------------------------------
+    Philosophical Foundations: What assumptions guide the research (e.g., positivism, interpretivism).
+    Approaches to Research: Deductive vs. inductive approaches.
+    Methodological Choice: Quantitative, qualitative, or mixed methods.
+    Research Strategy: Experimental, survey, case study, etc.
+    Time Horizon: Cross-sectional vs. longitudinal research.
+    Data Collection and Analysis: How data is collected and analyzed.
+
+
+
+
+
+Example of Applying the Research Onion
+----------------------------------------
+    Topic: The Impact of Remote Work on Employee Productivity
+    Philosophical Foundations: Interpretivism (understanding personal experiences of employees).
+    Approach: Inductive (starting from employees' experiences and forming theories about remote work).
+    Methodological Choice: Qualitative (in-depth interviews with employees).
+    Research Strategy: Case Study (focusing on a specific organization that implemented remote work).
+    Time Horizon: Cross-Sectional (data collected at a single point in time).
+    Data Collection and Analysis: Semi-structured interviews and thematic analysis to identify key themes.
+
+
+
+
+
+
+The Research Onion provides a clear structure to help researchers navigate through
+the complexities of designing and conducting research. It ensures that each layer 
+is thoughtfully considered to develop a comprehensive research plan.
+
+
+
+
+
+
+
+
+
+
+
+
