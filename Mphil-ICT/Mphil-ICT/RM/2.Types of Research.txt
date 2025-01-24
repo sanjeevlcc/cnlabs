@@ -336,6 +336,58 @@ Types of Research
 
 
 
+============================================
+Types of Research ( Depth defnation)
+============================================
+
+1. Basis of Nature
+a) Fundamental or Pure Research
+            Focus: Expands general knowledge without immediate practical use.
+
+Sub-types:
+            Theoretical Research: Explores existing theories or develops new ones.
+                        Example: Deriving new equations in quantum mechanics.
+
+            Exploratory Research: Investigates unknown areas to identify new insights.
+                        Example: Exploring neural activity patterns to understand 
+                                 human decision-making.
+
+
+Example with Numerical Data:
+            A researcher tests the speed of light using advanced instrument
+            to refine the exact constant c=299,792.458km/s.
+
+
+b) Applied or Management Research
+Focus: Solves specific, practical problems.
+
+Sub-types:
+Action Research: Immediate solutions for specific organizational problems.
+Example: Testing a new employee training program's impact on job performance.
+Evaluation Research: Assesses the effectiveness of a policy, product, or program.
+Example: Evaluating customer satisfaction after implementing new CRM software.
+Example with Numerical Data:
+
+Conducting a study on 200 employees:
+Before training: 65% productivity.
+After training: 85% productivity.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
