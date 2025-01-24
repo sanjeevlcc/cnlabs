@@ -2218,7 +2218,71 @@ reasoning and Eastern emphasis on experiential, life-based learning.
 
 
 
+-------------------------------------------------------
+The example of Mivaan Thapa learning 
+about the dangers of touching a current 
+board can be classified based on
+qualitative (interpretivist) and
+quantitative (positivist) research 
+paradigms as follows:
+-------------------------------------------------------
 
+
+Qualitative (Interpretivist) Approach:
+-----------------------------------------
+Focus: Subjective experiences, meanings, and personal interpretations of reality.
+
+Application in the Example:
+
+        Subjective Experience: 
+        Mivaan's understanding of "current" as harmful is shaped by his personal experience of pain.
+        
+        Perception and Meaning: 
+        The realization of "not touching" is a constructed meaning based on his unique encounter with the current board.
+        
+        Behavioral Adaptation:
+        His future behavior reflects his internalized understanding of the consequences.
+        
+        Exploration Tool: 
+        An interpretivist might use interviews or ethnographic techniques to explore how Mivaan feels about his
+        experience and how it changes his worldview (e.g., his fear or respect for electricity).
+
+
+Key Features of Qualitative in This Example:
+        Focuses on how Mivaan perceives and understands the event.
+        Values contextual and lived experiences.
+        Analyzes how personal meaning is constructed over time.
+
+
+
+
+
+
+Quantitative (Positivist) Approach:
+-----------------------------------------
+Focus: Objective measurement, testing hypotheses, and identifying cause-effect relationships.
+
+Application in the Example:
+
+        Cause and Effect: The objective reality is that touching a live current board causes pain (electric shock).
+        
+        Observable Behavior: The fact that Mivaan stops touching the current board can be measured as a behavioral outcome.
+        
+        Testing Hypotheses: Positivists might set up an experiment to test whether exposure to mild shocks changes children's behavior toward electrical boards.
+        
+        Quantifiable Data: For example:
+            Number of incidents before and after the shock.
+            Time taken for Mivaan to change his behavior.
+            Impact assessment: How Mivaan's learning reduces risky actions over a defined period.
+
+
+
+Key Features of Quantitative in This Example:
+
+        Focuses on measurable outcomes (e.g., the number of shocks leading to behavior change).
+        Tests objective truths (e.g., "touching current causes harm").
+        Emphasizes universal cause-effect relationships rather than individual meaning.
+        
 
 
 
