@@ -533,6 +533,26 @@ A roadmap for equitable AI implementation to minimize economic disparity.
 
 ---------------------------------------
 
+1. a
+2. False
+3. Systematic
+4. b
+5. False
+6. Controlled
+7. b
+8. True
+9. Controlled
+10. b
+11. False
+12. Systematic
+13. a
+14. True
+15. Systematic
+16. b
+17. True
+18. Systematic
+19. b
+20. False
 
 ---------------------------------------
 
@@ -617,6 +637,26 @@ A roadmap for equitable AI implementation to minimize economic disparity.
 
 
 ---------------------------------------
+1. b
+2. False
+3. Valid
+4. b
+5. False
+6. External
+7. b
+8. True
+9. Experimental
+10. b
+11. True
+12. True
+13. c
+14. True
+15. Validity
+16. b
+17. True
+18. Confounding
+19. b
+20. True
 
 
 ---------------------------------------
