@@ -542,6 +542,393 @@ Example with Numerical Data:
 
 
 
+BASIC LEVEL (1–20)
+----------------------------------------------------------
+
+1. MCQ: What is the main focus of fundamental research?
+   a) Solving specific problems
+   b) Expanding general knowledge
+   c) Evaluating products
+   d) Testing theories
+   ............................
+
+2. Fill in the Blank: _______ research is conducted to explore unknown areas and identify new insights.
+   ............................
+
+3. True/False: Applied research focuses on solving practical problems.
+   ............................
+
+4. MCQ: Which sub-type of quantitative research describes characteristics or phenomena?
+   a) Experimental Research
+   b) Correlational Research
+   c) Descriptive Research
+   d) Action Research
+   ............................
+
+5. Fill in the Blank: _______ research studies relationships between variables.
+   ............................
+
+6. True/False: Case studies are an example of qualitative research.
+   ............................
+
+7. MCQ: What type of research follows a specific group sharing a common characteristic over time?
+   a) Longitudinal Research
+   b) Cross-sectional Research
+   c) Cohort Studies
+   d) Panel Studies
+   ............................
+
+8. Fill in the Blank: _______ reasoning starts with observations and forms a theory.
+   ............................
+
+9. True/False: Descriptive research is part of qualitative research.
+   ............................
+
+10. MCQ: What is the focus of deductive reasoning?
+    a) Observations to theory
+    b) Data validation
+    c) Testing a theory using specific data
+    d) Exploring lived experiences
+    ............................
+
+11. Fill in the Blank: _______ research is conducted to expand knowledge without immediate practical use.
+    ............................
+
+12. True/False: Phenomenological research explores lived experiences.
+    ............................
+
+13. MCQ: What is an example of action research?
+    a) Developing new theories
+    b) Testing the impact of training on job performance
+    c) Surveying customer preferences
+    d) Observing consumer behavior
+    ............................
+
+14. Fill in the Blank: _______ research focuses on assessing the effectiveness of a policy or program.
+    ............................
+
+15. True/False: Cross-sectional research studies phenomena over an extended period.
+    ............................
+
+16. MCQ: Which reasoning type builds a theory from systematically collected data?
+    a) Deductive
+    b) Inductive
+    c) Exploratory
+    d) Validation
+    ............................
+
+17. Fill in the Blank: Observing trends and forming patterns is an example of _______.
+    ............................
+
+18. True/False: Panel studies track the same individuals repeatedly over time.
+    ............................
+
+19. MCQ: What type of research explores cultural or social groups?
+    a) Experimental
+    b) Ethnographic
+    c) Validation
+    d) Comparative
+    ............................
+
+20. Fill in the Blank: _______ studies compare groups or variables at a single point in time.
+    ............................
+
+
+
+
+
+Answers
+-------------
+1. b
+2. Exploratory
+3. True
+4. c
+5. Correlational
+6. True
+7. c
+8. Inductive
+9. False
+10. c
+11. Fundamental
+12. True
+13. b
+14. Evaluation
+15. False
+16. b
+17. Pattern Identification
+18. True
+19. b
+20. Comparative
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERMEDIATE LEVEL (1–20)
+---------------------------------
+
+1. MCQ: What is the primary goal of exploratory research?
+   a) Developing policies
+   b) Gaining new insights
+   c) Testing hypotheses
+   d) Validating models
+   ............................
+
+2. Fill in the Blank: Testing cause-and-effect relationships is a focus of _______ research.
+   ............................
+
+3. True/False: Grounded theory is part of deductive reasoning.
+   ............................
+
+4. MCQ: Which research method collects non-numerical data?
+   a) Quantitative
+   b) Qualitative
+   c) Longitudinal
+   d) Cross-sectional
+   ............................
+
+5. Fill in the Blank: _______ studies track the same individuals repeatedly over time.
+   ............................
+
+6. True/False: Longitudinal research observes phenomena at a single point in time.
+   ............................
+
+7. MCQ: What is an example of validation research?
+   a) Testing the impact of training
+   b) Verifying a machine learning model
+   c) Observing rural consumer behavior
+   d) Studying cultural diversity
+   ............................
+
+8. Fill in the Blank: A _______ study involves analyzing a specific group sharing common characteristics over a long period.
+   ............................
+
+9. True/False: Evaluation research focuses on immediate solutions.
+   ............................
+
+10. MCQ: Which type of reasoning tests a theory with specific data?
+    a) Inductive
+    b) Deductive
+    c) Exploratory
+    d) Ethnographic
+    ............................
+
+11. Fill in the Blank: Observing cultural behaviors is part of _______ research.
+    ............................
+
+12. True/False: Descriptive research involves forming new theories.
+    ............................
+
+13. MCQ: What is the main focus of action research?
+    a) Long-term impacts
+    b) Immediate problem-solving
+    c) Theoretical development
+    d) Comparative analysis
+    ............................
+
+14. Fill in the Blank: _______ research assesses characteristics of a population or phenomenon.
+    ............................
+
+15. True/False: Cross-sectional studies are suitable for tracking changes over time.
+    ............................
+
+16. MCQ: Which sub-type of reasoning identifies patterns in data?
+    a) Deductive
+    b) Pattern Identification
+    c) Exploratory
+    d) Grounded Theory
+    ............................
+
+17. Fill in the Blank: _______ studies compare different groups at a single time point.
+    ............................
+
+18. True/False: Inductive reasoning begins with a theory and tests it.
+    ............................
+
+19. MCQ: Which research method focuses on lived experiences?
+    a) Experimental
+    b) Case Studies
+    c) Phenomenological
+    d) Descriptive
+    ............................
+
+20. Fill in the Blank: _______ research focuses on the effectiveness of policies, products, or programs.
+    ............................
+
+
+
+
+Answers
+-----------------------
+1. b
+2. Experimental
+3. False
+4. b
+5. Panel
+6. False
+7. b
+8. Cohort
+9. False
+10. b
+11. Ethnographic
+12. False
+13. b
+14. Descriptive
+15. False
+16. b
+17. Comparative
+18. False
+19. c
+20. Evaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVANCED LEVEL (41–60)
+---------------------------
+
+1. MCQ: What does grounded theory aim to achieve?
+   a) Testing existing theories
+   b) Building theory from collected data
+   c) Validating mathematical models
+   d) Exploring lived experiences
+   ............................
+
+2. Fill in the Blank: Hypothesis testing is a critical component of _______ reasoning.
+   ............................
+
+3. True/False: Longitudinal research observes subjects over a short period.
+   ............................
+
+4. MCQ: What is the focus of evaluation research?
+   a) Developing theoretical frameworks
+   b) Assessing the impact of an intervention
+   c) Tracking longitudinal data
+   d) Identifying cultural phenomena
+   ............................
+
+5. Fill in the Blank: _______ research collects data at one point in time to compare variables.
+   ............................
+
+6. True/False: Experimental research does not test cause-and-effect relationships.
+   ............................
+
+7. MCQ: What type of study tracks health outcomes of people over decades?
+   a) Cross-sectional
+   b) Longitudinal
+   c) Case Study
+   d) Descriptive
+   ............................
+
+8. Fill in the Blank: _______ research is focused on solving practical issues in real-time.
+   ............................
+
+9. True/False: Qualitative research primarily involves numerical data.
+   ............................
+
+10. MCQ: What sub-type of research observes cultural or social groups?
+    a) Descriptive
+    b) Ethnographic
+    c) Longitudinal
+    d) Experimental
+    ............................
+
+11. Fill in the Blank: _______ research combines quantitative and qualitative approaches.
+    ............................
+
+12. True/False: A longitudinal study can also be a cohort study.
+    ............................
+
+13. MCQ: What is an example of correlational research?
+    a) Testing a drug’s effectiveness on a population
+    b) Analyzing the relationship between exercise and stress levels
+    c) Evaluating employee training effectiveness
+    d) Observing customer behavior in a rural market
+    ............................
+
+14. Fill in the Blank: _______ research is conducted to validate theoretical models or frameworks.
+    ............................
+
+15. True/False: Inductive reasoning forms a hypothesis first and tests it later.
+    ............................
+
+16. MCQ: Which reasoning method builds a theory based on patterns observed?
+    a) Deductive
+    b) Inductive
+    c) Comparative
+    d) Experimental
+    ............................
+
+17. Fill in the Blank: Observing lived experiences is an example of _______ research.
+    ............................
+
+18. True/False: Cross-sectional research provides insights into changes over time.
+    ............................
+
+19. MCQ: Which type of research tracks the same individuals repeatedly over time?
+    a) Cross-sectional
+    b) Cohort
+    c) Panel
+    d) Validation
+    ............................
+
+20. Fill in the Blank: The primary aim of _______ research is to assess the cause-and-effect relationship between variables.
+    ............................
+
+
+
+
+ANS
+------1. b
+2. Deductive
+3. False
+4. b
+5. Cross-sectional
+6. False
+7. b
+8. Action
+9. False
+10. b
+11. Mixed-method
+12. True
+13. b
+14. Validation
+15. False
+16. b
+17. Phenomenological
+18. False
+19. c
+20. Experimental
+
+
+
+
+
+
 
 make a mcq , fill in the blankks, true false in topic ...................make 20 each questions as basic, intermediate, advance ............................. make the system each chronology as basic 1 2 3 4 ...20 , same as intermediate and advance in the topic ..........................
 
