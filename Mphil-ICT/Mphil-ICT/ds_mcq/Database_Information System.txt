@@ -29,7 +29,151 @@ Database (15)
 Basic
 ------------
 
+# Database MCQs - Basic Level (20 Questions)
+1. What is a database?
+   a) A collection of unrelated data
+   b) A structured collection of data
+   c) A type of programming language
+   d) A hardware component
 
+2. Which of the following is a DBMS?
+   a) MySQL
+   b) Excel
+   c) Word
+   d) PowerPoint
+
+3. What does SQL stand for?
+   a) Structured Query Language
+   b) Simple Query Language
+   c) Standard Query Language
+   d) Sequential Query Language
+
+4. Which SQL command is used to retrieve data from a database?
+   a) INSERT
+   b) SELECT
+   c) UPDATE
+   d) DELETE
+
+5. What is a primary key?
+   a) A key that can have duplicate values
+   b) A key that uniquely identifies each record in a table
+   c) A key used for encryption
+   d) A key that links two tables
+
+6. Which of the following is NOT a type of database model?
+   a) Relational
+   b) Hierarchical
+   c) Network
+   d) Linear
+
+7. What is a table in a database?
+   a) A collection of rows and columns
+   b) A collection of databases
+   c) A collection of queries
+   d) A collection of indexes
+
+8. Which SQL clause is used to filter records?
+   a) GROUP BY
+   b) ORDER BY
+   c) WHERE
+   d) HAVING
+
+9. What is a foreign key?
+   a) A key that uniquely identifies a record in a table
+   b) A key that links two tables by referencing a primary key in another table
+   c) A key used for sorting data
+   d) A key used for encryption
+
+10. Which command is used to create a new table in SQL?
+    a) CREATE TABLE
+    b) ADD TABLE
+    c) INSERT TABLE
+    d) MAKE TABLE
+
+11. What is the purpose of the ORDER BY clause in SQL?
+    a) To filter records
+    b) To sort records
+    c) To group records
+    d) To delete records
+
+12. Which of the following is a NoSQL database?
+    a) MySQL
+    b) PostgreSQL
+    c) MongoDB
+    d) Oracle
+
+13. What is normalization in databases?
+    a) The process of reducing data redundancy
+    b) The process of increasing data redundancy
+    c) The process of deleting data
+    d) The process of encrypting data
+
+14. Which SQL command is used to delete a table?
+    a) DROP TABLE
+    b) DELETE TABLE
+    c) REMOVE TABLE
+    d) ERASE TABLE
+
+15. What is a tuple in a database?
+    a) A row in a table
+    b) A column in a table
+    c) A database schema
+    d) A database index
+
+16. Which SQL command is used to add new records to a table?
+    a) INSERT
+    b) UPDATE
+    c) DELETE
+    d) SELECT
+
+17. What is the purpose of an index in a database?
+    a) To speed up data retrieval
+    b) To store backup data
+    c) To encrypt data
+    d) To delete data
+
+18. Which of the following is a relational database management system (RDBMS)?
+    a) MongoDB
+    b) Cassandra
+    c) MySQL
+    d) Redis
+
+19. What is a schema in a database?
+    a) The structure of the database
+    b) A type of query
+    c) A backup of the database
+    d) A type of index
+
+20. Which SQL command is used to modify existing records in a table?
+    a) INSERT
+    b) UPDATE
+    c) DELETE
+    d) SELECT
+
+
+
+# Solutions
+1. b) A structured collection of data
+2. a) MySQL
+3. a) Structured Query Language
+4. b) SELECT
+5. b) A key that uniquely identifies each record in a table
+6. d) Linear
+7. a) A collection of rows and columns
+8. c) WHERE
+9. b) A key that links two tables by referencing a primary key in another table
+10. a) CREATE TABLE
+11. b) To sort records
+12. c) MongoDB
+13. a) The process of reducing data redundancy
+14. a) DROP TABLE
+15. a) A row in a table
+16. a) INSERT
+17. a) To speed up data retrieval
+18. c) MySQL
+19. a) The structure of the database
+20. b) UPDATE
+21. a) A way to
 
 
 
@@ -43,6 +187,126 @@ Basic
 Intermediate 
 ------------
 
+# Database MCQs - Intermediate Level (20 Questions)
+21. What is a join in SQL?
+    a) A way to combine rows from two or more tables
+    b) A way to delete rows from a table
+    c) A way to encrypt data
+    d) A way to create a new table
+
+22. Which type of join returns all records from both tables, even if there is no match?
+    a) INNER JOIN
+    b) LEFT JOIN
+    c) RIGHT JOIN
+    d) FULL OUTER JOIN
+
+23. What is a subquery in SQL?
+    a) A query within another query
+    b) A query that deletes data
+    c) A query that creates a table
+    d) A query that updates data
+
+24. Which SQL command is used to grant permissions to a user?
+    a) GRANT
+    b) ALLOW
+    c) PERMIT
+    d) AUTHORIZE
+
+25. What is a transaction in a database?
+    a) A single operation on the database
+    b) A sequence of operations performed as a single unit
+    c) A type of index
+    d) A type of join
+
+26. Which SQL command is used to revoke permissions from a user?
+    a) REVOKE
+    b) DENY
+    c) REMOVE
+    d) DELETE
+
+27. What is ACID in database transactions?
+    a) Atomicity, Consistency, Isolation, Durability
+    b) Accuracy, Consistency, Integrity, Durability
+    c) Atomicity, Consistency, Integrity, Durability
+    d) Accuracy, Consistency, Isolation, Durability
+
+28. What is a view in SQL?
+    a) A virtual table based on the result of a query
+    b) A physical table in the database
+    c) A type of index
+    d) A type of join
+
+29. Which SQL command is used to create a view?
+    a) CREATE VIEW
+    b) MAKE VIEW
+    c) ADD VIEW
+    d) INSERT VIEW
+
+30. What is a stored procedure in SQL?
+    a) A precompiled collection of SQL statements
+    b) A type of index
+    c) A type of join
+    d) A type of transaction
+
+31. Which SQL command is used to delete a view?
+    a) DROP VIEW
+    b) DELETE VIEW
+    c) REMOVE VIEW
+    d) ERASE VIEW
+
+32. What is a trigger in SQL?
+    a) A set of actions that are automatically executed when a specific event occurs
+    b) A type of index
+    c) A type of join
+    d) A type of transaction
+
+33. Which SQL command is used to create a trigger?
+    a) CREATE TRIGGER
+    b) MAKE TRIGGER
+    c) ADD TRIGGER
+    d) INSERT TRIGGER
+
+34. What is a cursor in SQL?
+    a) A database object used to retrieve and manipulate data row by row
+    b) A type of index
+    c) A type of join
+    d) A type of transaction
+
+35. Which SQL command is used to declare a cursor?
+    a) DECLARE CURSOR
+    b) CREATE CURSOR
+    c) MAKE CURSOR
+    d) ADD CURSOR
+
+36. What is the purpose of the GROUP BY clause in SQL?
+    a) To group rows that have the same values into summary rows
+    b) To filter rows
+    c) To sort rows
+    d) To delete rows
+
+37. What is the purpose of the HAVING clause in SQL?
+    a) To filter groups of rows
+    b) To filter individual rows
+    c) To sort rows
+    d) To delete rows
+
+38. What is a composite key in a database?
+    a) A key that consists of multiple columns
+    b) A key that is used for encryption
+    c) A key that is used for sorting
+    d) A key that is used for indexing
+
+39. What is the purpose of the UNION operator in SQL?
+    a) To combine the result sets of two or more SELECT statements
+    b) To filter rows
+    c) To sort rows
+    d) To delete rows
+
+40. What is the difference between UNION and UNION ALL in SQL?
+    a) UNION removes duplicates, while UNION ALL includes duplicates
+    b) UNION includes duplicates, while UNION ALL removes duplicates
+    c) UNION sorts the result set, while UNION ALL does not
+    d) UNION filters the result set, while UNION ALL does not
 
 
 
@@ -66,6 +330,126 @@ Advance
 
 
 
+# Database MCQs - Advanced Level (20 Questions)
+41. What is database sharding?
+    a) Splitting a database into smaller, more manageable pieces
+    b) Combining multiple databases into one
+    c) Encrypting a database
+    d) Deleting a database
+
+42. What is database replication?
+    a) Creating multiple copies of a database for redundancy and performance
+    b) Deleting a database
+    c) Encrypting a database
+    d) Splitting a database into smaller pieces
+
+43. What is a deadlock in a database?
+    a) A situation where two or more transactions are waiting for each other to release locks
+    b) A type of index
+    c) A type of join
+    d) A type of transaction
+
+44. What is database indexing?
+    a) A technique to improve the speed of data retrieval
+    b) A technique to encrypt data
+    c) A technique to delete data
+    d) A technique to combine data
+
+45. What is the difference between a clustered index and a non-clustered index?
+    a) A clustered index sorts and stores the data rows in the table, while a non-clustered index does not
+    b) A non-clustered index sorts and stores the data rows in the table, while a clustered index does not
+    c) A clustered index is used for encryption, while a non-clustered index is not
+    d) A non-clustered index is used for encryption, while a clustered index is not
+
+46. What is database normalization?
+    a) The process of organizing data to reduce redundancy and improve integrity
+    b) The process of encrypting data
+    c) The process of deleting data
+    d) The process of combining data
+
+47. What is denormalization in a database?
+    a) The process of intentionally introducing redundancy to improve performance
+    b) The process of encrypting data
+    c) The process of deleting data
+    d) The process of combining data
+
+48. What is a database constraint?
+    a) A rule enforced on data in a table
+    b) A type of index
+    c) A type of join
+    d) A type of transaction
+
+49. What is the difference between a primary key and a unique key?
+    a) A primary key cannot have NULL values, while a unique key can
+    b) A unique key cannot have NULL values, while a primary key can
+    c) A primary key is used for encryption, while a unique key is not
+    d) A unique key is used for encryption, while a primary key is not
+
+50. What is a database transaction log?
+    a) A record of all transactions performed on a database
+    b) A type of index
+    c) A type of join
+    d) A type of constraint
+
+51. What is database partitioning?
+    a) Dividing a database into smaller, more manageable pieces
+    b) Combining multiple databases into one
+    c) Encrypting a database
+    d) Deleting a database
+
+52. What is the purpose of the COMMIT command in SQL?
+    a) To save the changes made during a transaction
+    b) To undo the changes made during a transaction
+    c) To delete a transaction
+    d) To create a transaction
+
+53. What is the purpose of the ROLLBACK command in SQL?
+    a) To undo the changes made during a transaction
+    b) To save the changes made during a transaction
+    c) To delete a transaction
+    d) To create a transaction
+
+54. What is database concurrency control?
+    a) Managing simultaneous access to a database to ensure data integrity
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+55. What is a database lock?
+    a) A mechanism to prevent multiple transactions from accessing the same data simultaneously
+    b) A type of index
+    c) A type of join
+    d) A type of constraint
+
+56. What is the difference between a shared lock and an exclusive lock?
+    a) A shared lock allows multiple transactions to read data, while an exclusive lock allows only one transaction to write data
+    b) An exclusive lock allows multiple transactions to read data, while a shared lock allows only one transaction to write data
+    c) A shared lock is used for encryption, while an exclusive lock is not
+    d) An exclusive lock is used for encryption, while a shared lock is not
+
+57. What is database caching?
+    a) Storing frequently accessed data in memory for faster retrieval
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+58. What is database mirroring?
+    a) Creating a duplicate copy of a database for redundancy
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+59. What is database clustering?
+    a) Combining multiple database servers to work as a single system
+    b) Encrypting a database
+    c) Deleting a database
+    d) Splitting a database into smaller pieces
+
+60. What is database federation?
+    a) Combining multiple databases into a single virtual database
+    b) Encrypting a database
+    c) Deleting a database
+    d) Splitting a database into smaller pieces
 
 
             Answers
@@ -78,6 +462,127 @@ Advance
 Pro
 ------------
 
+
+# Database MCQs - Pro Level (20 Questions)
+61. What is database virtualization?
+    a) Abstracting the physical database infrastructure to provide a logical view
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+62. What is database encryption?
+    a) Converting data into a secure format to prevent unauthorized access
+    b) Deleting a database
+    c) Combining multiple databases
+    d) Splitting a database into smaller pieces
+
+63. What is database auditing?
+    a) Tracking and logging database activities for security and compliance
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+64. What is database compression?
+    a) Reducing the size of data to save storage space
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+65. What is database archiving?
+    a) Moving old or infrequently accessed data to a separate storage location
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+66. What is database tuning?
+    a) Optimizing database performance by adjusting configurations and queries
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+67. What is database migration?
+    a) Moving data from one database system to another
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+68. What is database backup and recovery?
+    a) Creating copies of data to restore in case of data loss
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+69. What is database scalability?
+    a) The ability of a database to handle increasing amounts of data and users
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+70. What is database high availability?
+    a) Ensuring a database is operational with minimal downtime
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+71. What is database load balancing?
+    a) Distributing workloads across multiple database servers to improve performance
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+72. What is database disaster recovery?
+    a) Restoring a database after a catastrophic event
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+73. What is database version control?
+    a) Managing changes to a database schema over time
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+74. What is database metadata?
+    a) Data about the structure and organization of a database
+    b) Encrypted data
+    c) Deleted data
+    d) Combined data
+
+75. What is database query optimization?
+    a) Improving the performance of database queries
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+76. What is database schema migration?
+    a) Updating the structure of a database to a new version
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+77. What is database connection pooling?
+    a) Reusing database connections to improve performance
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+78. What is database replication lag?
+    a) The delay between data changes in the primary database and their replication to secondary databases
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+79. What is database failover?
+    a) Automatically switching to a backup database in case of failure
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
+
+80. What is database partitioning key?
+    a) A column used to determine how data is divided across partitions
+    b) Encrypting a database
+    c) Deleting a database
+    d) Combining multiple databases
 
 
 
