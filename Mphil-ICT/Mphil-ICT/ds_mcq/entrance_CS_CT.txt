@@ -134,6 +134,7 @@ scenario.
 
 
 
+===============================================================================================================
 
 
 
@@ -146,10 +147,3 @@ scenario.
 
 
 
-
-
-That would cover multiple aspects: benefits (ICT in agriculture), challenges (infrastructure like internet in rural areas, electricity), data privacy (farmers' data), and strategies (public-private partnerships, pilot projects, etc.).
-
-Yes, that seems comprehensive. Each sub-question can be worth a portion of the 25 marks, ensuring depth.
-
-Need to create two such questions, each with sub-parts, totaling 50 marks. Make sure they're distinct, covering different areas of ICT, and relevant to both global trends and Nepal's scenario.
