@@ -1,0 +1,203 @@
+
+6. Cybersecurity Challenges in Nepal’s Digital Transformation
+------------------------------------------------------------------
+Scenario:
+As Nepal accelerates its digital transformation, cybersecurity 
+threats such as data breaches, ransomware attacks, and phishing 
+scams have become more prevalent. The government has recently 
+drafted a cybersecurity policy, but its implementation remains weak.
+
+Question:
+--------------
+Analyze the current state of cybersecurity in Nepal and its impact on digital transformation.
+
+What measures should the government and private sector take to strengthen cybersecurity in Nepal?
+
+Discuss the role of public awareness and education in mitigating cybersecurity risks.
+
+(25 Marks)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analysis of Nepal’s Cybersecurity Landscape and Its 
+Impact on Digital Transformation
+-----------------------------------------------------
+Nepal’s digital transformation is accelerating, with initiatives 
+like e-governance, digital banking, and online education gaining 
+momentum. However, cybersecurity remains a critical vulnerability,
+threatening progress:
+
+
+    
+    Current State of Cybersecurity:
+    
+          Weak Legal Frameworks:
+          The 2021 Cybersecurity Policy lacks enforceability, with no dedicated 
+          cybersecurity law or penalties for breaches. Critical sectors 
+          (e.g., banking, healthcare) follow ad-hoc protocols.
+          
+          Underdeveloped Infrastructure: 
+          Most institutions rely on outdated software and lack encryption,
+          firewalls, or intrusion detection systems.
+          
+          Skill Shortages: 
+          Few certified cybersecurity professionals; Nepal’s IT workforce
+          is concentrated in basic IT services, not advanced threat detection.
+          
+          Rising Threats:
+          
+                    Ransomware Attacks:
+                    Hospitals and banks (e.g., NIC Asia Bank breach in 2020) have
+                    faced operational disruptions.
+                    
+                    Phishing Scams: 
+                    Social media and SMS-based frauds target citizens unfamiliar
+                    with digital hygiene.
+                    
+                    State-Sponsored Risks: 
+                    Geopolitical tensions (e.g., data routing through India/China) raise concerns
+                    about cross-border cyber espionage.
+    
+    
+    Impact on Digital Transformation:
+    
+          Erosion of Trust: 
+          Data breaches deter citizens from adopting digital 
+          services like mobile banking (e.g., eSewa, Khalti).
+          
+          Economic Losses: 
+          Cyberattacks cost businesses an estimated $3.6 million
+          annually (ICIT, 2022), stifling SME growth.
+          
+          Stalled Innovation:
+          Fear of vulnerabilities slows investments in smart 
+          cities, e-governance, and IoT projects.
+          
+
+
+
+
+
+
+Measures to Strengthen Cybersecurity
+------------------------------------------
+          Government Actions:
+                  
+                  Enforce Comprehensive Legislation: 
+                  Pass a Cybersecurity Act mandating data protection, breach 
+                  reporting, and penalties for non-compliance.
+                  
+                  Establish Specialized Agencies:
+                  
+                          A National Cybersecurity Center (NCSC) for threat 
+                          monitoring and incident response.
+                          
+                          CERT-NP (Computer Emergency Response Team) to coordinate
+                          with regional/international bodies (e.g., APCERT).
+
+
+                  Critical Infrastructure Protection:
+                  Classify banking, energy, and telecoms as “critical” and 
+                  mandate regular audits.
+
+
+                  Public-Private Partnerships:
+                  Collaborate with firms like F1Soft (e-payment tech) to 
+                  co-fund R&D and threat intelligence sharing.
+          
+          
+          
+          Private Sector Responsibilities:
+                  
+                  Adopt Standards: 
+                  Implement ISO 27001, NIST frameworks, and end-to-end 
+                  encryption for customer data.
+                  
+                  Invest in Cybersecurity:
+                  Allocate budgets for advanced tools (e.g., AI-driven threat detection) and
+                  hire certified experts.
+                  
+                  Employee Training:
+                  Conduct workshops on phishing, password management,
+                  and incident reporting.
+                  
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role of Public Awareness and Education
+--------------------------------------------
+          National Campaigns:
+          
+              Launch Cyber Jagrookta Diwas (Cyber Awareness Day) via TV, 
+              radio, and social media to teach safe browsing, 
+              fraud reporting, and two-factor authentication.
+              
+              Use influencers and local languages to engage 
+              rural populations.
+          
+          
+          
+          
+          Education Reforms:
+          
+                Integrate cybersecurity into school curricula (grades 8–12) 
+                and university IT programs.
+                
+                Partner with NGOs like ICT4D Nepal to run community 
+                workshops in villages.
+          
+          Workforce Development:
+          
+                Offer subsidized certifications (e.g., CEH, CISSP) through
+                the National Information Technology Center (NITC).
+                
+                Collaborate with India’s NASSCOM or Singapore’s CSA for
+                training programs.
+          
+          
+          
+          Citizen Reporting Mechanisms:
+          
+              Create a National Cybercrime Portal for real-time reporting
+              of scams, linked to the NCSC for swift action.
+
+
+
+
+Conclusion
+      Nepal’s digital future hinges on robust cybersecurity.
+      A multi-stakeholder approach—combining stringent laws, infrastructure
+      upgrades, skilled workforce development, and grassroots education—can 
+      mitigate risks. By prioritizing cybersecurity as a national agenda, Nepal 
+      can safeguard its digital gains, foster innovation, and build public 
+      confidence in its transformation journey.
+
+
+
